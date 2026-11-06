@@ -1,0 +1,128 @@
+{
+ "title": "¿Por qué el cielo es azul?",
+ "voice": "em_alex",
+ "speed": 1.0,
+ "lead": 0.4,
+ "outro": 0.9,
+ "gap": 0.28,
+ "music": "bed",
+ "genes": {
+  "cat": "ciencia",
+  "hook": "pregunta-obvia",
+  "pattern": "hook-big-myth-fact-number-path-vs-react-time-danger-list-end"
+ },
+ "sources": [
+  "NASA Space Place, 'Why is the sky blue?'"
+ ],
+ "lines": [
+  {
+   "text": "¿Por qué el cielo es azul y no blanco?",
+   "caps": "¿POR *QUÉ | EL *CIELO | ES *AZUL?",
+   "shot": {
+    "t": "hook",
+    "e": "🌤️"
+   }
+  },
+  {
+   "text": "Pues todo empieza con la luz del sol,",
+   "caps": "PUES TODO *EMPIEZA | LUZ DEL *SOL",
+   "shot": {
+    "t": "big",
+    "e": "☀️",
+    "label": "luz blanca"
+   }
+  },
+  {
+   "text": "que parece blanca, pero no lo es.",
+   "caps": "PARECE *BLANCA | PERO *NO",
+   "shot": {
+    "t": "myth",
+    "e": "⚪",
+    "label": "falso"
+   }
+  },
+  {
+   "text": "En realidad lleva todos los colores del arcoíris.",
+   "caps": "TODOS LOS *COLORES",
+   "shot": {
+    "t": "fact",
+    "e": "🌈"
+   }
+  },
+  {
+   "text": "Y viaja ciento cincuenta millones de kilómetros",
+   "caps": "150 *MILLONES | DE *KILÓMETROS",
+   "shot": {
+    "t": "number",
+    "n": "150",
+    "unit": "millones de km",
+    "e": "🚀"
+   }
+  },
+  {
+   "text": "hasta chocar con el aire de la Tierra.",
+   "caps": "HASTA LA *TIERRA",
+   "shot": {
+    "t": "path",
+    "e": "✨",
+    "e2": "☀️",
+    "e3": "🌍"
+   }
+  },
+  {
+   "text": "Allí, el azul rebota mucho más que el rojo,",
+   "caps": "EL *AZUL | REBOTA *MÁS",
+   "shot": {
+    "t": "vs",
+    "e": "🔵",
+    "e2": "🔴",
+    "label": "rebota",
+    "label2": "pasa"
+   }
+  },
+  {
+   "text": "así que llega a tus ojos desde todas partes.",
+   "caps": "DESDE TODAS *PARTES",
+   "shot": {
+    "t": "react",
+    "e": "💙"
+   }
+  },
+  {
+   "text": "Al atardecer, la luz cruza mucho más aire,",
+   "caps": "AL *ATARDECER",
+   "shot": {
+    "t": "time",
+    "e": "🌇",
+    "label": "más aire"
+   }
+  },
+  {
+   "text": "y el azul se pierde por el camino.",
+   "caps": "EL *AZUL | SE *PIERDE",
+   "shot": {
+    "t": "danger",
+    "e": "🔵",
+    "label": "adiós azul"
+   }
+  },
+  {
+   "text": "Por eso ves naranjas, rojos y rosas.",
+   "caps": "*NARANJAS, | ROJOS Y *ROSAS",
+   "shot": {
+    "t": "list",
+    "e": "🟠",
+    "e2": "🔴",
+    "e3": "🌸"
+   }
+  },
+  {
+   "text": "Y ahora ya sabes por qué el cielo es azul.",
+   "caps": "AHORA YA *SABES",
+   "shot": {
+    "t": "end",
+    "e": "😎"
+   }
+  }
+ ]
+}

@@ -1,0 +1,374 @@
+{
+ "title": "Un oso te pilla en el camping #shorts",
+ "voice": "em_alex",
+ "speed": 1.05,
+ "lead": 0.4,
+ "outro": 0.9,
+ "gap": 0.28,
+ "music": "tension",
+ "sources": [
+  "NPS: Bear safety",
+  "Fundación Oso Pardo"
+ ],
+ "genes": {
+  "cat": "survival",
+  "hook": "imagine",
+  "pattern": "3d-hook-protocol-loop",
+  "len": "long",
+  "viral": "V12",
+  "lang": "es"
+ },
+ "lines": [
+  {
+   "text": "Imagina que un oso te pilla en el camping.",
+   "caps": "*Imagina que un | oso te *pilla | en el *camping.",
+   "shot": {
+    "set": "camping",
+    "cam": "medium",
+    "hud": "DÍA 2 · 07:15 · CAMPING",
+    "who": [
+     {
+      "c": "tu",
+      "hold": "salchicha",
+      "act": "hold"
+     },
+     {
+      "c": "oso",
+      "act": "roar",
+      "enter": true
+     }
+    ],
+    "fx": "shake"
+   }
+  },
+  {
+   "text": "Estás con la salchicha en la mano y el oso, con la mirada fija en ella.",
+   "caps": "*Estás con la | *salchicha en la | *mano y el | *oso, con la | *mirada fija | en *ella.",
+   "shot": {
+    "set": "camping",
+    "cam": "close",
+    "who": [
+     {
+      "c": "tu",
+      "hold": "salchicha",
+      "act": "hold",
+      "mood": "scared"
+     },
+     {
+      "c": "oso"
+     }
+    ],
+    "say": "¿ESO ES MÍO?"
+   }
+  },
+  {
+   "text": "Paso uno. No corras, por favor.",
+   "caps": "*Paso uno. No | *corras, por favor.",
+   "shot": {
+    "cam": "wide",
+    "who": [
+     {
+      "c": "tu",
+      "act": "scared"
+     },
+     {
+      "c": "oso"
+     }
+    ],
+    "pill": "1 · NO CORRAS"
+   }
+  },
+  {
+   "text": "Un oso corre a más de cincuenta kilómetros por hora.",
+   "caps": "Un oso *corre | a *más de | cincuenta *kilómetros | por *hora.",
+   "shot": {
+    "cam": "lado",
+    "who": [
+     {
+      "c": "oso",
+      "act": "run",
+      "x": 0,
+      "z": 0,
+      "ry": 1.57
+     }
+    ],
+    "head": "50 KM/H",
+    "sub": "lo que corre un oso"
+   }
+  },
+  {
+   "text": "Tú no. Ni Usain Bolt llega a esa velocidad.",
+   "caps": "*Tú no. Ni | *Usain Bolt llega | a esa *velocidad.",
+   "shot": {
+    "set": "parque",
+    "cam": "medium",
+    "who": [
+     {
+      "c": "tu",
+      "act": "run",
+      "ry": 1.57
+     }
+    ],
+    "head": "BOLT: 44 KM/H",
+    "sub": "y tú ni de lejos",
+    "card": "error",
+    "cardText": "NI DE COÑA"
+   }
+  },
+  {
+   "text": "Paso dos. Habla con voz tranquila.",
+   "caps": "Paso dos. *Habla | con voz *tranquila.",
+   "shot": {
+    "set": "camping",
+    "cam": "ots",
+    "who": [
+     {
+      "c": "tu",
+      "act": "talk"
+     },
+     {
+      "c": "oso"
+     }
+    ],
+    "pill": "2 · HABLA BAJO"
+   }
+  },
+  {
+   "text": "Que sepa que eres humano, no una foca con mochila.",
+   "caps": "Que *sepa que | eres *humano, no | una *foca | con *mochila.",
+   "shot": {
+    "cam": "close",
+    "who": [
+     {
+      "c": "tu",
+      "act": "wave",
+      "mood": "smile"
+     },
+     {
+      "c": "oso"
+     }
+    ],
+    "say": "SOY HUMANO, TÍO"
+   }
+  },
+  {
+   "text": "Paso tres. Retrocede despacio, sin darle la espalda.",
+   "caps": "Paso tres. *Retrocede | *despacio, sin darle | la *espalda.",
+   "shot": {
+    "cam": "wide",
+    "who": [
+     {
+      "c": "tu",
+      "act": "walk",
+      "mood": "scared"
+     },
+     {
+      "c": "oso"
+     }
+    ],
+    "pill": "3 · RETROCEDE"
+   }
+  },
+  {
+   "text": "Trepar a un árbol es un error. Los osos negros trepan muy bien.",
+   "caps": "*Trepar a un | *árbol es un | *error. Los osos | *negros trepan | muy *bien.",
+   "shot": {
+    "cam": "wide",
+    "props": [
+     {
+      "p": "arbol",
+      "x": -2.4,
+      "z": -2.2,
+      "s": 1.3
+     }
+    ],
+    "who": [
+     {
+      "c": "tu",
+      "act": "jump",
+      "x": -1.2
+     },
+     {
+      "c": "oso",
+      "act": "roar"
+     }
+    ],
+    "card": "error",
+    "cardText": "TREPAR AL ÁRBOL"
+   }
+  },
+  {
+   "text": "Plan valiente. Malísimo, pero valiente.",
+   "caps": "Plan *valiente. Malísimo, | pero *valiente.",
+   "shot": {
+    "cam": "close",
+    "who": [
+     {
+      "c": "tu",
+      "act": "think",
+      "mood": "cool"
+     }
+    ]
+   }
+  },
+  {
+   "text": "Si ataca un oso pardo, tírate al suelo y protege el cuello.",
+   "caps": "Si *ataca un | oso pardo, *tírate | al *suelo y | *protege el cuello.",
+   "shot": {
+    "cam": "top",
+    "who": [
+     {
+      "c": "tu",
+      "act": "lie",
+      "mood": "scared"
+     },
+     {
+      "c": "oso",
+      "x": 1.2,
+      "z": -1.5
+     }
+    ],
+    "pill": "4 · HAZ EL MUERTO",
+    "sub": ""
+   }
+  },
+  {
+   "text": "Y si es negro, pelea con todo lo que tengas. Sí, la hostia.",
+   "caps": "Y *si es | *negro, pelea con | *todo lo que | *tengas. Sí, | la *hostia.",
+   "shot": {
+    "cam": "medium",
+    "who": [
+     {
+      "c": "tu",
+      "act": "celebrate",
+      "mood": "angry"
+     },
+     {
+      "c": "oso",
+      "act": "roar"
+     }
+    ],
+    "card": "ok",
+    "cardText": "SI ES NEGRO: PELEA",
+    "fx": "shake"
+   }
+  },
+  {
+   "text": "Tu mejor arma es el espray de pimienta, no la salchicha.",
+   "caps": "Tu *mejor arma | es el *espray | de *pimienta, no | la *salchicha.",
+   "shot": {
+    "cam": "close",
+    "who": [
+     {
+      "c": "tu",
+      "hold": "espray",
+      "act": "point",
+      "mood": "angry"
+     },
+     {
+      "c": "oso"
+     }
+    ],
+    "pill": "5 · ESPRAY"
+   }
+  },
+  {
+   "text": "Dos horas después, el oso ya se ha ido con tu desayuno.",
+   "caps": "Dos horas *después, | el *oso ya | se ha *ido | con tu *desayuno.",
+   "shot": {
+    "cam": "wide",
+    "hud": "DÍA 2 · 09:30 · CAMPING",
+    "who": [
+     {
+      "c": "tu",
+      "act": "facepalm",
+      "mood": "cry"
+     }
+    ],
+    "props": [
+     {
+      "p": "caja",
+      "x": 1.5,
+      "z": -1
+     }
+    ],
+    "head": "2 HORAS DESPUÉS"
+   }
+  },
+  {
+   "text": "La comida, siempre lejos de la tienda de campaña.",
+   "caps": "La comida, *siempre | *lejos de la | tienda de *campaña.",
+   "shot": {
+    "cam": "medium",
+    "props": [
+     {
+      "p": "nevera",
+      "x": -3.5,
+      "z": -6,
+      "s": 0.8
+     },
+     {
+      "p": "tienda",
+      "x": 2.0,
+      "z": -1.8
+     }
+    ],
+    "who": [
+     {
+      "c": "tu",
+      "act": "point"
+     }
+    ],
+    "card": "ok",
+    "cardText": "COMIDA LEJOS"
+   }
+  },
+  {
+   "text": "Y tú, vivo, sin salchicha y con la dignidad por los suelos.",
+   "caps": "Y tú, *vivo, | sin *salchicha y | con la *dignidad | por los *suelos.",
+   "shot": {
+    "cam": "close",
+    "who": [
+     {
+      "c": "tu",
+      "act": "idle",
+      "mood": "cry"
+     }
+    ]
+   }
+  },
+  {
+   "text": "¿Habrías salido corriendo? Dime la verdad.",
+   "caps": "¿Habrías salido *corriendo? | Dime la *verdad.",
+   "shot": {
+    "cam": "close",
+    "who": [
+     {
+      "c": "tu",
+      "act": "talk",
+      "mood": "cool"
+     }
+    ]
+   }
+  },
+  {
+   "text": "Porque imagina que un oso te pilla en el camping.",
+   "caps": "Porque *imagina que | un *oso te | *pilla en | el *camping.",
+   "shot": {
+    "cam": "medium",
+    "hud": "DÍA 2 · 07:15 · CAMPING",
+    "who": [
+     {
+      "c": "tu",
+      "hold": "salchicha",
+      "act": "hold"
+     },
+     {
+      "c": "oso",
+      "enter": true
+     }
+    ]
+   }
+  }
+ ]
+}
