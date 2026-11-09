@@ -1,0 +1,40 @@
+{
+ "id": "archivo",
+ "nombre": "Archivo",
+ "descripcion": "Expediente de un departamento inventado que te lee reglas de supervivencia para una situación de casa. Pictogramas blancos con halo sobre negro, cinta VHS, voz plana, un dato real por regla.",
+ "niveles": [
+  "gratis",
+  "comunidad"
+ ],
+ "formatos": {
+  "largo": {
+   "niveles": [
+    "gratis",
+    "comunidad"
+   ],
+   "palabras": [
+    800,
+    1300
+   ],
+   "duracion": [
+    360,
+    600
+   ],
+   "estructura": "gancho + apertura del archivo + 5-7 reglas (cada una con su dato) + cierre"
+  }
+ },
+ "ejemplo": "ejemplo-gato",
+ "musica": "dark-tension-eerie-drone--shadowlands-1-horizon.mp3",
+ "musicas": [
+  "dark-tension-eerie-drone--shadowlands-1-horizon.mp3",
+  "mystery-eerie-ambient-drone--penumbra.mp3",
+  "dark-eerie-mysterious--deep-noise.mp3"
+ ],
+ "volumen_musica": 0.05,
+ "cabecera": "ARCHIVO 0XX // {canal}",
+ "render_factor": {
+  "mac": 4,
+  "windows": 13,
+  "_ayuda": "minutos de montaje por cada minuto de vídeo, si este ordenador aún no ha medido el suyo (medido el 27-10-2026; Windows = PC sin tarjeta gráfica)"
+ }
+}

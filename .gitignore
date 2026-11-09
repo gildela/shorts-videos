@@ -1,0 +1,11 @@
+node_modules/
+salida/
+Vídeos listos/
+Pon aquí tu voz/
+config/estado.json
+config/pedido*.json
+config/panel.json
+config/escuchando
+config/claves.env
+__pycache__/
+*.pyc

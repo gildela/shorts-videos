@@ -1,0 +1,33 @@
+LICENCIAS DE LO QUE LLEVA LA FÁBRICA
+====================================
+
+USO DE LA FÁBRICA
+=================
+
+Puedes usarla para hacer y publicar tus propios vídeos, también para monetizarlos.
+No está permitido revenderla, compartirla ni volver a distribuirla, ni usarla para recrear
+lo que es de la Fábrica completa de la comunidad (otros estilos, ideas propias, voz automática o lotes).
+
+MÚSICA
+======
+Los drones del estilo Archivo son de Kevin MacLeod (incompetech.com), licencia Creative Commons BY 4.0:
+hay que citarlos en la descripción del vídeo. El texto exacto de cada crédito está en el CREDITOS.tsv de la música
+de cada estilo (public/estilos/<estilo>/musica/CREDITOS.tsv) y la fábrica lo pone en el .txt que acompaña a cada vídeo.
+
+EFECTOS DE SONIDO
+=================
+Sintetizados para la fábrica (sin licencia que citar). En los estilos de muñecos de palo, tres son grabaciones CC0
+(dominio público) de Freesound: public/estilos/palitos/sfx/CREDITOS.tsv. No hace falta citarlos.
+
+TIPOGRAFÍAS
+===========
+Montserrat (SIL Open Font License 1.1), embebida en el motor. Inter (SIL OFL 1.1) en el panel.
+En los estilos del Club: Poppins, Montserrat y Courier Prime (Cartoon tinta, public/estilos/cartoon-tinta/fuentes/CREDITOS.txt)
+y Cinzel, Cormorant, Special Elite, Oswald, IBM Plex Mono, Caveat e Inter (muñecos de palo, de Google Fonts al montar).
+Todas con licencia SIL OFL 1.1 (o Apache 2.0): uso comercial libre, sin crédito en la descripción.
+
+MOTOR
+=====
+Remotion (licencia de Remotion: gratis para particulares y empresas de hasta 3 personas; consulta remotion.dev/license).
+Three.js (MIT) y React Three Fiber (MIT) para el estilo en 3D.
+Iconos Lucide (ISC). faster-whisper (MIT). ffmpeg (LGPL/GPL, a través de imageio-ffmpeg).
