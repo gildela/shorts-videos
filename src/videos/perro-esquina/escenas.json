@@ -1,34 +1,10 @@
 [
- {
-  "nombre": "Gancho",
-  "en": ""
- },
- {
-  "nombre": "Archivo",
-  "en": ""
- },
- {
-  "nombre": "Regla 1",
-  "en": ""
- },
- {
-  "nombre": "Dato",
-  "en": ""
- },
- {
-  "nombre": "Regla 3",
-  "en": ""
- },
- {
-  "nombre": "Regla 5",
-  "en": ""
- },
- {
-  "nombre": "Giro",
-  "en": ""
- },
- {
-  "nombre": "Cierre",
-  "en": ""
- }
+ { "nombre": "Gancho", "en": "Mirando a una esquina" },
+ { "nombre": "Archivo", "en": "Por favor, sigue" },
+ { "nombre": "Regla 1", "en": "Él los oye" },
+ { "nombre": "Regla 3", "en": "Esos pusieron" },
+ { "nombre": "Dato", "en": "Su cerebro separaba" },
+ { "nombre": "Regla 6", "en": "Muy quieto" },
+ { "nombre": "Giro", "en": "Está entre la esquina" },
+ { "nombre": "Cierre", "en": "todavía levanta" }
 ]
