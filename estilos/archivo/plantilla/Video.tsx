@@ -21,7 +21,8 @@ import { Video as VideoArchivo } from "../../estilos/archivo/Video";
 import { Dormitorio, Interruptor, Mesa } from "../../estilos/archivo/piezas/Casa";
 import { GatoSentado } from "../../estilos/archivo/piezas/Gato";
 import { Empleado, PersonaCama } from "../../estilos/archivo/piezas/Persona";
-import { Cruz, LogoNegociado, TarjetaRegla, TarjetaTitulo } from "../../estilos/archivo/piezas/Interfaz";
+import { Cruz, LogoNegociado, PantallaCTA, TarjetaPregunta, TarjetaRegla, TarjetaTitulo } from "../../estilos/archivo/piezas/Interfaz";
+import { PantallaFinal } from "../../estilos/archivo/piezas/Archivo";
 // La voz y sus tiempos: los deja «fabrica voz-manual» / «fabrica voz» en public/videos/__ID__/.
 import voz from "../../../public/videos/__ID__/voz.tiempos.json";
 
@@ -71,6 +72,21 @@ const planos: Plano[] = [
     ),
   },
 
+  // ── CONSULTA 1 (justo después de la apertura): la pregunta al público, escrita a máquina mientras la voz la dice ──
+  {
+    desde: E("El Negociado necesita un dato"),
+    entra: "glitch",
+    pinta: (t) => (
+      <TarjetaPregunta
+        pregunta="¿A QUÉ HORA TE DESPERTÓ A TI?" // la pregunta tal cual, corta (cabe en dos líneas)
+        // opciones={["MÍO", "LIBRE"]}           // solo en las consultas de «elige uno» (una palabra o un número cada una)
+        k={t}
+        escribeDesde={E("A qué hora") - E("El Negociado necesita un dato")}
+        kOpciones={E("comentarios") - E("El Negociado necesita un dato")}
+      />
+    ),
+  },
+
   // ── REGLA 1: la tarjeta (el título se escribe a máquina cuando la voz lo dice) y después un dibujo por frase ──
   {
     desde: E("Regla número uno"),
@@ -90,7 +106,25 @@ const planos: Plano[] = [
   },
 
   // ── REGLA 2: igual que la 1 (tarjeta con entra: "glitch" + dibujos) ──
-  // ── CIERRE: el último plano aguanta quieto (los ojos, un latido) hasta el apagón ──
+  // ── CIERRE: el empleado, la puerta, «Gracias por su cooperación» (dibujos como siempre) ──
+
+  // ── CTA FINAL (obligatorio): la casilla «SUSCRÍBETE» se marca cuando la voz lo dice ──
+  {
+    desde: E("Queda un trámite"),
+    entra: "glitch",
+    pinta: (t) => (
+      <PantallaCTA
+        k={t}
+        kTick={E("suscríbete al canal") - E("Queda un trámite")}
+        comenta="¿QUÉ PASA EN TU CASA A LAS 3:04?" // la pregunta del CTA, en corto
+        kComenta={E("cuéntanos en los comentarios") - E("Queda un trámite")}
+        siguiente="SIGUIENTE ARCHIVO: 0XX"
+        kSiguiente={E("El próximo archivo") - E("Queda un trámite")}
+      />
+    ),
+  },
+  // ── ÚLTIMA PALABRA: quieta hasta el apagón ──
+  { desde: E("PALABRA FINAL"), pinta: (t) => <PantallaFinal texto="PALABRA FINAL." k={t} /> },
 ];
 
 /** Duración total: la voz más la cola del apagón (no la toques). */

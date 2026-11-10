@@ -430,6 +430,17 @@ def cmd_guion(args):
         avisos.append(f"el guion tiene {len(palabras)} palabras y el formato pide entre {lo} y {hi}")
     if not pausas and e.get("pausas", True):
         avisos.append("no hay ninguna marca [pausa N] (el estilo necesita silencios de 1,5-3 s entre bloques)")
+    # El público: consultas para los comentarios repartidas por el vídeo y un CTA final (GUION.md §6)
+    texto_plano = normal(" ".join(solo_texto))
+    consultas = texto_plano.count("comentarios")
+    minimo = 2 if len(palabras) >= 500 else 1
+    if consultas < minimo + 1:  # las consultas más la pregunta del CTA
+        avisos.append(f"solo hay {consultas} invitación(es) a escribir en los comentarios: pon {minimo} consulta(s) al público y la pregunta del CTA final (GUION.md §6)")
+    final = normal(" ".join(palabras[int(len(palabras) * 0.85):]))
+    if "suscri" not in final:
+        avisos.append("falta el CTA final: «Queda un trámite» + suscribirse al canal + la pregunta para los comentarios, entre el cierre y la última palabra (GUION.md §6)")
+    elif normal(" ".join(palabras[-6:])).count("suscri"):
+        avisos.append("el CTA es lo último que se dice: ponlo antes de la última frase («Pspsps.»), que es la que cierra el vídeo")
     duracion_est = round(len(palabras) / e.get("ppm", PPM) * 60 + sum(pausas))
     estado.poner(paso="guion", formato=nombre_formato, guion={
         "texto_md": (VIDEOS / id_ / "guion.md").read_text(encoding="utf-8"),

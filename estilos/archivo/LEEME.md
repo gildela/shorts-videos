@@ -154,8 +154,8 @@ apagón final suenan solos. Volumen 0,1-0,2 para los blips, 0,3-0,45 para impact
 
 ## 5. Las piezas (`src/estilos/archivo/piezas/`)
 
-Todas van **dentro de `<Lienzo>`** (son SVG) salvo las tarjetas (`TarjetaRegla`, `TarjetaTitulo`, `PantallaFinal`,
-`PantallaPartida`), que ocupan la pantalla entera y van solas en `pinta`. Convención: `(x, y)` es la base en el
+Todas van **dentro de `<Lienzo>`** (son SVG) salvo las tarjetas (`TarjetaRegla`, `TarjetaTitulo`, `TarjetaPregunta`,
+`PantallaCTA`, `PantallaFinal`, `PantallaPartida`), que ocupan la pantalla entera y van solas en `pinta`. Convención: `(x, y)` es la base en el
 suelo para muebles y figuras de pie, el centro para caras y objetos; `k` = segundos desde que aparece (rebote);
 `f` = fotogramas (para colas, parpadeos, temblores); `escala` multiplica el tamaño.
 
@@ -163,6 +163,17 @@ suelo para muebles y figuras de pie, el centro para caras y objetos; `k` = segun
 - `TarjetaRegla n titulo k escribeDesde?` — «REGLA [n]», raya roja, el título escrito a máquina desde el segundo
   `escribeDesde` del plano (ponlo en la palabra en que la voz dice el título), barra 1-7. Pantalla entera.
 - `TarjetaTitulo grande pequeno? k` — «ARCHIVO 017» con subtítulo gris («FELINO DOMÉSTICO»). Pantalla entera.
+- `TarjetaPregunta pregunta k escribeDesde? opciones? kOpciones? pie? rotulo?` — las consultas al público
+  (`GUION.md` §6): «CONSULTA DEL NEGOCIADO», raya roja, la pregunta escrita a máquina desde `escribeDesde` (la palabra
+  en que la voz empieza la pregunta) y, en `kOpciones` (la palabra «comentarios»), las cajas de respuesta
+  (`opciones={["MÍO", "LIBRE"]}`, solo en las de «elige uno») y el pie amarillo «RESPONDE EN LOS COMENTARIOS».
+  Pantalla entera, `entra: "glitch"`. Aguanta mientras dura la consulta; el remate («Las estamos contando») puede ir
+  ya en un dibujo.
+- `PantallaCTA k kTick? comenta? kComenta? siguiente? kSiguiente? accion?="SUSCRÍBETE" rotulo?="TRÁMITE FINAL"` — el
+  CTA final, obligatorio en todos los vídeos: la casilla grande que se marca con un ✓ verde y un impacto en `kTick`
+  (la palabra «suscríbete»), «COMENTA: …» en amarillo en `kComenta` y «SIGUIENTE ARCHIVO: 018» en `kSiguiente`. Va
+  entre el cierre y el último plano (`PantallaFinal`, «PSPSPS.»), con `entra: "glitch"`. Ejemplo en
+  `estilos/archivo/plantilla/Video.tsx`.
 - `EtiquetaTu x y k texto?="TÚ" f?` — etiqueta amarilla con flecha; (x, y) = punta de la flecha. Flota.
 - `Casilla x y estado k tam? num?` — `estado`: `"vacia" | "ok" | "no" | "num" | "interrogante"`.
 - `FilaCasillas x y marcadas k kMarca? n?=7 tam? ultimaInterrogante?` — las 7 casillas; `kMarca` = segundos desde

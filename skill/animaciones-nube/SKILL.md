@@ -23,8 +23,9 @@ Si es la primera vez y el canal es «TU CANAL», pregúntale el nombre de su can
 2. Comprueba el dato central en 2 fuentes fiables (búsqueda web). Nunca inventes una cifra.
 3. `fabrica nuevo <id> --estilo archivo` (id corto: minúsculas y guiones; con `--idea N` si es del banco).
 4. Escribe `src/videos/<id>/guion.md` con la fórmula de `estilos/archivo/GUION.md` (marcas `[pausa N]` en su propia
-   línea) y `src/videos/<id>/fuentes.md`.
-5. `fabrica guion <id>` (cuenta palabras y duración). Corrige si avisa.
+   línea) y `src/videos/<id>/fuentes.md`. **Siempre** con las consultas al público (dos o tres en el largo) y el **CTA
+   final** antes de la última palabra (`GUION.md` §6).
+5. `fabrica guion <id>` (cuenta palabras y duración, y avisa si faltan las consultas o el CTA). Corrige si avisa.
 6. **Pásale el guion al usuario en el hilo** (adjunta `guion.md` copiado a `/mnt/project-files/videos/<id>/`) con la
    duración estimada y pregunta si vale. Si pide cambios, reescribe y repite.
 
@@ -40,14 +41,16 @@ exacto) y devuelve el segundo de cada palabra, así que **no hace falta transcri
 ## 3. Las escenas
 
 1. Lee `src/videos/<id>/transcripcion.txt` y `estilos/archivo/LEEME.md` entero.
-2. Escribe los planos como dice el LEEME (vídeo largo: `comun.tsx` + un archivo por bloque + `Video.tsx`), copiando
+2. Escribe los planos como dice el LEEME (cada consulta con su `TarjetaPregunta` y el CTA con `PantallaCTA`, antes
+   de la `PantallaFinal`) (vídeo largo: `comun.tsx` + un archivo por bloque + `Video.tsx`), copiando
    la estructura de `estilos/archivo/ejemplo/Video.tsx`. Cada plano anclado a una palabra con `E("…")`.
 3. Comprueba bloque a bloque: `npx tsc --noEmit -p .` y `fabrica revisar <id> "s1,s2,…"` (hoja en
    `salida/revisar/<id>/hoja.jpg`; mírala).
 4. `src/videos/<id>/escenas.json`: 6-8 momentos anclados a palabras de la transcripción.
 5. `fabrica fotos <id>` → `salida/<id>/fotogramas/hoja.jpg`. MÍRALA y arregla lo que se pise o no cuadre (máx. 2 vueltas).
 6. Escribe `src/videos/<id>/subir.txt` (1.ª línea título; descripción, capítulos y créditos de
-   `public/estilos/archivo/musica/CREDITOS.tsv`).
+   `public/estilos/archivo/musica/CREDITOS.tsv`). El primer párrafo de la descripción acaba con la pregunta del CTA
+   («Cuéntanos en los comentarios: …»).
 7. Copia la hoja y los fotogramas a `/mnt/project-files/videos/<id>/fotos/` y **adjunta la hoja en el hilo**:
    «¿Me gusta, hago el vídeo, o cambio algo?».
 
@@ -55,7 +58,8 @@ exacto) y devuelve el segundo de cada palabra, así que **no hace falta transcri
 
 Cuando el usuario aprueba: `fabrica render <id>` en segundo plano (en la nube tarda unos 7-8 minutos por minuto de
 vídeo; un vídeo de 8 minutos, alrededor de una hora). El mp4 y su .txt quedan en `/mnt/project-files/Vídeos listos/`.
-Adjunta el mp4 en el hilo con el título y la descripción.
+Adjunta el mp4 en el hilo con el título, la descripción y **el comentario para fijar**: la pregunta del CTA final,
+tal cual, para que el usuario la publique como primer comentario y la fije.
 
 ## 5. Guardar el trabajo
 

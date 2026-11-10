@@ -2,11 +2,12 @@
 
 Formato principal (el de la plantilla gratis): el **LARGO, 800-1300 palabras, de 6 a 10 minutos de vídeo** (a 139
 palabras por minuto más las pausas `[pausa N]` de 1,5-3 s entre bloques). Estructura: gancho → apertura del archivo →
-de cinco a siete reglas (con una o dos fichas de dato comprobado en medio) → giro → cierre. Todo sale del vídeo de
+de cinco a siete reglas (con una o dos fichas de dato comprobado en medio y dos o tres consultas al público) → giro →
+cierre → **CTA final, siempre**. Todo sale del vídeo de
 referencia (Bradikinin, «If Your Cat Ever Watches You Sleep», 6:37): 139 palabras por minuto, frases de 6 palabras de
 media, pausas de 1,5 a 3,8 s tras cada remate, voz plana sin un solo énfasis, siete reglas con la séptima
-«clasificada» y sustos escondidos de dos fotogramas. El guion de muestra entero (8 minutos) está en el §9. El formato
-corto (1:30-1:50) es solo de la comunidad y va al final (§10).
+«clasificada» y sustos escondidos de dos fotogramas. El guion de muestra entero (8 minutos) está en el §10. El formato
+corto (1:40-2:00) es solo de la comunidad y va al final (§11).
 
 ## 1. La fórmula del largo
 
@@ -19,10 +20,13 @@ corto (1:30-1:50) es solo de la comunidad y va al final (§10).
 | **Interludio** (opcional, entre la regla 3 y la 4) | «Cosas que decidiste que eran normales»: tres situaciones cortas sin número, cada una con su remate. Le da aire a la mitad del vídeo. | 60-100 |
 | **Regla clasificada** (opcional, la 7.ª) | «Regla número siete.» `[pausa 2]` «Está sentado encima de la regla siete. Esperaremos.» `[pausa 3]` «Gracias.» El motor corta el drone en seco: silencio digital. | 15-30 |
 | **Giro** (hacia el final, 1-1,5 min antes del cierre) | Lo que da la vuelta al archivo. Elige uno: **la regla que se contradice** (la cinco decía «no te muevas»; la siete de verdad dice «respira hondo, que lo vea»), **la regla que faltaba** («La regla ocho es para la noche en que no lo note»), **«ese fuiste tú»** (el ruido, el aliento, la puerta: eras tú) o **el archivo era sobre ti** («Sujeto: un humano adulto. Responde a su nombre»). Siémbralo antes: una frase de una regla anterior que solo se entiende ahora («Está comprobando algo»). | 60-140 |
-| **Cierre inquietante** | Qué pasó con el archivo o con quien lo escribió, en cuatro o cinco frases secas; la fórmula «Nosotros no escribimos este archivo. Nos pidieron que te lo leyéramos. Gracias por su cooperación.» y una última frase de 1-5 palabras («Pspsps.»). Deja la puerta abierta a otro archivo (en pantalla: «SIGUIENTE ARCHIVO: 018»). | 40-90 |
+| **Consultas al público** (dos o tres, intercaladas; ver §6) | El Negociado le pide al que escucha un dato o una respuesta para los comentarios: «El Negociado necesita un dato. ¿A qué hora te despertó a ti? Escríbela en los comentarios. Las estamos contando.» La primera, justo después de la apertura (antes del minuto 1); la segunda, en la mitad (minuto 3-5, donde la gente se va); la tercera, opcional, es una orden que se cumple en casa («Mira ahora hacia la puerta»). En pantalla: `TarjetaPregunta`. | 20-40 cada una |
+| **Cierre inquietante** | Qué pasó con el archivo o con quien lo escribió, en cuatro o cinco frases secas; la fórmula «Nosotros no escribimos este archivo. Nos pidieron que te lo leyéramos. Gracias por su cooperación.» | 40-90 |
+| **CTA final** (obligatorio, entre el cierre y la última palabra; ver §6) | «Queda un trámite.» + suscribirse al canal dicho como un trámite del Negociado («Si quieres recibir el siguiente archivo, suscríbete al canal. El Negociado avisa primero a los suscriptores.») + la pregunta para los comentarios que conecta con el próximo vídeo («Cuéntanos qué pasa en tu casa a las tres de la madrugada. El próximo archivo puede ser el tuyo.»). Después, la última frase de 1-5 palabras («Pspsps.») y el apagón. En pantalla: `PantallaCTA` (casilla «SUSCRÍBETE» que se marca, «COMENTA: …» y «SIGUIENTE ARCHIVO: 018») y luego `PantallaFinal`. | 35-60 |
 
-Cuentas: un gancho de 90 + apertura de 25 + seis reglas de 100 + una ficha de 60 + giro de 100 + cierre de 70 son
-unas 945 palabras: unos ocho minutos y medio con sus pausas. La estimación de `fabrica guion` (139 por minuto) es
+Cuentas: un gancho de 90 + apertura de 25 + dos consultas de 30 + seis reglas de 100 + una ficha de 60 + giro de 100 +
+cierre de 70 + CTA de 45 son unas 1.050 palabras: unos nueve minutos con sus pausas. Las consultas y el CTA cuentan
+dentro de las 800-1300: si te pasas, acorta una regla, nunca el CTA. La estimación de `fabrica guion` (139 por minuto) es
 prudente: la voz de ElevenLabs suele ir algo más deprisa (el guion de muestra, 1.033 palabras y 83 s de pausas,
 estimaba 8:49 y la voz real dura 8:08).
 
@@ -77,7 +81,7 @@ Las marcas van **en línea propia, entre bloques**, exactamente así (ElevenLabs
 [pausa 3]       después del remate más fuerte de una regla, tras «Esperaremos.» y antes del giro
 ```
 
-En un largo salen de 30 a 45 marcas (el guion de muestra lleva 39 y suman 83 s). `fabrica guion` las convierte en
+En un largo salen de 30 a 50 marcas (el guion de muestra lleva 49 y suman 90 s). `fabrica guion` las convierte en
 `<break time="2.0s" />` para ElevenLabs y las descuenta de las palabras; si la voz no las respeta, `fabrica
 transcribir` mete los silencios en el audio. No pongas puntos suspensivos para hacer pausas largas: los puntos
 suspensivos («Y sobre todo… no le preguntes») son medio segundo; lo demás son marcas.
@@ -93,16 +97,45 @@ El montaje los pone en `Video.tsx`, pero el guion tiene que dejarles sitio:
   final. Nunca en la primera frase.
 - **El apagón final**: la última frase es corta y quieta; tras ella, la cinta se va a negro.
 
-## 6. El tono
+## 6. El público: consultas y CTA final
 
-- **Voz de funcionario que lee un expediente**: plana, sin énfasis, sin preguntas retóricas, sin «¿sabías que…?».
+El que escucha no es solo un sujeto del archivo: el Negociado **le pide cosas**. Esa es la interacción, y siempre se
+hace con la misma voz de funcionario, como un trámite más. Nunca suena a youtuber.
+
+**Las consultas** (dos o tres por largo, una en el corto):
+- **Pregunta de registro**: un dato de su casa que se contesta con pocas palabras. «El Negociado necesita un dato.
+  ¿A qué hora te despertó a ti? Escríbela en los comentarios. Las estamos contando.» Va justo después de la apertura:
+  engancha antes del minuto 1 y llena los comentarios de horas, que es lo que el algoritmo mira.
+- **Elige uno**: dos respuestas cerradas, de una palabra o un número. «¿Tu gato se frota contra ti? Escribe "mío" en
+  los comentarios. Si no lo hace, escribe "libre".» Va en la mitad (minuto 3-5), al acabar una regla o el interludio.
+  Las respuestas tienen que caber en una caja de la pantalla: una palabra o un número.
+- **Orden en casa** (opcional): algo que hace en ese momento, sin escribir nada. «Mira ahora hacia la puerta. No hace
+  falta que nos digas qué hay.» Va antes del giro y lo prepara.
+- Cada consulta acaba con un remate frío que la devuelve al archivo («Las estamos contando.» «Lo revisaremos uno a
+  uno.») y su `[pausa 1.5]`. Nunca dos consultas seguidas ni dentro del gancho.
+- Escríbelas con su título de bloque (`# Consulta: la hora`) para encontrarlas al montar.
+
+**El CTA final** (siempre, en todos los vídeos):
+- Va **después del cierre y antes de la última palabra**: «Gracias por su cooperación.» → CTA → «Pspsps.» → apagón. Así
+  el final inquietante sigue siendo lo último que se oye.
+- Tres piezas, en este orden: **«Queda un trámite.»** · **suscribirse**, con una razón del Negociado («Si quieres
+  recibir el siguiente archivo, suscríbete al canal. El Negociado avisa primero a los suscriptores.») · **la pregunta
+  que abre el próximo vídeo** («Cuéntanos en los comentarios qué pasa en tu casa a las tres de la madrugada. El próximo
+  archivo puede ser el tuyo.»). Entre la segunda y la tercera, `[pausa 1.5]`; después, `[pausa 2]`.
+- La pregunta del CTA es la misma que se fija como primer comentario del vídeo (va en `subir.txt`).
+- 35-60 palabras. Una sola petición de suscripción en todo el vídeo: esta.
+
+## 7. El tono
+
+- **Voz de funcionario que lee un expediente**: plana, sin énfasis, sin preguntas retóricas, sin «¿sabías que…?». Las
+  únicas preguntas son las de las consultas y el CTA (§6), y se dicen igual de planas que todo lo demás.
 - Frío, seco, literal. Las amenazas se dicen como instrucciones de un manual.
 - El humor sale del contraste entre lo absurdo y la seriedad con que se dice. Nunca un guiño.
 - La «cosa» (el gato, el perro, la casa) nunca es mala: es otra, y tiene sus razones. El miedo viene de que las
   razones son reales.
 - En ocho minutos el tono no cambia nunca: ni se acelera en el giro ni se pone solemne en el cierre.
 
-## 7. Prohibido
+## 8. Prohibido
 
 - Nombres de canales, de marcas, de personas reales (salvo el autor de un estudio, en `fuentes.md`).
 - Música que se note, ambientes, gritos, susurros: la voz es siempre la misma.
@@ -112,9 +145,12 @@ El montaje los pone en `Video.tsx`, pero el guion tiene que dejarles sitio:
 - **Más de 1300 palabras**: pasa de 10 minutos y el vídeo se arrastra.
 - **Menos de 800 palabras**: se queda en 5-6 minutos y no da para el giro.
 - **Menos de 5 reglas**: no parece un expediente, parece una anécdota.
-- Explicar la broma, pedir suscripciones, mencionar el vídeo («en este vídeo»).
+- Explicar la broma o mencionar el vídeo («en este vídeo»).
+- Pedir la suscripción fuera del CTA final, o con frases de youtuber: «dale a like», «no olvides suscribirte»,
+  «activa la campanita», «si te ha gustado». El Negociado no pide favores: tramita.
+- Un vídeo sin CTA final.
 
-## 8. Errores típicos
+## 9. Errores típicos
 
 - **Reglas de relleno**: una regla sin dato y sin escalada es un párrafo de más. Si no tienes dato para ella, apóyala
   en el de la regla de al lado («un dato cada dos reglas») o quítala.
@@ -126,15 +162,22 @@ El montaje los pone en `Video.tsx`, pero el guion tiene que dejarles sitio:
   la tres 144.
 - **Cierre largo**: más de 90 palabras después del giro y el final se diluye.
 - **Pausas que faltan**: sin `[pausa]` tras los remates, ocho minutos de voz plana se hacen bola.
+- **Consultas que no se pueden contestar**: «¿Qué opinas del archivo?» no la contesta nadie. Pide un dato de su casa
+  (una hora, un número, una palabra).
+- **El CTA al final del todo**: si lo último que se oye es «suscríbete», el apagón pierde la fuerza. Va antes de la
+  última palabra.
+- **CTA cambiado de tono**: la voz no se anima en el CTA. Misma voz, mismas frases cortas.
 
-## 9. Guion de muestra (8 minutos)
+## 10. Guion de muestra (8 minutos)
 
-El del vídeo largo del gato: **1.033 palabras, 39 pausas (83 s), siete reglas más la ocho, 8:08 de voz.** Archivo 017.
+El del vídeo largo del gato, con sus dos consultas y el CTA final: **1.128 palabras, 49 pausas (90 s), siete reglas más
+la ocho, unos 8:50 de voz.** Archivo 017. (La versión que se grabó, de 8:08, no llevaba las consultas ni el CTA.)
 Fíjate en cómo se reparte: gancho de 94 palabras (0:00-0:44); apertura de 15; reglas de 50 a 144 palabras; el gato
 espía como ficha de dato dentro de la regla tres y las cámaras en 55 gatos dentro de la cuatro; el interludio «Cosas
 que decidiste que eran normales» entre la tres y la cuatro; la regla siete clasificada («Esperaremos.»); el giro «El
 sujeto», sembrado en la regla dos («Está comprobando algo»); la regla siete de verdad, que contradice a la cinco («No
-te muevas» → «respira hondo, que lo vea»), y la regla ocho que falta; el cierre con el empleado y «Pspsps.».
+te muevas» → «respira hondo, que lo vea»), y la regla ocho que falta; el cierre con el empleado; el CTA final («Queda un trámite») y «Pspsps.». Las dos consultas: la hora, justo
+después de la apertura, y «mío / libre» al acabar el interludio.
 
 ```
 # Si tu gato te mira mientras duermes
@@ -158,6 +201,12 @@ Lleva ahí desde que te dormiste. Está ahí todas las noches. Hay siete reglas.
 # Archivo cero diecisiete
 
 Archivo cero diecisiete. Felino doméstico. Negociado de Asuntos Nocturnos. Por favor, sigue todas las instrucciones.
+
+[pausa 1.5]
+
+# Consulta: la hora
+
+Antes de empezar, el Negociado necesita un dato. ¿A qué hora te despertó a ti? Escríbela en los comentarios. Las estamos contando.
 
 [pausa 1.5]
 
@@ -226,6 +275,12 @@ Se cruza delante de tus pies. En la escalera. A oscuras. Ha estado a punto de ma
 Se frota contra tus piernas. Eso no es cariño. Tiene glándulas de olor en la cara. Te está marcando. Para que los demás gatos sepan que ya tienes dueño. Significa: mío.
 
 [pausa 2]
+
+# Consulta: mío o libre
+
+El Negociado necesita confirmarlo. ¿Tu gato se frota contra ti? Escribe «mío» en los comentarios. Si no lo hace, escribe «libre». Lo revisaremos uno a uno.
+
+[pausa 1.5]
 
 # Regla cuatro
 
@@ -355,10 +410,20 @@ Gracias por su cooperación.
 
 [pausa 2]
 
+# Trámite final (CTA)
+
+Queda un trámite. Este archivo no es el único. Si quieres recibir el siguiente, suscríbete al canal. El Negociado avisa primero a los suscriptores.
+
+[pausa 1.5]
+
+Y cuéntanos en los comentarios qué pasa en tu casa a las tres de la madrugada. El próximo archivo puede ser el tuyo.
+
+[pausa 2]
+
 Pspsps.
 ```
 
-## 10. Formato corto (solo comunidad): 170-220 palabras, gancho + 2 reglas + cierre, 1:30-1:50
+## 11. Formato corto (solo comunidad): 190-250 palabras, gancho + 2 reglas + consulta + cierre + CTA, 1:40-2:00
 
 Misma voz, mismas frases, mismas pausas, con este esqueleto:
 
@@ -368,13 +433,16 @@ Misma voz, mismas frases, mismas pausas, con este esqueleto:
 | **Apertura del archivo** | «Archivo cero diecisiete. [Categoría]. Negociado de Asuntos Nocturnos. Hay siete reglas. Casi todos […] ya cumplen seis… sin saberlo.» | 20-25 |
 | **Regla uno** | Orden + amenaza + un dato real (3-5 frases). Remate corto. | 35-45 |
 | **Regla dos** | Orden + explicación con su dato real y la fuente dicha en la voz. | 35-45 |
-| **Cierre inquietante** | Dos o tres frases que dejan la puerta abierta; la última de 3-5 palabras. | 10-15 |
+| **Consulta** (una, entre la regla uno y la dos) | Una pregunta de una palabra o un número para los comentarios, con su remate («Las estamos contando.»). | 15-20 |
+| **Cierre inquietante** | Dos o tres frases que dejan la puerta abierta. | 10-15 |
+| **CTA final** | «Queda un trámite. Suscríbete al canal: el Negociado avisa primero a los suscriptores.» + la pregunta para los comentarios. Luego la última frase, de 3-5 palabras. | 20-30 |
 
-Más de 220 palabras en el corto y la voz se va a dos minutos. La barra de la cabecera sigue enseñando 7 casillas: el
+Más de 250 palabras en el corto y la voz pasa de dos minutos. La barra de la cabecera sigue enseñando 7 casillas: el
 archivo tiene siete, el corto cuenta dos.
 
-Muestra: el guion corto del gato (`ejemplo/guion.md`, 1:38). Ojo: tiene 230 palabras sin las marcas; para un corto
-nuevo quédate en 170-220, con una frase menos por bloque.
+Muestra: el guion corto del gato (`ejemplo/guion.md`, 1:38). Ojo: es de antes de las consultas y el CTA (tiene 230
+palabras sin las marcas y ni consulta ni CTA); para un corto nuevo quédate en 190-250 con una frase menos por bloque y
+añade la consulta y el CTA como dice la tabla.
 
 ```
 # Si tu gato te mira mientras duermes

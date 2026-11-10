@@ -159,6 +159,103 @@ export const TarjetaTitulo: React.FC<{ grande: string; pequeno?: string; k: numb
   </AbsoluteFill>
 );
 
+/**
+ * Consulta al público (pantalla entera): «CONSULTA DEL NEGOCIADO», raya roja, la pregunta escrita a máquina y, debajo,
+ * las respuestas posibles en cajas («ESCRIBE 6» / «ESCRIBE 7») y «RESPONDE EN LOS COMENTARIOS».
+ * `k` = segundos desde que aparece; `escribeDesde` = segundo (del plano) en que empieza a escribirse la pregunta;
+ * `kOpciones` = segundo (del plano) en que salen las cajas y el pie. Va sola en `pinta`, como TarjetaTitulo.
+ */
+export const TarjetaPregunta: React.FC<{ pregunta: string; opciones?: string[]; k: number; escribeDesde?: number; kOpciones?: number; pie?: string; rotulo?: string }> = ({
+  pregunta,
+  opciones = [],
+  k,
+  escribeDesde = 0.5,
+  kOpciones,
+  pie = "RESPONDE EN LOS COMENTARIOS",
+  rotulo = "CONSULTA DEL NEGOCIADO",
+}) => {
+  const ke = k - escribeDesde;
+  const letras = Math.max(0, Math.min(pregunta.length, Math.floor(ke * 22)));
+  const ko = k - (kOpciones ?? escribeDesde + pregunta.length / 22 + 0.4);
+  return (
+    <AbsoluteFill style={{ background: C.fondo, alignItems: "center", justifyContent: "center", pointerEvents: "none" }}>
+      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", opacity: fade(k, 0.15), transform: `scale(${0.94 + 0.06 * pop(k, 0.3)})`, marginTop: -90, maxWidth: 1500 }}>
+        <div style={{ ...mayus, fontSize: 40, fontWeight: 600, letterSpacing: "0.3em", color: C.gris }}>{rotulo}</div>
+        <div style={{ width: 660, height: 7, background: C.rojo, marginTop: 26 }} />
+        <div style={{ ...mayus, marginTop: 40, fontSize: 70, fontWeight: 800, letterSpacing: "0.06em", lineHeight: 1.2, color: C.blanco, textAlign: "center", minHeight: 170, textShadow: "0 0 22px rgba(255,255,255,0.4)" }}>
+          {pregunta.slice(0, letras)}
+          {letras < pregunta.length && ke > 0 && Math.floor(k * 6) % 2 === 0 ? "▌" : ""}
+        </div>
+        {opciones.length ? (
+          <div style={{ display: "flex", gap: 40, marginTop: 34 }}>
+            {opciones.map((o, i) => {
+              const e = pop(ko - i * 0.15);
+              return (
+                <div key={i} style={{ ...mayus, border: `6px solid ${C.blanco}`, borderRadius: 18, padding: "18px 42px", fontSize: 48, fontWeight: 800, letterSpacing: "0.1em", color: C.blanco, opacity: Math.min(1, e), transform: `scale(${e})`, boxShadow: "0 0 18px rgba(255,255,255,0.35)" }}>
+                  {o}
+                </div>
+              );
+            })}
+          </div>
+        ) : null}
+        <div style={{ ...mayus, marginTop: 44, fontSize: 30, fontWeight: 600, letterSpacing: "0.24em", color: C.amarillo, opacity: fade(ko - opciones.length * 0.15, 0.3) }}>{pie}</div>
+      </div>
+      {Array.from({ length: pregunta.length }, (_, i) => (pregunta[i] === " " ? null : <Sequence key={i} from={Math.max(0, Math.round((escribeDesde + i / 22) * FPS))} durationInFrames={4} layout="none"><Audio src={staticFile("estilos/archivo/sfx/tecla.wav")} volume={0.14} /></Sequence>))}
+      <Sequence from={0} durationInFrames={30} layout="none">
+        <Audio src={staticFile("estilos/archivo/sfx/blip.wav")} volume={0.2} />
+      </Sequence>
+    </AbsoluteFill>
+  );
+};
+
+/**
+ * CTA final (pantalla entera), en el idioma del Negociado: «TRÁMITE FINAL», la casilla «SUSCRÍBETE» que se marca con
+ * un ✓ verde cuando la voz lo dice (`kTick`), la consulta para los comentarios (`comenta`, sale en `kComenta`) y
+ * «SIGUIENTE ARCHIVO: 018» (`siguiente`, sale en `kSiguiente`). Todos los `k…` son segundos desde que empieza el plano.
+ * Va sola en `pinta`. Después, el último plano sigue siendo la PantallaFinal («PSPSPS.») y el apagón.
+ */
+export const PantallaCTA: React.FC<{ k: number; accion?: string; kTick?: number; comenta?: string; kComenta?: number; siguiente?: string; kSiguiente?: number; rotulo?: string }> = ({
+  k,
+  accion = "SUSCRÍBETE",
+  kTick = 1.2,
+  comenta,
+  kComenta = 2.5,
+  siguiente,
+  kSiguiente = 4,
+  rotulo = "TRÁMITE FINAL",
+}) => {
+  const kt = k - kTick;
+  const tick = pop(kt);
+  return (
+    <AbsoluteFill style={{ background: C.fondo, alignItems: "center", justifyContent: "center", pointerEvents: "none" }}>
+      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", opacity: fade(k, 0.15), transform: `scale(${0.94 + 0.06 * pop(k, 0.3)})`, marginTop: -80 }}>
+        <div style={{ ...mayus, fontSize: 40, fontWeight: 600, letterSpacing: "0.3em", color: C.gris }}>{rotulo}</div>
+        <div style={{ width: 660, height: 7, background: C.rojo, marginTop: 26 }} />
+        <div style={{ display: "flex", alignItems: "center", gap: 40, marginTop: 50 }}>
+          <div style={{ width: 150, height: 150, borderRadius: 26, border: `10px solid ${C.blanco}`, boxSizing: "border-box", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: "0 0 26px rgba(255,255,255,0.45)" }}>
+            {kt > 0 ? <span style={{ ...mayus, fontSize: 130, fontWeight: 900, color: C.verde, transform: `scale(${tick})`, lineHeight: 1 }}>✓</span> : null}
+          </div>
+          <div style={{ ...mayus, fontSize: 116, fontWeight: 900, letterSpacing: "0.08em", color: C.blanco, textShadow: "0 0 30px rgba(255,255,255,0.45)" }}>{accion}</div>
+        </div>
+        {comenta ? (
+          <div style={{ ...mayus, marginTop: 56, fontSize: 40, fontWeight: 700, letterSpacing: "0.12em", color: C.amarillo, textAlign: "center", maxWidth: 1500, opacity: fade(k - kComenta, 0.3) }}>
+            COMENTA: {comenta}
+          </div>
+        ) : null}
+        {siguiente ? (
+          <div style={{ ...mayus, marginTop: 40, fontSize: 26, fontWeight: 600, letterSpacing: "0.3em", color: C.gris, opacity: fade(k - kSiguiente, 0.3) }}>{siguiente}</div>
+        ) : null}
+      </div>
+      <Sequence from={0} durationInFrames={30} layout="none">
+        <Audio src={staticFile("estilos/archivo/sfx/blip.wav")} volume={0.2} />
+      </Sequence>
+      <Sequence from={Math.max(0, Math.round(kTick * FPS))} durationInFrames={60} layout="none">
+        <Audio src={staticFile("estilos/archivo/sfx/impacto.wav")} volume={0.3} />
+      </Sequence>
+    </AbsoluteFill>
+  );
+};
+
 // ── piezas SVG (van dentro del Lienzo) ──
 
 /** Etiqueta «TÚ» amarilla con su flecha, encima de algo. (x, y) = punta de la flecha. Flota un poco. */
