@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "video-vision": {
+      "command": "node",
+      "args": [".claude/skills/video-vision/mcp-server/dist/index.js"]
+    }
+  }
+}
