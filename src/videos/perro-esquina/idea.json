@@ -1,0 +1,18 @@
+{
+ "estilo": "archivo",
+ "idea": {
+  "n": 7,
+  "estilo": "archivo",
+  "titulo": "Si tu perro ladra a una esquina vacía",
+  "dato": "Un perro oye hasta 45.000 Hz (algunas fuentes dicen más) y tú te quedas en unos 20.000-23.000; además oye sonidos de entre 3.000 y 12.000 Hz a −5 y −15 dB, por debajo de lo que un oído humano detecta: hay ruidos en tu casa que solo oye él.",
+  "fuentes": [
+   "https://lsu.edu/vetmed/deafness/hearingrange.php",
+   "https://www.akc.org/expert-advice/lifestyle/sounds-only-dogs-can-hear/"
+  ],
+  "formato": "largo",
+  "ejemplo": null,
+  "icono": "dog",
+  "bloqueado": false
+ },
+ "formato": "largo"
+}
