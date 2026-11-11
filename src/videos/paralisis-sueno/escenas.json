@@ -1,34 +1,10 @@
 [
- {
-  "nombre": "Gancho",
-  "en": ""
- },
- {
-  "nombre": "Archivo",
-  "en": ""
- },
- {
-  "nombre": "Regla 1",
-  "en": ""
- },
- {
-  "nombre": "Dato",
-  "en": ""
- },
- {
-  "nombre": "Regla 3",
-  "en": ""
- },
- {
-  "nombre": "Regla 5",
-  "en": ""
- },
- {
-  "nombre": "Giro",
-  "en": ""
- },
- {
-  "nombre": "Cierre",
-  "en": ""
- }
+ { "nombre": "Gancho", "en": "hay alguien" },
+ { "nombre": "Dato", "en": "Si estudias" },
+ { "nombre": "Regla 2", "en": "Y algo lo sabe" },
+ { "nombre": "Ficha", "en": "El cuadro se llama" },
+ { "nombre": "Regla 3", "en": "O justo detrás" },
+ { "nombre": "Regla 4", "en": "Hay sitio para sentarse" },
+ { "nombre": "Giro", "en": "La presencia eres tú" },
+ { "nombre": "Cierre", "en": "mira hacia la puerta" }
 ]
