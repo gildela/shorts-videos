@@ -2,10 +2,12 @@
 import * as v_ejemplo_gato from "./ejemplo-gato/Video";
 import * as v_perro_esquina from "./perro-esquina/Video";
 import * as v_paralisis_sueno from "./paralisis-sueno/Video";
+import * as v_pasos_techo from "./pasos-techo/Video";
 
 export const VIDEOS = [
   { id: v_ejemplo_gato.ID, duracion: v_ejemplo_gato.DURACION, Video: v_ejemplo_gato.Video },
   { id: v_perro_esquina.ID, duracion: v_perro_esquina.DURACION, Video: v_perro_esquina.Video },
   { id: v_paralisis_sueno.ID, duracion: v_paralisis_sueno.DURACION, Video: v_paralisis_sueno.Video },
+  { id: v_pasos_techo.ID, duracion: v_pasos_techo.DURACION, Video: v_pasos_techo.Video },
   // ← fabrica nuevo añade aquí
 ];
