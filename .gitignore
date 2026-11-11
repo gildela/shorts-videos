@@ -9,3 +9,5 @@ config/escuchando
 config/claves.env
 __pycache__/
 *.pyc
+public/videos/*/voz_norm.mp3
+public/videos/*/voz_original.mp3
