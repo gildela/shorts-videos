@@ -1,0 +1,18 @@
+{
+ "estilo": "archivo",
+ "idea": {
+  "n": 1,
+  "estilo": "archivo",
+  "titulo": "Si oyes pasos en el techo de noche",
+  "dato": "Un ratón doméstico (unos 15 g) cabe por un hueco de 6 mm, el grosor de un lápiz (CDC; UC IPM), es activo sobre todo de noche y entra en las casas en otoño, cuando las noches se enfrían (UC IPM, Pest Notes 7483, 2025). La rata necesita unos 12 mm.",
+  "fuentes": [
+   "https://www.cdc.gov/healthy-pets/rodent-control/seal-up.html",
+   "https://ipm.ucanr.edu/home-and-landscape/house-mouse/"
+  ],
+  "formato": "largo",
+  "ejemplo": null,
+  "icono": "footprints",
+  "bloqueado": false
+ },
+ "formato": "largo"
+}
