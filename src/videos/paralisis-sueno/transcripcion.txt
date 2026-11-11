@@ -1,0 +1,159 @@
+[   0.00] Son las tres y cuatro minutos de la madrugada.
+[   3.20] Abres los ojos.
+[   4.56] La habitación está igual que siempre.
+[   6.94] Intentas mover la mano.
+[   8.72] La mano no se mueve.
+[  11.38] Y en la puerta…
+[  13.22] hay alguien.
+[  16.32] Si esto te ha pasado alguna vez, este archivo es para ti.
+[  20.28] No grites.
+[  21.38] No luches.
+[  21.90] Y sobre todo…
+[  22.92] no mires hacia la puerta.
+[  25.68] Dura menos de lo que parece.
+[  28.06] Hay siete reglas.
+[  29.66] Casi todos los que lo han vivido ya cumplen seis.
+[  32.70] Nadie os las ha explicado.
+[  36.10] Archivo cero veinte.
+[  37.96] Parálisis del sueño.
+[  39.66] Negociado de Asuntos Nocturnos.
+[  41.66] Por favor, sigue todas las instrucciones.
+[  45.26] Unos investigadores revisaron treinta y cinco estudios en dos mil once.
+[  50.36] Más de treinta y seis mil personas.
+[  53.06] Una de cada trece lo ha vivido al menos una vez.
+[  56.22] Si estudias, casi una de cada tres.
+[  62.10] Antes de empezar, el Negociado necesita un dato.
+[  66.48] ¿Cuántas veces te ha pasado a ti?
+[  68.02] Escribe el número en los comentarios.
+[  71.02] Los estamos contando.
+[  73.64] Regla número uno.
+[  75.30] No intentes gritar.
+[  76.86] Mientras sueñas, tu cerebro apaga tus músculos.
+[  79.82] Todos.
+[  80.34] Así no haces lo que sueñas.
+[  82.28] Solo deja encendidos dos: los ojos y la respiración.
+[  86.78] Esta noche te has despertado antes de tiempo.
+[  89.96] Tu cabeza ya está aquí.
+[  91.68] Tu cuerpo todavía no.
+[  93.10] Abrirás la boca.
+[  94.58] No saldrá nada.
+[  96.62] No es que no te oigan.
+[  97.96] Es que no hay nada que oír.
+[ 102.86] Regla número dos.
+[ 104.44] Respira.
+[ 105.36] Pero no lo intentes.
+[ 106.72] Notarás un peso en el pecho.
+[ 108.66] Como si alguien se hubiera sentado encima.
+[ 111.32] Querrás respirar hondo.
+[ 112.86] No podrás.
+[ 114.76] Tu respiración va sola.
+[ 116.58] Tú no la controlas esta noche.
+[ 118.02] Y algo lo sabe.
+[ 119.88] Está comprobando algo.
+[ 123.42] En mil setecientos ochenta y uno, un pintor suizo pintó a una mujer dormida.
+[ 128.60] Encima de su pecho, sentado, hay un demonio pequeño.
+[ 132.28] El cuadro se llama «La pesadilla».
+[ 135.54] La palabra inglesa para pesadilla viene de «mare».
+[ 138.90] Era un espíritu que se sentaba en el pecho de los que dormían.
+[ 142.78] En México dicen que «se te subió el muerto».
+[ 145.92] Distintos países.
+[ 147.56] El mismo peso.
+[ 151.24] Regla número tres.
+[ 152.98] No mires hacia la puerta.
+[ 155.00] Sabrás que hay alguien.
+[ 156.48] No lo habrás visto.
+[ 158.00] Lo sabrás.
+[ 159.08] Más de la mitad de los que viven esto notan una presencia en la habitación.
+[ 163.24] Casi nunca es una persona.
+[ 166.32] Estará en la puerta.
+[ 167.78] O a los pies de la cama.
+[ 169.66] O justo detrás de tu cabeza, donde no llegan tus ojos.
+[ 173.34] Tus ojos son lo único que puedes mover.
+[ 175.26] Úsalos para otra cosa.
+[ 179.96] El Negociado necesita confirmarlo.
+[ 183.20] ¿Te ha pasado alguna vez?
+[ 184.84] Escribe «quieto» en los comentarios.
+[ 187.22] Si nunca te ha pasado, escribe «todavía».
+[ 190.24] Lo revisaremos uno a uno.
+[ 193.14] Regla número cuatro.
+[ 195.28] Duerme de lado.
+[ 196.54] En dos mil dos, un psicólogo de Canadá preguntó a más de seis mil setecientas personas.
+[ 202.22] Cómo dormían cuando les pasó.
+[ 204.30] La mayoría, boca arriba.
+[ 206.30] Boca arriba era tres o cuatro veces más frecuente que en una noche normal.
+[ 211.66] Boca arriba, la cara queda hacia el techo.
+[ 214.74] El pecho queda libre.
+[ 216.40] Hay sitio para sentarse.
+[ 219.94] Regla número cinco.
+[ 221.38] No luches.
+[ 222.44] Querrás mover un dedo.
+[ 223.88] Luego el brazo entero.
+[ 225.70] Cuanto más empujas, más miedo.
+[ 227.30] Cuanto más miedo, más cerca está.
+[ 230.78] En dos mil dieciséis, un neurocientífico de Cambridge propuso otra cosa.
+[ 236.22] Repetirte que es la parálisis del sueño.
+[ 239.02] Que no es peligrosa.
+[ 240.54] Relajar los músculos.
+[ 242.28] No controlar la respiración.
+[ 244.34] Y no intentar moverse bajo ningún concepto.
+[ 248.26] Él no hace nada si tú no haces nada.
+[ 250.98] Lo hemos comprobado.
+[ 253.82] Regla número seis.
+[ 255.54] Cuenta.
+[ 256.30] Esto dura unos segundos.
+[ 257.88] Como mucho, un par de minutos.
+[ 259.94] A ti te parecerá una hora.
+[ 262.70] Cuenta despacio.
+[ 263.98] Uno.
+[ 264.54] Dos.
+[ 265.18] Tres.
+[ 265.94] Casi nadie llega a sesenta.
+[ 267.62] En algún número, la mano vuelve a moverse.
+[ 270.32] La puerta vuelve a estar vacía.
+[ 272.98] No preguntes en qué número se fue.
+[ 275.78] Siempre es el mismo.
+[ 278.80] Regla número siete.
+[ 283.39] Está sentado encima de la regla siete.
+[ 287.18] Esperaremos.
+[ 290.62] Gracias.
+[ 292.84] Seis reglas.
+[ 295.90] No has roto ninguna.
+[ 297.18] Nadie te las dio.
+[ 298.32] Alguien sí.
+[ 300.88] Este archivo no va sobre la presencia.
+[ 305.00] En dos mil catorce, en Suiza, un robot tocaba la espalda de unos voluntarios.
+[ 311.04] Lo hacía con medio segundo de retraso respecto a sus propias manos.
+[ 314.98] Uno de cada tres notó a alguien detrás.
+[ 318.14] Dos pidieron parar.
+[ 320.68] No había nadie detrás.
+[ 322.40] Era su propio cuerpo.
+[ 324.12] Llegando tarde.
+[ 326.80] Sujeto: un humano adulto.
+[ 329.20] Medio despierto.
+[ 330.54] Medio dormido.
+[ 331.62] Su cerebro ve un cuerpo quieto y no lo reconoce.
+[ 335.54] La presencia eres tú.
+[ 340.10] Regla número siete.
+[ 342.04] Cuando notes que hay alguien, no le tengas miedo.
+[ 345.30] Es la parte de ti que se quedó despierta.
+[ 347.88] Vigilando que respiras.
+[ 350.72] La regla ocho es para la noche en que esa parte también se duerma.
+[ 355.62] Sigue sentada encima de esa.
+[ 361.12] El empleado que escribió este archivo dormía boca arriba.
+[ 364.46] Una noche de marzo no pudo moverse.
+[ 366.94] Duró cuarenta segundos.
+[ 369.02] A la mañana siguiente pidió el turno de noche.
+[ 373.02] Desde entonces no duerme.
+[ 375.12] Escribe.
+[ 376.42] A las tres y cuatro minutos, mira hacia la puerta.
+[ 379.56] Dice que todavía no ha vuelto nadie.
+[ 383.24] Nosotros no escribimos este archivo.
+[ 386.14] Nos pidieron que te lo leyéramos.
+[ 389.92] Gracias por su cooperación.
+[ 393.90] Queda un trámite.
+[ 395.96] Este archivo no es el único.
+[ 398.12] Si quieres recibir el siguiente, suscríbete al canal.
+[ 402.04] El Negociado avisa primero a los suscriptores.
+[ 405.96] Y cuéntanos en los comentarios qué viste tú cuando no podías moverte.
+[ 410.86] El próximo archivo puede ser el tuyo.
+[ 415.52] Respira.
