@@ -1,0 +1,4813 @@
+{
+ "duracion": 399.99,
+ "capitulos": [],
+ "frases": [
+  {
+   "texto": "Son las tres y cuatro minutos de la madrugada.",
+   "ini": 0.0,
+   "fin": 2.72
+  },
+  {
+   "texto": "Abres los ojos.",
+   "ini": 3.16,
+   "fin": 4.08
+  },
+  {
+   "texto": "No ha sonado nada.",
+   "ini": 4.62,
+   "fin": 5.58
+  },
+  {
+   "texto": "La casa está en silencio.",
+   "ini": 6.1,
+   "fin": 7.38
+  },
+  {
+   "texto": "Y tú estás completamente despierto.",
+   "ini": 7.86,
+   "fin": 9.76
+  },
+  {
+   "texto": "Ayer también.",
+   "ini": 11.24,
+   "fin": 11.94
+  },
+  {
+   "texto": "Y anteayer.",
+   "ini": 12.58,
+   "fin": 13.42
+  },
+  {
+   "texto": "A la misma hora.",
+   "ini": 13.42,
+   "fin": 14.02
+  },
+  {
+   "texto": "Si esto te ha pasado alguna vez, este archivo es para ti.",
+   "ini": 16.0,
+   "fin": 19.32
+  },
+  {
+   "texto": "No mires el reloj.",
+   "ini": 19.82,
+   "fin": 20.92
+  },
+  {
+   "texto": "No enciendas la luz.",
+   "ini": 21.38,
+   "fin": 22.4
+  },
+  {
+   "texto": "Y sobre todo…",
+   "ini": 22.74,
+   "fin": 23.24
+  },
+  {
+   "texto": "no intentes volver a dormirte todavía.",
+   "ini": 23.84,
+   "fin": 25.82
+  },
+  {
+   "texto": "Te despierta a la misma hora desde hace semanas.",
+   "ini": 27.32,
+   "fin": 30.34
+  },
+  {
+   "texto": "Hay siete reglas.",
+   "ini": 30.34,
+   "fin": 32.54
+  },
+  {
+   "texto": "Casi todos los que se despiertan a las tres ya cumplen seis.",
+   "ini": 32.54,
+   "fin": 36.46
+  },
+  {
+   "texto": "Nadie os las ha explicado.",
+   "ini": 36.46,
+   "fin": 38.58
+  },
+  {
+   "texto": "Archivo cero diecinueve.",
+   "ini": 40.58,
+   "fin": 43.64
+  },
+  {
+   "texto": "Vigilia doméstica.",
+   "ini": 43.64,
+   "fin": 45.16
+  },
+  {
+   "texto": "Negociado de Asuntos Nocturnos.",
+   "ini": 45.16,
+   "fin": 47.66
+  },
+  {
+   "texto": "Por favor, sigue todas las instrucciones.",
+   "ini": 47.66,
+   "fin": 50.34
+  },
+  {
+   "texto": "Antes de empezar, el Negociado necesita un dato.",
+   "ini": 51.84,
+   "fin": 56.34
+  },
+  {
+   "texto": "¿A qué hora te despiertas tú?",
+   "ini": 57.04,
+   "fin": 58.38
+  },
+  {
+   "texto": "Escríbela en los comentarios.",
+   "ini": 59.06,
+   "fin": 60.38
+  },
+  {
+   "texto": "Las estamos contando.",
+   "ini": 61.14,
+   "fin": 62.18
+  },
+  {
+   "texto": "Regla número uno.",
+   "ini": 63.74,
+   "fin": 65.12
+  },
+  {
+   "texto": "No mires el reloj.",
+   "ini": 65.12,
+   "fin": 66.14
+  },
+  {
+   "texto": "Tu sueño va por vueltas.",
+   "ini": 66.44,
+   "fin": 67.82
+  },
+  {
+   "texto": "Cada vuelta dura unos noventa minutos.",
+   "ini": 68.38,
+   "fin": 70.38
+  },
+  {
+   "texto": "Al final de cada una, el sueño se vuelve fino.",
+   "ini": 70.72,
+   "fin": 73.38
+  },
+  {
+   "texto": "Casi transparente.",
+   "ini": 73.86,
+   "fin": 74.88
+  },
+  {
+   "texto": "Te despiertas varias veces cada noche.",
+   "ini": 76.18,
+   "fin": 78.28
+  },
+  {
+   "texto": "Nunca te acuerdas.",
+   "ini": 78.9,
+   "fin": 79.84
+  },
+  {
+   "texto": "Esta vez sí.",
+   "ini": 80.4,
+   "fin": 81.16
+  },
+  {
+   "texto": "Porque has mirado el reloj.",
+   "ini": 81.66,
+   "fin": 83.0
+  },
+  {
+   "texto": "Ahora la hora sabe que la has visto.",
+   "ini": 84.5,
+   "fin": 86.64
+  },
+  {
+   "texto": "Mañana vendrá a buscarte a la misma.",
+   "ini": 87.62,
+   "fin": 89.52
+  },
+  {
+   "texto": "Regla número dos.",
+   "ini": 93.1,
+   "fin": 94.1
+  },
+  {
+   "texto": "No pienses que eres el único.",
+   "ini": 94.1,
+   "fin": 96.18
+  },
+  {
+   "texto": "Unos investigadores preguntaron a ocho mil novecientas treinta y siete personas.",
+   "ini": 97.02,
+   "fin": 101.82
+  },
+  {
+   "texto": "Más de un tercio se despertaba al menos tres noches por semana.",
+   "ini": 102.3,
+   "fin": 105.72
+  },
+  {
+   "texto": "Ahora mismo hay muchas casas despiertas.",
+   "ini": 107.22,
+   "fin": 110.0
+  },
+  {
+   "texto": "Con la luz apagada.",
+   "ini": 110.0,
+   "fin": 111.36
+  },
+  {
+   "texto": "Mirando al techo.",
+   "ini": 111.36,
+   "fin": 112.86
+  },
+  {
+   "texto": "Ninguna sabe de las otras.",
+   "ini": 112.86,
+   "fin": 114.58
+  },
+  {
+   "texto": "Solo nosotros.",
+   "ini": 116.08,
+   "fin": 118.46
+  },
+  {
+   "texto": "Tenemos una lista.",
+   "ini": 118.46,
+   "fin": 119.82
+  },
+  {
+   "texto": "Las estamos contando.",
+   "ini": 119.82,
+   "fin": 121.66
+  },
+  {
+   "texto": "Regla número tres.",
+   "ini": 123.66,
+   "fin": 126.56
+  },
+  {
+   "texto": "Si tienes frío, no subas la manta.",
+   "ini": 126.56,
+   "fin": 129.14
+  },
+  {
+   "texto": "A esta hora tu cuerpo llega a su punto más frío del día.",
+   "ini": 129.14,
+   "fin": 132.46
+  },
+  {
+   "texto": "Baja casi un grado.",
+   "ini": 132.46,
+   "fin": 134.08
+  },
+  {
+   "texto": "Sin que hagas nada.",
+   "ini": 134.08,
+   "fin": 135.4
+  },
+  {
+   "texto": "Lo hace cada noche, unas horas antes de despertar.",
+   "ini": 135.4,
+   "fin": 138.76
+  },
+  {
+   "texto": "No es la casa.",
+   "ini": 140.26,
+   "fin": 141.34
+  },
+  {
+   "texto": "No es la ventana.",
+   "ini": 141.82,
+   "fin": 142.52
+  },
+  {
+   "texto": "Eres tú, enfriándote.",
+   "ini": 143.24,
+   "fin": 144.44
+  },
+  {
+   "texto": "Tu cuerpo se está preparando para algo.",
+   "ini": 145.06,
+   "fin": 146.82
+  },
+  {
+   "texto": "Un historiador buscó en diarios, cartas y juicios antiguos.",
+   "ini": 148.78,
+   "fin": 152.66
+  },
+  {
+   "texto": "Encontró más de quinientas menciones a lo mismo.",
+   "ini": 152.98,
+   "fin": 155.82
+  },
+  {
+   "texto": "El primer sueño.",
+   "ini": 156.26,
+   "fin": 157.2
+  },
+  {
+   "texto": "Y el segundo sueño.",
+   "ini": 157.2,
+   "fin": 158.68
+  },
+  {
+   "texto": "Durante siglos, la gente se dormía al anochecer.",
+   "ini": 160.06,
+   "fin": 163.44
+  },
+  {
+   "texto": "Pasada la medianoche, se despertaba.",
+   "ini": 163.44,
+   "fin": 165.78
+  },
+  {
+   "texto": "Una hora.",
+   "ini": 166.04,
+   "fin": 166.5
+  },
+  {
+   "texto": "A veces dos.",
+   "ini": 166.5,
+   "fin": 167.32
+  },
+  {
+   "texto": "Rezaban.",
+   "ini": 167.84,
+   "fin": 168.32
+  },
+  {
+   "texto": "Avivaban el fuego.",
+   "ini": 168.76,
+   "fin": 169.62
+  },
+  {
+   "texto": "Visitaban a los vecinos.",
+   "ini": 170.08,
+   "fin": 171.18
+  },
+  {
+   "texto": "Luego volvían a la cama.",
+   "ini": 171.7,
+   "fin": 172.76
+  },
+  {
+   "texto": "Nadie lo llamaba insomnio.",
+   "ini": 174.2,
+   "fin": 175.7
+  },
+  {
+   "texto": "Era un turno.",
+   "ini": 176.22,
+   "fin": 177.22
+  },
+  {
+   "texto": "El Negociado necesita confirmarlo.",
+   "ini": 180.22,
+   "fin": 182.82
+  },
+  {
+   "texto": "¿Te vuelves a dormir enseguida?",
+   "ini": 183.54,
+   "fin": 184.88
+  },
+  {
+   "texto": "Escribe «vuelvo» en los comentarios.",
+   "ini": 185.88,
+   "fin": 187.32
+  },
+  {
+   "texto": "Si te quedas despierto, escribe «guardia».",
+   "ini": 188.18,
+   "fin": 190.42
+  },
+  {
+   "texto": "Lo revisaremos uno a uno.",
+   "ini": 191.1,
+   "fin": 193.7
+  },
+  {
+   "texto": "Regla número cuatro.",
+   "ini": 195.2,
+   "fin": 197.2
+  },
+  {
+   "texto": "No enciendas la luz del pasillo.",
+   "ini": 197.2,
+   "fin": 198.86
+  },
+  {
+   "texto": "En mil novecientos noventa y dos, un científico encerró a unos voluntarios con catorce horas de oscuridad al día.",
+   "ini": 199.58,
+   "fin": 206.56
+  },
+  {
+   "texto": "Durante un mes.",
+   "ini": 206.98,
+   "fin": 207.84
+  },
+  {
+   "texto": "Al cabo de unas semanas, su sueño se partió en dos.",
+   "ini": 209.4,
+   "fin": 212.42
+  },
+  {
+   "texto": "Cuatro horas dormidos.",
+   "ini": 212.82,
+   "fin": 213.9
+  },
+  {
+   "texto": "Una, dos o tres horas despiertos, en calma.",
+   "ini": 214.26,
+   "fin": 217.18
+  },
+  {
+   "texto": "Otras cuatro horas dormidos.",
+   "ini": 217.18,
+   "fin": 220.58
+  },
+  {
+   "texto": "Nadie se lo pidió.",
+   "ini": 222.08,
+   "fin": 223.38
+  },
+  {
+   "texto": "El cuerpo se acordó solo.",
+   "ini": 223.88,
+   "fin": 225.3
+  },
+  {
+   "texto": "La luz es lo único que te lo hacía olvidar.",
+   "ini": 225.7,
+   "fin": 228.06
+  },
+  {
+   "texto": "Regla número cinco.",
+   "ini": 229.9,
+   "fin": 231.02
+  },
+  {
+   "texto": "A las tres y cuatro, escucha la casa.",
+   "ini": 231.58,
+   "fin": 233.68
+  },
+  {
+   "texto": "Primero cruje la madera.",
+   "ini": 234.22,
+   "fin": 235.24
+  },
+  {
+   "texto": "Luego la nevera.",
+   "ini": 235.56,
+   "fin": 236.46
+  },
+  {
+   "texto": "Luego algo en el pasillo.",
+   "ini": 236.78,
+   "fin": 238.1
+  },
+  {
+   "texto": "Despacio.",
+   "ini": 238.5,
+   "fin": 239.0
+  },
+  {
+   "texto": "Hacia tu puerta.",
+   "ini": 239.44,
+   "fin": 240.14
+  },
+  {
+   "texto": "Se para delante.",
+   "ini": 241.64,
+   "fin": 244.78
+  },
+  {
+   "texto": "No entra.",
+   "ini": 244.78,
+   "fin": 245.06
+  },
+  {
+   "texto": "Espera.",
+   "ini": 245.52,
+   "fin": 245.96
+  },
+  {
+   "texto": "Tú tampoco te mueves.",
+   "ini": 246.3,
+   "fin": 247.32
+  },
+  {
+   "texto": "Alguien hacía esa ronda antes que tú.",
+   "ini": 247.7,
+   "fin": 249.48
+  },
+  {
+   "texto": "Regla número seis.",
+   "ini": 251.46,
+   "fin": 253.32
+  },
+  {
+   "texto": "Si hay alguien más despierto, no le preguntes por qué.",
+   "ini": 253.32,
+   "fin": 256.36
+  },
+  {
+   "texto": "Lo sabrás por la luz bajo su puerta.",
+   "ini": 256.88,
+   "fin": 258.76
+  },
+  {
+   "texto": "O por el ruido de un vaso en la cocina.",
+   "ini": 259.48,
+   "fin": 261.4
+  },
+  {
+   "texto": "Está haciendo lo mismo que tú.",
+   "ini": 261.96,
+   "fin": 263.44
+  },
+  {
+   "texto": "Mañana, en el desayuno, dirá que ha dormido bien.",
+   "ini": 264.86,
+   "fin": 268.04
+  },
+  {
+   "texto": "Tú también lo dirás.",
+   "ini": 268.64,
+   "fin": 269.72
+  },
+  {
+   "texto": "Los dos sabéis que no es verdad.",
+   "ini": 269.72,
+   "fin": 271.78
+  },
+  {
+   "texto": "Nadie pregunta nada.",
+   "ini": 272.28,
+   "fin": 273.18
+  },
+  {
+   "texto": "Regla número siete.",
+   "ini": 275.0,
+   "fin": 277.94
+  },
+  {
+   "texto": "La regla siete todavía no se ha despertado.",
+   "ini": 279.94,
+   "fin": 282.76
+  },
+  {
+   "texto": "Esperaremos.",
+   "ini": 283.48,
+   "fin": 284.16
+  },
+  {
+   "texto": "Gracias.",
+   "ini": 286.96,
+   "fin": 287.64
+  },
+  {
+   "texto": "Seis reglas.",
+   "ini": 289.14,
+   "fin": 292.3
+  },
+  {
+   "texto": "No has roto ninguna.",
+   "ini": 292.6,
+   "fin": 293.32
+  },
+  {
+   "texto": "Nadie te las dio.",
+   "ini": 293.88,
+   "fin": 294.68
+  },
+  {
+   "texto": "Alguien sí.",
+   "ini": 295.1,
+   "fin": 295.62
+  },
+  {
+   "texto": "Este archivo no va sobre la hora.",
+   "ini": 297.62,
+   "fin": 300.08
+  },
+  {
+   "texto": "Sujeto: un humano adulto.",
+   "ini": 301.62,
+   "fin": 303.66
+  },
+  {
+   "texto": "Duerme de un tirón.",
+   "ini": 303.66,
+   "fin": 304.88
+  },
+  {
+   "texto": "Con la luz del móvil.",
+   "ini": 304.88,
+   "fin": 305.9
+  },
+  {
+   "texto": "Nunca hace la ronda.",
+   "ini": 306.26,
+   "fin": 307.34
+  },
+  {
+   "texto": "Tu casa no está acostumbrada a eso.",
+   "ini": 308.8,
+   "fin": 311.02
+  },
+  {
+   "texto": "Durante siglos, en cada casa había alguien despierto a las tres.",
+   "ini": 312.86,
+   "fin": 316.8
+  },
+  {
+   "texto": "Avivaba el fuego.",
+   "ini": 317.22,
+   "fin": 317.98
+  },
+  {
+   "texto": "Miraba la puerta.",
+   "ini": 318.66,
+   "fin": 319.28
+  },
+  {
+   "texto": "Escuchaba.",
+   "ini": 319.84,
+   "fin": 320.44
+  },
+  {
+   "texto": "Tu casa todavía lo espera.",
+   "ini": 321.04,
+   "fin": 322.42
+  },
+  {
+   "texto": "Por eso te despierta a ti.",
+   "ini": 322.94,
+   "fin": 324.22
+  },
+  {
+   "texto": "Regla número siete.",
+   "ini": 327.12,
+   "fin": 328.72
+  },
+  {
+   "texto": "Cuando te despiertes a las tres, no mires el reloj.",
+   "ini": 328.72,
+   "fin": 331.52
+  },
+  {
+   "texto": "Levántate.",
+   "ini": 331.84,
+   "fin": 332.36
+  },
+  {
+   "texto": "Da una vuelta por la casa.",
+   "ini": 332.88,
+   "fin": 334.04
+  },
+  {
+   "texto": "Comprueba la puerta.",
+   "ini": 334.72,
+   "fin": 335.66
+  },
+  {
+   "texto": "Vuelve a la cama.",
+   "ini": 336.14,
+   "fin": 336.76
+  },
+  {
+   "texto": "Es tu turno.",
+   "ini": 337.22,
+   "fin": 337.96
+  },
+  {
+   "texto": "La regla ocho es para la noche en que te levantes y la ronda ya esté hecha.",
+   "ini": 339.4,
+   "fin": 344.28
+  },
+  {
+   "texto": "El empleado que escribió este archivo se despertaba a las tres cada noche.",
+   "ini": 346.28,
+   "fin": 350.48
+  },
+  {
+   "texto": "Hacía la ronda.",
+   "ini": 351.08,
+   "fin": 351.92
+  },
+  {
+   "texto": "Una noche de marzo, durmió de un tirón.",
+   "ini": 352.84,
+   "fin": 355.0
+  },
+  {
+   "texto": "A la mañana siguiente, su puerta estaba cerrada con llave.",
+   "ini": 356.44,
+   "fin": 359.94
+  },
+  {
+   "texto": "Por dentro.",
+   "ini": 360.4,
+   "fin": 360.9
+  },
+  {
+   "texto": "Y la ronda estaba hecha.",
+   "ini": 361.42,
+   "fin": 362.76
+  },
+  {
+   "texto": "Nosotros no escribimos este archivo.",
+   "ini": 364.78,
+   "fin": 367.4
+  },
+  {
+   "texto": "Nos pidieron que te lo leyéramos.",
+   "ini": 367.4,
+   "fin": 369.46
+  },
+  {
+   "texto": "Gracias por su cooperación.",
+   "ini": 371.74,
+   "fin": 373.42
+  },
+  {
+   "texto": "Queda un trámite.",
+   "ini": 375.18,
+   "fin": 376.32
+  },
+  {
+   "texto": "Este archivo no es el único.",
+   "ini": 377.38,
+   "fin": 379.0
+  },
+  {
+   "texto": "Si quieres recibir el siguiente, suscríbete al canal.",
+   "ini": 379.5,
+   "fin": 382.16
+  },
+  {
+   "texto": "El Negociado avisa primero a los suscriptores.",
+   "ini": 382.96,
+   "fin": 385.48
+  },
+  {
+   "texto": "Y cuéntanos en los comentarios qué haces tú cuando te despiertas a las tres.",
+   "ini": 386.98,
+   "fin": 391.64
+  },
+  {
+   "texto": "El próximo archivo puede ser el tuyo.",
+   "ini": 391.64,
+   "fin": 395.82
+  },
+  {
+   "texto": "Buenas noches.",
+   "ini": 397.82,
+   "fin": 399.2
+  }
+ ],
+ "palabras": [
+  {
+   "p": "Son",
+   "ini": 0.0,
+   "fin": 0.38
+  },
+  {
+   "p": "las",
+   "ini": 0.38,
+   "fin": 0.56
+  },
+  {
+   "p": "tres",
+   "ini": 0.56,
+   "fin": 0.82
+  },
+  {
+   "p": "y",
+   "ini": 0.82,
+   "fin": 1.12
+  },
+  {
+   "p": "cuatro",
+   "ini": 1.12,
+   "fin": 1.4
+  },
+  {
+   "p": "minutos",
+   "ini": 1.4,
+   "fin": 1.88
+  },
+  {
+   "p": "de",
+   "ini": 1.88,
+   "fin": 2.12
+  },
+  {
+   "p": "la",
+   "ini": 2.12,
+   "fin": 2.22
+  },
+  {
+   "p": "madrugada.",
+   "ini": 2.22,
+   "fin": 2.72
+  },
+  {
+   "p": "Abres",
+   "ini": 3.16,
+   "fin": 3.5
+  },
+  {
+   "p": "los",
+   "ini": 3.5,
+   "fin": 3.7
+  },
+  {
+   "p": "ojos.",
+   "ini": 3.7,
+   "fin": 4.08
+  },
+  {
+   "p": "No",
+   "ini": 4.62,
+   "fin": 4.76
+  },
+  {
+   "p": "ha",
+   "ini": 4.76,
+   "fin": 4.96
+  },
+  {
+   "p": "sonado",
+   "ini": 4.96,
+   "fin": 5.28
+  },
+  {
+   "p": "nada.",
+   "ini": 5.28,
+   "fin": 5.58
+  },
+  {
+   "p": "La",
+   "ini": 6.1,
+   "fin": 6.24
+  },
+  {
+   "p": "casa",
+   "ini": 6.24,
+   "fin": 6.48
+  },
+  {
+   "p": "está",
+   "ini": 6.48,
+   "fin": 6.74
+  },
+  {
+   "p": "en",
+   "ini": 6.74,
+   "fin": 6.88
+  },
+  {
+   "p": "silencio.",
+   "ini": 6.88,
+   "fin": 7.38
+  },
+  {
+   "p": "Y",
+   "ini": 7.86,
+   "fin": 7.92
+  },
+  {
+   "p": "tú",
+   "ini": 7.92,
+   "fin": 8.06
+  },
+  {
+   "p": "estás",
+   "ini": 8.06,
+   "fin": 8.32
+  },
+  {
+   "p": "completamente",
+   "ini": 8.32,
+   "fin": 9.1
+  },
+  {
+   "p": "despierto.",
+   "ini": 9.1,
+   "fin": 9.76
+  },
+  {
+   "p": "Ayer",
+   "ini": 11.24,
+   "fin": 11.58
+  },
+  {
+   "p": "también.",
+   "ini": 11.58,
+   "fin": 11.94
+  },
+  {
+   "p": "Y",
+   "ini": 12.58,
+   "fin": 12.66
+  },
+  {
+   "p": "anteayer.",
+   "ini": 12.66,
+   "fin": 13.42
+  },
+  {
+   "p": "A",
+   "ini": 13.42,
+   "fin": 13.48
+  },
+  {
+   "p": "la",
+   "ini": 13.48,
+   "fin": 13.52
+  },
+  {
+   "p": "misma",
+   "ini": 13.52,
+   "fin": 13.74
+  },
+  {
+   "p": "hora.",
+   "ini": 13.74,
+   "fin": 14.02
+  },
+  {
+   "p": "Si",
+   "ini": 16.0,
+   "fin": 16.28
+  },
+  {
+   "p": "esto",
+   "ini": 16.28,
+   "fin": 16.5
+  },
+  {
+   "p": "te",
+   "ini": 16.5,
+   "fin": 16.66
+  },
+  {
+   "p": "ha",
+   "ini": 16.66,
+   "fin": 16.7
+  },
+  {
+   "p": "pasado",
+   "ini": 16.7,
+   "fin": 16.98
+  },
+  {
+   "p": "alguna",
+   "ini": 16.98,
+   "fin": 17.28
+  },
+  {
+   "p": "vez,",
+   "ini": 17.28,
+   "fin": 17.68
+  },
+  {
+   "p": "este",
+   "ini": 18.02,
+   "fin": 18.2
+  },
+  {
+   "p": "archivo",
+   "ini": 18.2,
+   "fin": 18.66
+  },
+  {
+   "p": "es",
+   "ini": 18.66,
+   "fin": 18.86
+  },
+  {
+   "p": "para",
+   "ini": 18.86,
+   "fin": 19.1
+  },
+  {
+   "p": "ti.",
+   "ini": 19.1,
+   "fin": 19.32
+  },
+  {
+   "p": "No",
+   "ini": 19.82,
+   "fin": 20.0
+  },
+  {
+   "p": "mires",
+   "ini": 20.0,
+   "fin": 20.32
+  },
+  {
+   "p": "el",
+   "ini": 20.32,
+   "fin": 20.5
+  },
+  {
+   "p": "reloj.",
+   "ini": 20.5,
+   "fin": 20.92
+  },
+  {
+   "p": "No",
+   "ini": 21.38,
+   "fin": 21.48
+  },
+  {
+   "p": "enciendas",
+   "ini": 21.48,
+   "fin": 21.92
+  },
+  {
+   "p": "la",
+   "ini": 21.92,
+   "fin": 22.14
+  },
+  {
+   "p": "luz.",
+   "ini": 22.14,
+   "fin": 22.4
+  },
+  {
+   "p": "Y",
+   "ini": 22.74,
+   "fin": 22.8
+  },
+  {
+   "p": "sobre",
+   "ini": 22.8,
+   "fin": 22.98
+  },
+  {
+   "p": "todo…",
+   "ini": 22.98,
+   "fin": 23.24
+  },
+  {
+   "p": "no",
+   "ini": 23.84,
+   "fin": 24.02
+  },
+  {
+   "p": "intentes",
+   "ini": 24.02,
+   "fin": 24.54
+  },
+  {
+   "p": "volver",
+   "ini": 24.54,
+   "fin": 24.78
+  },
+  {
+   "p": "a",
+   "ini": 24.78,
+   "fin": 25.0
+  },
+  {
+   "p": "dormirte",
+   "ini": 25.0,
+   "fin": 25.5
+  },
+  {
+   "p": "todavía.",
+   "ini": 25.5,
+   "fin": 25.82
+  },
+  {
+   "p": "Te",
+   "ini": 27.32,
+   "fin": 28.04
+  },
+  {
+   "p": "despierta",
+   "ini": 28.04,
+   "fin": 28.64
+  },
+  {
+   "p": "a",
+   "ini": 28.64,
+   "fin": 28.74
+  },
+  {
+   "p": "la",
+   "ini": 28.74,
+   "fin": 28.8
+  },
+  {
+   "p": "misma",
+   "ini": 28.8,
+   "fin": 29.08
+  },
+  {
+   "p": "hora",
+   "ini": 29.08,
+   "fin": 29.4
+  },
+  {
+   "p": "desde",
+   "ini": 29.4,
+   "fin": 29.64
+  },
+  {
+   "p": "hace",
+   "ini": 29.64,
+   "fin": 29.92
+  },
+  {
+   "p": "semanas.",
+   "ini": 29.92,
+   "fin": 30.34
+  },
+  {
+   "p": "Hay",
+   "ini": 30.34,
+   "fin": 31.76
+  },
+  {
+   "p": "siete",
+   "ini": 31.76,
+   "fin": 32.08
+  },
+  {
+   "p": "reglas.",
+   "ini": 32.08,
+   "fin": 32.54
+  },
+  {
+   "p": "Casi",
+   "ini": 32.54,
+   "fin": 33.32
+  },
+  {
+   "p": "todos",
+   "ini": 33.32,
+   "fin": 33.68
+  },
+  {
+   "p": "los",
+   "ini": 33.68,
+   "fin": 33.98
+  },
+  {
+   "p": "que",
+   "ini": 33.98,
+   "fin": 34.12
+  },
+  {
+   "p": "se",
+   "ini": 34.12,
+   "fin": 34.26
+  },
+  {
+   "p": "despiertan",
+   "ini": 34.26,
+   "fin": 34.82
+  },
+  {
+   "p": "a",
+   "ini": 34.82,
+   "fin": 34.96
+  },
+  {
+   "p": "las",
+   "ini": 34.96,
+   "fin": 35.1
+  },
+  {
+   "p": "tres",
+   "ini": 35.1,
+   "fin": 35.38
+  },
+  {
+   "p": "ya",
+   "ini": 35.38,
+   "fin": 35.7
+  },
+  {
+   "p": "cumplen",
+   "ini": 35.7,
+   "fin": 36.14
+  },
+  {
+   "p": "seis.",
+   "ini": 36.14,
+   "fin": 36.46
+  },
+  {
+   "p": "Nadie",
+   "ini": 36.46,
+   "fin": 37.22
+  },
+  {
+   "p": "os",
+   "ini": 37.22,
+   "fin": 37.42
+  },
+  {
+   "p": "las",
+   "ini": 37.42,
+   "fin": 37.54
+  },
+  {
+   "p": "ha",
+   "ini": 37.54,
+   "fin": 37.68
+  },
+  {
+   "p": "explicado.",
+   "ini": 37.68,
+   "fin": 38.58
+  },
+  {
+   "p": "Archivo",
+   "ini": 40.58,
+   "fin": 42.74
+  },
+  {
+   "p": "cero",
+   "ini": 42.74,
+   "fin": 43.19
+  },
+  {
+   "p": "diecinueve.",
+   "ini": 43.19,
+   "fin": 43.64
+  },
+  {
+   "p": "Vigilia",
+   "ini": 43.64,
+   "fin": 44.5
+  },
+  {
+   "p": "doméstica.",
+   "ini": 44.5,
+   "fin": 45.16
+  },
+  {
+   "p": "Negociado",
+   "ini": 45.16,
+   "fin": 46.32
+  },
+  {
+   "p": "de",
+   "ini": 46.32,
+   "fin": 46.5
+  },
+  {
+   "p": "Asuntos",
+   "ini": 46.5,
+   "fin": 46.98
+  },
+  {
+   "p": "Nocturnos.",
+   "ini": 46.98,
+   "fin": 47.66
+  },
+  {
+   "p": "Por",
+   "ini": 47.66,
+   "fin": 48.1
+  },
+  {
+   "p": "favor,",
+   "ini": 48.1,
+   "fin": 48.4
+  },
+  {
+   "p": "sigue",
+   "ini": 48.4,
+   "fin": 49.1
+  },
+  {
+   "p": "todas",
+   "ini": 49.1,
+   "fin": 49.44
+  },
+  {
+   "p": "las",
+   "ini": 49.44,
+   "fin": 49.7
+  },
+  {
+   "p": "instrucciones.",
+   "ini": 49.7,
+   "fin": 50.34
+  },
+  {
+   "p": "Antes",
+   "ini": 51.84,
+   "fin": 53.74
+  },
+  {
+   "p": "de",
+   "ini": 53.74,
+   "fin": 53.9
+  },
+  {
+   "p": "empezar,",
+   "ini": 53.9,
+   "fin": 54.26
+  },
+  {
+   "p": "el",
+   "ini": 54.26,
+   "fin": 54.8
+  },
+  {
+   "p": "Negociado",
+   "ini": 54.8,
+   "fin": 55.4
+  },
+  {
+   "p": "necesita",
+   "ini": 55.4,
+   "fin": 55.72
+  },
+  {
+   "p": "un",
+   "ini": 55.72,
+   "fin": 56.12
+  },
+  {
+   "p": "dato.",
+   "ini": 56.12,
+   "fin": 56.34
+  },
+  {
+   "p": "¿A",
+   "ini": 57.04,
+   "fin": 57.22
+  },
+  {
+   "p": "qué",
+   "ini": 57.22,
+   "fin": 57.38
+  },
+  {
+   "p": "hora",
+   "ini": 57.38,
+   "fin": 57.5
+  },
+  {
+   "p": "te",
+   "ini": 57.5,
+   "fin": 57.64
+  },
+  {
+   "p": "despiertas",
+   "ini": 57.64,
+   "fin": 58.18
+  },
+  {
+   "p": "tú?",
+   "ini": 58.18,
+   "fin": 58.38
+  },
+  {
+   "p": "Escríbela",
+   "ini": 59.06,
+   "fin": 59.66
+  },
+  {
+   "p": "en",
+   "ini": 59.66,
+   "fin": 59.78
+  },
+  {
+   "p": "los",
+   "ini": 59.78,
+   "fin": 59.92
+  },
+  {
+   "p": "comentarios.",
+   "ini": 59.92,
+   "fin": 60.38
+  },
+  {
+   "p": "Las",
+   "ini": 61.14,
+   "fin": 61.26
+  },
+  {
+   "p": "estamos",
+   "ini": 61.26,
+   "fin": 61.62
+  },
+  {
+   "p": "contando.",
+   "ini": 61.62,
+   "fin": 62.18
+  },
+  {
+   "p": "Regla",
+   "ini": 63.74,
+   "fin": 64.08
+  },
+  {
+   "p": "número",
+   "ini": 64.08,
+   "fin": 64.28
+  },
+  {
+   "p": "uno.",
+   "ini": 64.28,
+   "fin": 65.12
+  },
+  {
+   "p": "No",
+   "ini": 65.12,
+   "fin": 65.24
+  },
+  {
+   "p": "mires",
+   "ini": 65.24,
+   "fin": 65.54
+  },
+  {
+   "p": "el",
+   "ini": 65.54,
+   "fin": 65.7
+  },
+  {
+   "p": "reloj.",
+   "ini": 65.7,
+   "fin": 66.14
+  },
+  {
+   "p": "Tu",
+   "ini": 66.44,
+   "fin": 66.54
+  },
+  {
+   "p": "sueño",
+   "ini": 66.54,
+   "fin": 66.92
+  },
+  {
+   "p": "va",
+   "ini": 66.92,
+   "fin": 67.16
+  },
+  {
+   "p": "por",
+   "ini": 67.16,
+   "fin": 67.36
+  },
+  {
+   "p": "vueltas.",
+   "ini": 67.36,
+   "fin": 67.82
+  },
+  {
+   "p": "Cada",
+   "ini": 68.38,
+   "fin": 68.6
+  },
+  {
+   "p": "vuelta",
+   "ini": 68.6,
+   "fin": 68.86
+  },
+  {
+   "p": "dura",
+   "ini": 68.86,
+   "fin": 69.26
+  },
+  {
+   "p": "unos",
+   "ini": 69.26,
+   "fin": 69.54
+  },
+  {
+   "p": "noventa",
+   "ini": 69.54,
+   "fin": 69.88
+  },
+  {
+   "p": "minutos.",
+   "ini": 69.88,
+   "fin": 70.38
+  },
+  {
+   "p": "Al",
+   "ini": 70.72,
+   "fin": 70.88
+  },
+  {
+   "p": "final",
+   "ini": 70.88,
+   "fin": 71.1
+  },
+  {
+   "p": "de",
+   "ini": 71.1,
+   "fin": 71.26
+  },
+  {
+   "p": "cada",
+   "ini": 71.26,
+   "fin": 71.4
+  },
+  {
+   "p": "una,",
+   "ini": 71.4,
+   "fin": 71.68
+  },
+  {
+   "p": "el",
+   "ini": 72.06,
+   "fin": 72.26
+  },
+  {
+   "p": "sueño",
+   "ini": 72.26,
+   "fin": 72.6
+  },
+  {
+   "p": "se",
+   "ini": 72.6,
+   "fin": 72.8
+  },
+  {
+   "p": "vuelve",
+   "ini": 72.8,
+   "fin": 73.1
+  },
+  {
+   "p": "fino.",
+   "ini": 73.1,
+   "fin": 73.38
+  },
+  {
+   "p": "Casi",
+   "ini": 73.86,
+   "fin": 74.12
+  },
+  {
+   "p": "transparente.",
+   "ini": 74.12,
+   "fin": 74.88
+  },
+  {
+   "p": "Te",
+   "ini": 76.18,
+   "fin": 76.48
+  },
+  {
+   "p": "despiertas",
+   "ini": 76.48,
+   "fin": 77.1
+  },
+  {
+   "p": "varias",
+   "ini": 77.1,
+   "fin": 77.3
+  },
+  {
+   "p": "veces",
+   "ini": 77.3,
+   "fin": 77.72
+  },
+  {
+   "p": "cada",
+   "ini": 77.72,
+   "fin": 77.94
+  },
+  {
+   "p": "noche.",
+   "ini": 77.94,
+   "fin": 78.28
+  },
+  {
+   "p": "Nunca",
+   "ini": 78.9,
+   "fin": 79.24
+  },
+  {
+   "p": "te",
+   "ini": 79.24,
+   "fin": 79.38
+  },
+  {
+   "p": "acuerdas.",
+   "ini": 79.38,
+   "fin": 79.84
+  },
+  {
+   "p": "Esta",
+   "ini": 80.4,
+   "fin": 80.7
+  },
+  {
+   "p": "vez",
+   "ini": 80.7,
+   "fin": 80.92
+  },
+  {
+   "p": "sí.",
+   "ini": 80.92,
+   "fin": 81.16
+  },
+  {
+   "p": "Porque",
+   "ini": 81.66,
+   "fin": 81.9
+  },
+  {
+   "p": "has",
+   "ini": 81.9,
+   "fin": 82.14
+  },
+  {
+   "p": "mirado",
+   "ini": 82.14,
+   "fin": 82.46
+  },
+  {
+   "p": "el",
+   "ini": 82.46,
+   "fin": 82.6
+  },
+  {
+   "p": "reloj.",
+   "ini": 82.6,
+   "fin": 83.0
+  },
+  {
+   "p": "Ahora",
+   "ini": 84.5,
+   "fin": 85.18
+  },
+  {
+   "p": "la",
+   "ini": 85.18,
+   "fin": 85.38
+  },
+  {
+   "p": "hora",
+   "ini": 85.38,
+   "fin": 85.58
+  },
+  {
+   "p": "sabe",
+   "ini": 85.58,
+   "fin": 85.9
+  },
+  {
+   "p": "que",
+   "ini": 85.9,
+   "fin": 86.08
+  },
+  {
+   "p": "la",
+   "ini": 86.08,
+   "fin": 86.22
+  },
+  {
+   "p": "has",
+   "ini": 86.22,
+   "fin": 86.4
+  },
+  {
+   "p": "visto.",
+   "ini": 86.4,
+   "fin": 86.64
+  },
+  {
+   "p": "Mañana",
+   "ini": 87.62,
+   "fin": 88.12
+  },
+  {
+   "p": "vendrá",
+   "ini": 88.12,
+   "fin": 88.52
+  },
+  {
+   "p": "a",
+   "ini": 88.52,
+   "fin": 88.6
+  },
+  {
+   "p": "buscarte",
+   "ini": 88.6,
+   "fin": 89.04
+  },
+  {
+   "p": "a",
+   "ini": 89.04,
+   "fin": 89.2
+  },
+  {
+   "p": "la",
+   "ini": 89.2,
+   "fin": 89.26
+  },
+  {
+   "p": "misma.",
+   "ini": 89.26,
+   "fin": 89.52
+  },
+  {
+   "p": "Regla",
+   "ini": 93.1,
+   "fin": 93.44
+  },
+  {
+   "p": "número",
+   "ini": 93.44,
+   "fin": 93.62
+  },
+  {
+   "p": "dos.",
+   "ini": 93.62,
+   "fin": 94.1
+  },
+  {
+   "p": "No",
+   "ini": 94.1,
+   "fin": 94.78
+  },
+  {
+   "p": "pienses",
+   "ini": 94.78,
+   "fin": 95.2
+  },
+  {
+   "p": "que",
+   "ini": 95.2,
+   "fin": 95.48
+  },
+  {
+   "p": "eres",
+   "ini": 95.48,
+   "fin": 95.72
+  },
+  {
+   "p": "el",
+   "ini": 95.72,
+   "fin": 95.88
+  },
+  {
+   "p": "único.",
+   "ini": 95.88,
+   "fin": 96.18
+  },
+  {
+   "p": "Unos",
+   "ini": 97.02,
+   "fin": 97.52
+  },
+  {
+   "p": "investigadores",
+   "ini": 97.52,
+   "fin": 98.22
+  },
+  {
+   "p": "preguntaron",
+   "ini": 98.22,
+   "fin": 98.94
+  },
+  {
+   "p": "a",
+   "ini": 98.94,
+   "fin": 99.14
+  },
+  {
+   "p": "ocho",
+   "ini": 99.14,
+   "fin": 99.51
+  },
+  {
+   "p": "mil",
+   "ini": 99.51,
+   "fin": 99.87
+  },
+  {
+   "p": "novecientas",
+   "ini": 99.87,
+   "fin": 100.24
+  },
+  {
+   "p": "treinta",
+   "ini": 100.24,
+   "fin": 100.61
+  },
+  {
+   "p": "y",
+   "ini": 100.61,
+   "fin": 100.97
+  },
+  {
+   "p": "siete",
+   "ini": 100.97,
+   "fin": 101.34
+  },
+  {
+   "p": "personas.",
+   "ini": 101.34,
+   "fin": 101.82
+  },
+  {
+   "p": "Más",
+   "ini": 102.3,
+   "fin": 102.46
+  },
+  {
+   "p": "de",
+   "ini": 102.46,
+   "fin": 102.58
+  },
+  {
+   "p": "un",
+   "ini": 102.58,
+   "fin": 102.7
+  },
+  {
+   "p": "tercio",
+   "ini": 102.7,
+   "fin": 103.08
+  },
+  {
+   "p": "se",
+   "ini": 103.08,
+   "fin": 103.28
+  },
+  {
+   "p": "despertaba",
+   "ini": 103.28,
+   "fin": 103.88
+  },
+  {
+   "p": "al",
+   "ini": 103.88,
+   "fin": 104.2
+  },
+  {
+   "p": "menos",
+   "ini": 104.2,
+   "fin": 104.44
+  },
+  {
+   "p": "tres",
+   "ini": 104.44,
+   "fin": 104.78
+  },
+  {
+   "p": "noches",
+   "ini": 104.78,
+   "fin": 105.22
+  },
+  {
+   "p": "por",
+   "ini": 105.22,
+   "fin": 105.44
+  },
+  {
+   "p": "semana.",
+   "ini": 105.44,
+   "fin": 105.72
+  },
+  {
+   "p": "Ahora",
+   "ini": 107.22,
+   "fin": 107.9
+  },
+  {
+   "p": "mismo",
+   "ini": 107.9,
+   "fin": 108.28
+  },
+  {
+   "p": "hay",
+   "ini": 108.28,
+   "fin": 108.48
+  },
+  {
+   "p": "muchas",
+   "ini": 108.48,
+   "fin": 108.84
+  },
+  {
+   "p": "casas",
+   "ini": 108.84,
+   "fin": 109.24
+  },
+  {
+   "p": "despiertas.",
+   "ini": 109.24,
+   "fin": 110.0
+  },
+  {
+   "p": "Con",
+   "ini": 110.0,
+   "fin": 110.46
+  },
+  {
+   "p": "la",
+   "ini": 110.46,
+   "fin": 110.6
+  },
+  {
+   "p": "luz",
+   "ini": 110.6,
+   "fin": 110.82
+  },
+  {
+   "p": "apagada.",
+   "ini": 110.82,
+   "fin": 111.36
+  },
+  {
+   "p": "Mirando",
+   "ini": 111.36,
+   "fin": 112.26
+  },
+  {
+   "p": "al",
+   "ini": 112.26,
+   "fin": 112.46
+  },
+  {
+   "p": "techo.",
+   "ini": 112.46,
+   "fin": 112.86
+  },
+  {
+   "p": "Ninguna",
+   "ini": 112.86,
+   "fin": 113.68
+  },
+  {
+   "p": "sabe",
+   "ini": 113.68,
+   "fin": 114.02
+  },
+  {
+   "p": "de",
+   "ini": 114.02,
+   "fin": 114.16
+  },
+  {
+   "p": "las",
+   "ini": 114.16,
+   "fin": 114.32
+  },
+  {
+   "p": "otras.",
+   "ini": 114.32,
+   "fin": 114.58
+  },
+  {
+   "p": "Solo",
+   "ini": 116.08,
+   "fin": 117.98
+  },
+  {
+   "p": "nosotros.",
+   "ini": 117.98,
+   "fin": 118.46
+  },
+  {
+   "p": "Tenemos",
+   "ini": 118.46,
+   "fin": 119.18
+  },
+  {
+   "p": "una",
+   "ini": 119.18,
+   "fin": 119.5
+  },
+  {
+   "p": "lista.",
+   "ini": 119.5,
+   "fin": 119.82
+  },
+  {
+   "p": "Las",
+   "ini": 119.82,
+   "fin": 120.52
+  },
+  {
+   "p": "estamos",
+   "ini": 120.52,
+   "fin": 120.88
+  },
+  {
+   "p": "contando.",
+   "ini": 120.88,
+   "fin": 121.66
+  },
+  {
+   "p": "Regla",
+   "ini": 123.66,
+   "fin": 125.88
+  },
+  {
+   "p": "número",
+   "ini": 125.88,
+   "fin": 126.08
+  },
+  {
+   "p": "tres.",
+   "ini": 126.08,
+   "fin": 126.56
+  },
+  {
+   "p": "Si",
+   "ini": 126.56,
+   "fin": 127.24
+  },
+  {
+   "p": "tienes",
+   "ini": 127.24,
+   "fin": 127.48
+  },
+  {
+   "p": "frío,",
+   "ini": 127.48,
+   "fin": 127.86
+  },
+  {
+   "p": "no",
+   "ini": 127.86,
+   "fin": 128.4
+  },
+  {
+   "p": "subas",
+   "ini": 128.4,
+   "fin": 128.74
+  },
+  {
+   "p": "la",
+   "ini": 128.74,
+   "fin": 128.86
+  },
+  {
+   "p": "manta.",
+   "ini": 128.86,
+   "fin": 129.14
+  },
+  {
+   "p": "A",
+   "ini": 129.14,
+   "fin": 129.82
+  },
+  {
+   "p": "esta",
+   "ini": 129.82,
+   "fin": 130.02
+  },
+  {
+   "p": "hora",
+   "ini": 130.02,
+   "fin": 130.22
+  },
+  {
+   "p": "tu",
+   "ini": 130.22,
+   "fin": 130.4
+  },
+  {
+   "p": "cuerpo",
+   "ini": 130.4,
+   "fin": 130.64
+  },
+  {
+   "p": "llega",
+   "ini": 130.64,
+   "fin": 130.94
+  },
+  {
+   "p": "a",
+   "ini": 130.94,
+   "fin": 131.08
+  },
+  {
+   "p": "su",
+   "ini": 131.08,
+   "fin": 131.16
+  },
+  {
+   "p": "punto",
+   "ini": 131.16,
+   "fin": 131.44
+  },
+  {
+   "p": "más",
+   "ini": 131.44,
+   "fin": 131.72
+  },
+  {
+   "p": "frío",
+   "ini": 131.72,
+   "fin": 132.02
+  },
+  {
+   "p": "del",
+   "ini": 132.02,
+   "fin": 132.2
+  },
+  {
+   "p": "día.",
+   "ini": 132.2,
+   "fin": 132.46
+  },
+  {
+   "p": "Baja",
+   "ini": 132.46,
+   "fin": 133.24
+  },
+  {
+   "p": "casi",
+   "ini": 133.24,
+   "fin": 133.6
+  },
+  {
+   "p": "un",
+   "ini": 133.6,
+   "fin": 133.74
+  },
+  {
+   "p": "grado.",
+   "ini": 133.74,
+   "fin": 134.08
+  },
+  {
+   "p": "Sin",
+   "ini": 134.08,
+   "fin": 134.8
+  },
+  {
+   "p": "que",
+   "ini": 134.8,
+   "fin": 134.94
+  },
+  {
+   "p": "hagas",
+   "ini": 134.94,
+   "fin": 135.18
+  },
+  {
+   "p": "nada.",
+   "ini": 135.18,
+   "fin": 135.4
+  },
+  {
+   "p": "Lo",
+   "ini": 135.4,
+   "fin": 136.14
+  },
+  {
+   "p": "hace",
+   "ini": 136.14,
+   "fin": 136.3
+  },
+  {
+   "p": "cada",
+   "ini": 136.3,
+   "fin": 136.48
+  },
+  {
+   "p": "noche,",
+   "ini": 136.48,
+   "fin": 136.8
+  },
+  {
+   "p": "unas",
+   "ini": 136.8,
+   "fin": 137.52
+  },
+  {
+   "p": "horas",
+   "ini": 137.52,
+   "fin": 137.72
+  },
+  {
+   "p": "antes",
+   "ini": 137.72,
+   "fin": 138.02
+  },
+  {
+   "p": "de",
+   "ini": 138.02,
+   "fin": 138.2
+  },
+  {
+   "p": "despertar.",
+   "ini": 138.2,
+   "fin": 138.76
+  },
+  {
+   "p": "No",
+   "ini": 140.26,
+   "fin": 140.82
+  },
+  {
+   "p": "es",
+   "ini": 140.82,
+   "fin": 140.96
+  },
+  {
+   "p": "la",
+   "ini": 140.96,
+   "fin": 141.1
+  },
+  {
+   "p": "casa.",
+   "ini": 141.1,
+   "fin": 141.34
+  },
+  {
+   "p": "No",
+   "ini": 141.82,
+   "fin": 141.96
+  },
+  {
+   "p": "es",
+   "ini": 141.96,
+   "fin": 142.06
+  },
+  {
+   "p": "la",
+   "ini": 142.06,
+   "fin": 142.18
+  },
+  {
+   "p": "ventana.",
+   "ini": 142.18,
+   "fin": 142.52
+  },
+  {
+   "p": "Eres",
+   "ini": 143.24,
+   "fin": 143.5
+  },
+  {
+   "p": "tú,",
+   "ini": 143.5,
+   "fin": 143.76
+  },
+  {
+   "p": "enfriándote.",
+   "ini": 143.76,
+   "fin": 144.44
+  },
+  {
+   "p": "Tu",
+   "ini": 145.06,
+   "fin": 145.16
+  },
+  {
+   "p": "cuerpo",
+   "ini": 145.16,
+   "fin": 145.52
+  },
+  {
+   "p": "se",
+   "ini": 145.52,
+   "fin": 145.7
+  },
+  {
+   "p": "está",
+   "ini": 145.7,
+   "fin": 145.9
+  },
+  {
+   "p": "preparando",
+   "ini": 145.9,
+   "fin": 146.38
+  },
+  {
+   "p": "para",
+   "ini": 146.38,
+   "fin": 146.56
+  },
+  {
+   "p": "algo.",
+   "ini": 146.56,
+   "fin": 146.82
+  },
+  {
+   "p": "Un",
+   "ini": 148.78,
+   "fin": 149.02
+  },
+  {
+   "p": "historiador",
+   "ini": 149.02,
+   "fin": 149.58
+  },
+  {
+   "p": "buscó",
+   "ini": 149.58,
+   "fin": 150.12
+  },
+  {
+   "p": "en",
+   "ini": 150.12,
+   "fin": 150.28
+  },
+  {
+   "p": "diarios,",
+   "ini": 150.28,
+   "fin": 150.68
+  },
+  {
+   "p": "cartas",
+   "ini": 151.06,
+   "fin": 151.5
+  },
+  {
+   "p": "y",
+   "ini": 151.5,
+   "fin": 151.64
+  },
+  {
+   "p": "juicios",
+   "ini": 151.64,
+   "fin": 151.96
+  },
+  {
+   "p": "antiguos.",
+   "ini": 151.96,
+   "fin": 152.66
+  },
+  {
+   "p": "Encontró",
+   "ini": 152.98,
+   "fin": 153.54
+  },
+  {
+   "p": "más",
+   "ini": 153.54,
+   "fin": 153.8
+  },
+  {
+   "p": "de",
+   "ini": 153.8,
+   "fin": 154.04
+  },
+  {
+   "p": "quinientas",
+   "ini": 154.04,
+   "fin": 154.34
+  },
+  {
+   "p": "menciones",
+   "ini": 154.34,
+   "fin": 155.22
+  },
+  {
+   "p": "a",
+   "ini": 155.22,
+   "fin": 155.5
+  },
+  {
+   "p": "lo",
+   "ini": 155.5,
+   "fin": 155.54
+  },
+  {
+   "p": "mismo.",
+   "ini": 155.54,
+   "fin": 155.82
+  },
+  {
+   "p": "El",
+   "ini": 156.26,
+   "fin": 156.4
+  },
+  {
+   "p": "primer",
+   "ini": 156.4,
+   "fin": 156.68
+  },
+  {
+   "p": "sueño.",
+   "ini": 156.68,
+   "fin": 157.2
+  },
+  {
+   "p": "Y",
+   "ini": 157.2,
+   "fin": 157.7
+  },
+  {
+   "p": "el",
+   "ini": 157.7,
+   "fin": 157.84
+  },
+  {
+   "p": "segundo",
+   "ini": 157.84,
+   "fin": 158.22
+  },
+  {
+   "p": "sueño.",
+   "ini": 158.22,
+   "fin": 158.68
+  },
+  {
+   "p": "Durante",
+   "ini": 160.06,
+   "fin": 160.62
+  },
+  {
+   "p": "siglos,",
+   "ini": 160.62,
+   "fin": 161.02
+  },
+  {
+   "p": "la",
+   "ini": 161.4,
+   "fin": 161.52
+  },
+  {
+   "p": "gente",
+   "ini": 161.52,
+   "fin": 161.76
+  },
+  {
+   "p": "se",
+   "ini": 161.76,
+   "fin": 161.94
+  },
+  {
+   "p": "dormía",
+   "ini": 161.94,
+   "fin": 162.32
+  },
+  {
+   "p": "al",
+   "ini": 162.32,
+   "fin": 162.88
+  },
+  {
+   "p": "anochecer.",
+   "ini": 162.88,
+   "fin": 163.44
+  },
+  {
+   "p": "Pasada",
+   "ini": 163.44,
+   "fin": 163.8
+  },
+  {
+   "p": "la",
+   "ini": 163.8,
+   "fin": 163.9
+  },
+  {
+   "p": "medianoche,",
+   "ini": 163.9,
+   "fin": 164.36
+  },
+  {
+   "p": "se",
+   "ini": 164.36,
+   "fin": 164.6
+  },
+  {
+   "p": "despertaba.",
+   "ini": 164.6,
+   "fin": 165.78
+  },
+  {
+   "p": "Una",
+   "ini": 166.04,
+   "fin": 166.22
+  },
+  {
+   "p": "hora.",
+   "ini": 166.22,
+   "fin": 166.5
+  },
+  {
+   "p": "A",
+   "ini": 166.5,
+   "fin": 166.82
+  },
+  {
+   "p": "veces",
+   "ini": 166.82,
+   "fin": 167.04
+  },
+  {
+   "p": "dos.",
+   "ini": 167.04,
+   "fin": 167.32
+  },
+  {
+   "p": "Rezaban.",
+   "ini": 167.84,
+   "fin": 168.32
+  },
+  {
+   "p": "Avivaban",
+   "ini": 168.76,
+   "fin": 169.12
+  },
+  {
+   "p": "el",
+   "ini": 169.12,
+   "fin": 169.3
+  },
+  {
+   "p": "fuego.",
+   "ini": 169.3,
+   "fin": 169.62
+  },
+  {
+   "p": "Visitaban",
+   "ini": 170.08,
+   "fin": 170.56
+  },
+  {
+   "p": "a",
+   "ini": 170.56,
+   "fin": 170.68
+  },
+  {
+   "p": "los",
+   "ini": 170.68,
+   "fin": 170.8
+  },
+  {
+   "p": "vecinos.",
+   "ini": 170.8,
+   "fin": 171.18
+  },
+  {
+   "p": "Luego",
+   "ini": 171.7,
+   "fin": 171.9
+  },
+  {
+   "p": "volvían",
+   "ini": 171.9,
+   "fin": 172.34
+  },
+  {
+   "p": "a",
+   "ini": 172.34,
+   "fin": 172.44
+  },
+  {
+   "p": "la",
+   "ini": 172.44,
+   "fin": 172.56
+  },
+  {
+   "p": "cama.",
+   "ini": 172.56,
+   "fin": 172.76
+  },
+  {
+   "p": "Nadie",
+   "ini": 174.2,
+   "fin": 174.68
+  },
+  {
+   "p": "lo",
+   "ini": 174.68,
+   "fin": 174.8
+  },
+  {
+   "p": "llamaba",
+   "ini": 174.8,
+   "fin": 175.12
+  },
+  {
+   "p": "insomnio.",
+   "ini": 175.12,
+   "fin": 175.7
+  },
+  {
+   "p": "Era",
+   "ini": 176.22,
+   "fin": 176.4
+  },
+  {
+   "p": "un",
+   "ini": 176.4,
+   "fin": 176.58
+  },
+  {
+   "p": "turno.",
+   "ini": 176.58,
+   "fin": 177.22
+  },
+  {
+   "p": "El",
+   "ini": 180.22,
+   "fin": 180.96
+  },
+  {
+   "p": "Negociado",
+   "ini": 180.96,
+   "fin": 181.5
+  },
+  {
+   "p": "necesita",
+   "ini": 181.5,
+   "fin": 181.86
+  },
+  {
+   "p": "confirmarlo.",
+   "ini": 181.86,
+   "fin": 182.82
+  },
+  {
+   "p": "¿Te",
+   "ini": 183.54,
+   "fin": 183.6
+  },
+  {
+   "p": "vuelves",
+   "ini": 183.6,
+   "fin": 183.92
+  },
+  {
+   "p": "a",
+   "ini": 183.92,
+   "fin": 184.08
+  },
+  {
+   "p": "dormir",
+   "ini": 184.08,
+   "fin": 184.3
+  },
+  {
+   "p": "enseguida?",
+   "ini": 184.3,
+   "fin": 184.88
+  },
+  {
+   "p": "Escribe",
+   "ini": 185.88,
+   "fin": 186.26
+  },
+  {
+   "p": "«vuelvo»",
+   "ini": 186.26,
+   "fin": 186.64
+  },
+  {
+   "p": "en",
+   "ini": 186.64,
+   "fin": 186.74
+  },
+  {
+   "p": "los",
+   "ini": 186.74,
+   "fin": 186.84
+  },
+  {
+   "p": "comentarios.",
+   "ini": 186.84,
+   "fin": 187.32
+  },
+  {
+   "p": "Si",
+   "ini": 188.18,
+   "fin": 188.3
+  },
+  {
+   "p": "te",
+   "ini": 188.3,
+   "fin": 188.44
+  },
+  {
+   "p": "quedas",
+   "ini": 188.44,
+   "fin": 188.68
+  },
+  {
+   "p": "despierto,",
+   "ini": 188.68,
+   "fin": 189.16
+  },
+  {
+   "p": "escribe",
+   "ini": 189.6,
+   "fin": 189.94
+  },
+  {
+   "p": "«guardia».",
+   "ini": 189.94,
+   "fin": 190.42
+  },
+  {
+   "p": "Lo",
+   "ini": 191.1,
+   "fin": 191.22
+  },
+  {
+   "p": "revisaremos",
+   "ini": 191.22,
+   "fin": 191.78
+  },
+  {
+   "p": "uno",
+   "ini": 191.78,
+   "fin": 192.06
+  },
+  {
+   "p": "a",
+   "ini": 192.06,
+   "fin": 192.88
+  },
+  {
+   "p": "uno.",
+   "ini": 192.88,
+   "fin": 193.7
+  },
+  {
+   "p": "Regla",
+   "ini": 195.2,
+   "fin": 195.8
+  },
+  {
+   "p": "número",
+   "ini": 195.8,
+   "fin": 196.0
+  },
+  {
+   "p": "cuatro.",
+   "ini": 196.0,
+   "fin": 197.2
+  },
+  {
+   "p": "No",
+   "ini": 197.2,
+   "fin": 197.3
+  },
+  {
+   "p": "enciendas",
+   "ini": 197.3,
+   "fin": 197.82
+  },
+  {
+   "p": "la",
+   "ini": 197.82,
+   "fin": 198.06
+  },
+  {
+   "p": "luz",
+   "ini": 198.06,
+   "fin": 198.22
+  },
+  {
+   "p": "del",
+   "ini": 198.22,
+   "fin": 198.4
+  },
+  {
+   "p": "pasillo.",
+   "ini": 198.4,
+   "fin": 198.86
+  },
+  {
+   "p": "En",
+   "ini": 199.58,
+   "fin": 199.78
+  },
+  {
+   "p": "mil",
+   "ini": 199.78,
+   "fin": 200.18
+  },
+  {
+   "p": "novecientos",
+   "ini": 200.18,
+   "fin": 200.58
+  },
+  {
+   "p": "noventa",
+   "ini": 200.58,
+   "fin": 200.98
+  },
+  {
+   "p": "y",
+   "ini": 200.98,
+   "fin": 201.38
+  },
+  {
+   "p": "dos,",
+   "ini": 201.38,
+   "fin": 201.78
+  },
+  {
+   "p": "un",
+   "ini": 201.78,
+   "fin": 202.12
+  },
+  {
+   "p": "científico",
+   "ini": 202.12,
+   "fin": 202.76
+  },
+  {
+   "p": "encerró",
+   "ini": 202.76,
+   "fin": 203.22
+  },
+  {
+   "p": "a",
+   "ini": 203.22,
+   "fin": 203.36
+  },
+  {
+   "p": "unos",
+   "ini": 203.36,
+   "fin": 203.52
+  },
+  {
+   "p": "voluntarios",
+   "ini": 203.52,
+   "fin": 204.12
+  },
+  {
+   "p": "con",
+   "ini": 204.12,
+   "fin": 204.4
+  },
+  {
+   "p": "catorce",
+   "ini": 204.4,
+   "fin": 204.82
+  },
+  {
+   "p": "horas",
+   "ini": 204.82,
+   "fin": 205.08
+  },
+  {
+   "p": "de",
+   "ini": 205.08,
+   "fin": 205.28
+  },
+  {
+   "p": "oscuridad",
+   "ini": 205.28,
+   "fin": 205.86
+  },
+  {
+   "p": "al",
+   "ini": 205.86,
+   "fin": 206.28
+  },
+  {
+   "p": "día.",
+   "ini": 206.28,
+   "fin": 206.56
+  },
+  {
+   "p": "Durante",
+   "ini": 206.98,
+   "fin": 207.28
+  },
+  {
+   "p": "un",
+   "ini": 207.28,
+   "fin": 207.58
+  },
+  {
+   "p": "mes.",
+   "ini": 207.58,
+   "fin": 207.84
+  },
+  {
+   "p": "Al",
+   "ini": 209.4,
+   "fin": 209.62
+  },
+  {
+   "p": "cabo",
+   "ini": 209.62,
+   "fin": 209.82
+  },
+  {
+   "p": "de",
+   "ini": 209.82,
+   "fin": 210.0
+  },
+  {
+   "p": "unas",
+   "ini": 210.0,
+   "fin": 210.18
+  },
+  {
+   "p": "semanas,",
+   "ini": 210.18,
+   "fin": 210.66
+  },
+  {
+   "p": "su",
+   "ini": 211.06,
+   "fin": 211.18
+  },
+  {
+   "p": "sueño",
+   "ini": 211.18,
+   "fin": 211.48
+  },
+  {
+   "p": "se",
+   "ini": 211.48,
+   "fin": 211.68
+  },
+  {
+   "p": "partió",
+   "ini": 211.68,
+   "fin": 212.04
+  },
+  {
+   "p": "en",
+   "ini": 212.04,
+   "fin": 212.18
+  },
+  {
+   "p": "dos.",
+   "ini": 212.18,
+   "fin": 212.42
+  },
+  {
+   "p": "Cuatro",
+   "ini": 212.82,
+   "fin": 213.1
+  },
+  {
+   "p": "horas",
+   "ini": 213.1,
+   "fin": 213.42
+  },
+  {
+   "p": "dormidos.",
+   "ini": 213.42,
+   "fin": 213.9
+  },
+  {
+   "p": "Una,",
+   "ini": 214.26,
+   "fin": 214.48
+  },
+  {
+   "p": "dos",
+   "ini": 214.88,
+   "fin": 215.08
+  },
+  {
+   "p": "o",
+   "ini": 215.08,
+   "fin": 215.24
+  },
+  {
+   "p": "tres",
+   "ini": 215.24,
+   "fin": 215.42
+  },
+  {
+   "p": "horas",
+   "ini": 215.42,
+   "fin": 215.66
+  },
+  {
+   "p": "despiertos,",
+   "ini": 215.66,
+   "fin": 216.42
+  },
+  {
+   "p": "en",
+   "ini": 216.68,
+   "fin": 216.82
+  },
+  {
+   "p": "calma.",
+   "ini": 216.82,
+   "fin": 217.18
+  },
+  {
+   "p": "Otras",
+   "ini": 217.18,
+   "fin": 218.04
+  },
+  {
+   "p": "cuatro",
+   "ini": 218.04,
+   "fin": 218.36
+  },
+  {
+   "p": "horas",
+   "ini": 218.36,
+   "fin": 218.72
+  },
+  {
+   "p": "dormidos.",
+   "ini": 218.72,
+   "fin": 220.58
+  },
+  {
+   "p": "Nadie",
+   "ini": 222.08,
+   "fin": 222.68
+  },
+  {
+   "p": "se",
+   "ini": 222.68,
+   "fin": 222.86
+  },
+  {
+   "p": "lo",
+   "ini": 222.86,
+   "fin": 223.0
+  },
+  {
+   "p": "pidió.",
+   "ini": 223.0,
+   "fin": 223.38
+  },
+  {
+   "p": "El",
+   "ini": 223.88,
+   "fin": 224.04
+  },
+  {
+   "p": "cuerpo",
+   "ini": 224.04,
+   "fin": 224.38
+  },
+  {
+   "p": "se",
+   "ini": 224.38,
+   "fin": 224.64
+  },
+  {
+   "p": "acordó",
+   "ini": 224.64,
+   "fin": 225.04
+  },
+  {
+   "p": "solo.",
+   "ini": 225.04,
+   "fin": 225.3
+  },
+  {
+   "p": "La",
+   "ini": 225.7,
+   "fin": 225.86
+  },
+  {
+   "p": "luz",
+   "ini": 225.86,
+   "fin": 226.02
+  },
+  {
+   "p": "es",
+   "ini": 226.02,
+   "fin": 226.34
+  },
+  {
+   "p": "lo",
+   "ini": 226.34,
+   "fin": 226.48
+  },
+  {
+   "p": "único",
+   "ini": 226.48,
+   "fin": 226.8
+  },
+  {
+   "p": "que",
+   "ini": 226.8,
+   "fin": 227.0
+  },
+  {
+   "p": "te",
+   "ini": 227.0,
+   "fin": 227.12
+  },
+  {
+   "p": "lo",
+   "ini": 227.12,
+   "fin": 227.24
+  },
+  {
+   "p": "hacía",
+   "ini": 227.24,
+   "fin": 227.48
+  },
+  {
+   "p": "olvidar.",
+   "ini": 227.48,
+   "fin": 228.06
+  },
+  {
+   "p": "Regla",
+   "ini": 229.9,
+   "fin": 230.44
+  },
+  {
+   "p": "número",
+   "ini": 230.44,
+   "fin": 230.6
+  },
+  {
+   "p": "cinco.",
+   "ini": 230.6,
+   "fin": 231.02
+  },
+  {
+   "p": "A",
+   "ini": 231.58,
+   "fin": 231.72
+  },
+  {
+   "p": "las",
+   "ini": 231.72,
+   "fin": 231.84
+  },
+  {
+   "p": "tres",
+   "ini": 231.84,
+   "fin": 232.08
+  },
+  {
+   "p": "y",
+   "ini": 232.08,
+   "fin": 232.26
+  },
+  {
+   "p": "cuatro,",
+   "ini": 232.26,
+   "fin": 232.54
+  },
+  {
+   "p": "escucha",
+   "ini": 232.54,
+   "fin": 233.36
+  },
+  {
+   "p": "la",
+   "ini": 233.36,
+   "fin": 233.46
+  },
+  {
+   "p": "casa.",
+   "ini": 233.46,
+   "fin": 233.68
+  },
+  {
+   "p": "Primero",
+   "ini": 234.22,
+   "fin": 234.5
+  },
+  {
+   "p": "cruje",
+   "ini": 234.5,
+   "fin": 234.84
+  },
+  {
+   "p": "la",
+   "ini": 234.84,
+   "fin": 234.94
+  },
+  {
+   "p": "madera.",
+   "ini": 234.94,
+   "fin": 235.24
+  },
+  {
+   "p": "Luego",
+   "ini": 235.56,
+   "fin": 235.82
+  },
+  {
+   "p": "la",
+   "ini": 235.82,
+   "fin": 236.04
+  },
+  {
+   "p": "nevera.",
+   "ini": 236.04,
+   "fin": 236.46
+  },
+  {
+   "p": "Luego",
+   "ini": 236.78,
+   "fin": 237.04
+  },
+  {
+   "p": "algo",
+   "ini": 237.04,
+   "fin": 237.34
+  },
+  {
+   "p": "en",
+   "ini": 237.34,
+   "fin": 237.54
+  },
+  {
+   "p": "el",
+   "ini": 237.54,
+   "fin": 237.64
+  },
+  {
+   "p": "pasillo.",
+   "ini": 237.64,
+   "fin": 238.1
+  },
+  {
+   "p": "Despacio.",
+   "ini": 238.5,
+   "fin": 239.0
+  },
+  {
+   "p": "Hacia",
+   "ini": 239.44,
+   "fin": 239.64
+  },
+  {
+   "p": "tu",
+   "ini": 239.64,
+   "fin": 239.88
+  },
+  {
+   "p": "puerta.",
+   "ini": 239.88,
+   "fin": 240.14
+  },
+  {
+   "p": "Se",
+   "ini": 241.64,
+   "fin": 242.69
+  },
+  {
+   "p": "para",
+   "ini": 242.69,
+   "fin": 243.73
+  },
+  {
+   "p": "delante.",
+   "ini": 243.73,
+   "fin": 244.78
+  },
+  {
+   "p": "No",
+   "ini": 244.78,
+   "fin": 244.78
+  },
+  {
+   "p": "entra.",
+   "ini": 244.78,
+   "fin": 245.06
+  },
+  {
+   "p": "Espera.",
+   "ini": 245.52,
+   "fin": 245.96
+  },
+  {
+   "p": "Tú",
+   "ini": 246.3,
+   "fin": 246.42
+  },
+  {
+   "p": "tampoco",
+   "ini": 246.42,
+   "fin": 246.8
+  },
+  {
+   "p": "te",
+   "ini": 246.8,
+   "fin": 247.04
+  },
+  {
+   "p": "mueves.",
+   "ini": 247.04,
+   "fin": 247.32
+  },
+  {
+   "p": "Alguien",
+   "ini": 247.7,
+   "fin": 248.0
+  },
+  {
+   "p": "hacía",
+   "ini": 248.0,
+   "fin": 248.3
+  },
+  {
+   "p": "esa",
+   "ini": 248.3,
+   "fin": 248.54
+  },
+  {
+   "p": "ronda",
+   "ini": 248.54,
+   "fin": 248.82
+  },
+  {
+   "p": "antes",
+   "ini": 248.82,
+   "fin": 249.14
+  },
+  {
+   "p": "que",
+   "ini": 249.14,
+   "fin": 249.32
+  },
+  {
+   "p": "tú.",
+   "ini": 249.32,
+   "fin": 249.48
+  },
+  {
+   "p": "Regla",
+   "ini": 251.46,
+   "fin": 252.02
+  },
+  {
+   "p": "número",
+   "ini": 252.02,
+   "fin": 252.22
+  },
+  {
+   "p": "seis.",
+   "ini": 252.22,
+   "fin": 253.32
+  },
+  {
+   "p": "Si",
+   "ini": 253.32,
+   "fin": 253.46
+  },
+  {
+   "p": "hay",
+   "ini": 253.46,
+   "fin": 253.64
+  },
+  {
+   "p": "alguien",
+   "ini": 253.64,
+   "fin": 253.96
+  },
+  {
+   "p": "más",
+   "ini": 253.96,
+   "fin": 254.2
+  },
+  {
+   "p": "despierto,",
+   "ini": 254.2,
+   "fin": 254.68
+  },
+  {
+   "p": "no",
+   "ini": 255.26,
+   "fin": 255.38
+  },
+  {
+   "p": "le",
+   "ini": 255.38,
+   "fin": 255.5
+  },
+  {
+   "p": "preguntes",
+   "ini": 255.5,
+   "fin": 255.98
+  },
+  {
+   "p": "por",
+   "ini": 255.98,
+   "fin": 256.16
+  },
+  {
+   "p": "qué.",
+   "ini": 256.16,
+   "fin": 256.36
+  },
+  {
+   "p": "Lo",
+   "ini": 256.88,
+   "fin": 257.06
+  },
+  {
+   "p": "sabrás",
+   "ini": 257.06,
+   "fin": 257.42
+  },
+  {
+   "p": "por",
+   "ini": 257.42,
+   "fin": 257.64
+  },
+  {
+   "p": "la",
+   "ini": 257.64,
+   "fin": 257.8
+  },
+  {
+   "p": "luz",
+   "ini": 257.8,
+   "fin": 258.04
+  },
+  {
+   "p": "bajo",
+   "ini": 258.04,
+   "fin": 258.26
+  },
+  {
+   "p": "su",
+   "ini": 258.26,
+   "fin": 258.48
+  },
+  {
+   "p": "puerta.",
+   "ini": 258.48,
+   "fin": 258.76
+  },
+  {
+   "p": "O",
+   "ini": 259.48,
+   "fin": 259.64
+  },
+  {
+   "p": "por",
+   "ini": 259.64,
+   "fin": 259.78
+  },
+  {
+   "p": "el",
+   "ini": 259.78,
+   "fin": 259.9
+  },
+  {
+   "p": "ruido",
+   "ini": 259.9,
+   "fin": 260.16
+  },
+  {
+   "p": "de",
+   "ini": 260.16,
+   "fin": 260.32
+  },
+  {
+   "p": "un",
+   "ini": 260.32,
+   "fin": 260.42
+  },
+  {
+   "p": "vaso",
+   "ini": 260.42,
+   "fin": 260.78
+  },
+  {
+   "p": "en",
+   "ini": 260.78,
+   "fin": 260.9
+  },
+  {
+   "p": "la",
+   "ini": 260.9,
+   "fin": 261.02
+  },
+  {
+   "p": "cocina.",
+   "ini": 261.02,
+   "fin": 261.4
+  },
+  {
+   "p": "Está",
+   "ini": 261.96,
+   "fin": 262.26
+  },
+  {
+   "p": "haciendo",
+   "ini": 262.26,
+   "fin": 262.62
+  },
+  {
+   "p": "lo",
+   "ini": 262.62,
+   "fin": 262.8
+  },
+  {
+   "p": "mismo",
+   "ini": 262.8,
+   "fin": 263.06
+  },
+  {
+   "p": "que",
+   "ini": 263.06,
+   "fin": 263.26
+  },
+  {
+   "p": "tú.",
+   "ini": 263.26,
+   "fin": 263.44
+  },
+  {
+   "p": "Mañana,",
+   "ini": 264.86,
+   "fin": 265.36
+  },
+  {
+   "p": "en",
+   "ini": 265.74,
+   "fin": 265.84
+  },
+  {
+   "p": "el",
+   "ini": 265.84,
+   "fin": 265.94
+  },
+  {
+   "p": "desayuno,",
+   "ini": 265.94,
+   "fin": 266.42
+  },
+  {
+   "p": "dirá",
+   "ini": 266.88,
+   "fin": 267.16
+  },
+  {
+   "p": "que",
+   "ini": 267.16,
+   "fin": 267.3
+  },
+  {
+   "p": "ha",
+   "ini": 267.3,
+   "fin": 267.44
+  },
+  {
+   "p": "dormido",
+   "ini": 267.44,
+   "fin": 267.8
+  },
+  {
+   "p": "bien.",
+   "ini": 267.8,
+   "fin": 268.04
+  },
+  {
+   "p": "Tú",
+   "ini": 268.64,
+   "fin": 268.78
+  },
+  {
+   "p": "también",
+   "ini": 268.78,
+   "fin": 269.12
+  },
+  {
+   "p": "lo",
+   "ini": 269.12,
+   "fin": 269.36
+  },
+  {
+   "p": "dirás.",
+   "ini": 269.36,
+   "fin": 269.72
+  },
+  {
+   "p": "Los",
+   "ini": 269.72,
+   "fin": 270.26
+  },
+  {
+   "p": "dos",
+   "ini": 270.26,
+   "fin": 270.48
+  },
+  {
+   "p": "sabéis",
+   "ini": 270.48,
+   "fin": 270.92
+  },
+  {
+   "p": "que",
+   "ini": 270.92,
+   "fin": 271.12
+  },
+  {
+   "p": "no",
+   "ini": 271.12,
+   "fin": 271.28
+  },
+  {
+   "p": "es",
+   "ini": 271.28,
+   "fin": 271.42
+  },
+  {
+   "p": "verdad.",
+   "ini": 271.42,
+   "fin": 271.78
+  },
+  {
+   "p": "Nadie",
+   "ini": 272.28,
+   "fin": 272.48
+  },
+  {
+   "p": "pregunta",
+   "ini": 272.48,
+   "fin": 272.78
+  },
+  {
+   "p": "nada.",
+   "ini": 272.78,
+   "fin": 273.18
+  },
+  {
+   "p": "Regla",
+   "ini": 275.0,
+   "fin": 275.68
+  },
+  {
+   "p": "número",
+   "ini": 275.68,
+   "fin": 275.88
+  },
+  {
+   "p": "siete.",
+   "ini": 275.88,
+   "fin": 277.94
+  },
+  {
+   "p": "La",
+   "ini": 279.94,
+   "fin": 280.6
+  },
+  {
+   "p": "regla",
+   "ini": 280.6,
+   "fin": 280.92
+  },
+  {
+   "p": "siete",
+   "ini": 280.92,
+   "fin": 281.24
+  },
+  {
+   "p": "todavía",
+   "ini": 281.24,
+   "fin": 281.7
+  },
+  {
+   "p": "no",
+   "ini": 281.7,
+   "fin": 281.96
+  },
+  {
+   "p": "se",
+   "ini": 281.96,
+   "fin": 282.12
+  },
+  {
+   "p": "ha",
+   "ini": 282.12,
+   "fin": 282.18
+  },
+  {
+   "p": "despertado.",
+   "ini": 282.18,
+   "fin": 282.76
+  },
+  {
+   "p": "Esperaremos.",
+   "ini": 283.48,
+   "fin": 284.16
+  },
+  {
+   "p": "Gracias.",
+   "ini": 286.96,
+   "fin": 287.64
+  },
+  {
+   "p": "Seis",
+   "ini": 289.14,
+   "fin": 291.8
+  },
+  {
+   "p": "reglas.",
+   "ini": 291.8,
+   "fin": 292.3
+  },
+  {
+   "p": "No",
+   "ini": 292.6,
+   "fin": 292.66
+  },
+  {
+   "p": "has",
+   "ini": 292.66,
+   "fin": 292.78
+  },
+  {
+   "p": "roto",
+   "ini": 292.78,
+   "fin": 292.98
+  },
+  {
+   "p": "ninguna.",
+   "ini": 292.98,
+   "fin": 293.32
+  },
+  {
+   "p": "Nadie",
+   "ini": 293.88,
+   "fin": 294.18
+  },
+  {
+   "p": "te",
+   "ini": 294.18,
+   "fin": 294.3
+  },
+  {
+   "p": "las",
+   "ini": 294.3,
+   "fin": 294.46
+  },
+  {
+   "p": "dio.",
+   "ini": 294.46,
+   "fin": 294.68
+  },
+  {
+   "p": "Alguien",
+   "ini": 295.1,
+   "fin": 295.42
+  },
+  {
+   "p": "sí.",
+   "ini": 295.42,
+   "fin": 295.62
+  },
+  {
+   "p": "Este",
+   "ini": 297.62,
+   "fin": 298.24
+  },
+  {
+   "p": "archivo",
+   "ini": 298.24,
+   "fin": 298.68
+  },
+  {
+   "p": "no",
+   "ini": 298.68,
+   "fin": 299.32
+  },
+  {
+   "p": "va",
+   "ini": 299.32,
+   "fin": 299.48
+  },
+  {
+   "p": "sobre",
+   "ini": 299.48,
+   "fin": 299.72
+  },
+  {
+   "p": "la",
+   "ini": 299.72,
+   "fin": 299.92
+  },
+  {
+   "p": "hora.",
+   "ini": 299.92,
+   "fin": 300.08
+  },
+  {
+   "p": "Sujeto:",
+   "ini": 301.62,
+   "fin": 302.24
+  },
+  {
+   "p": "un",
+   "ini": 302.24,
+   "fin": 302.7
+  },
+  {
+   "p": "humano",
+   "ini": 302.7,
+   "fin": 302.92
+  },
+  {
+   "p": "adulto.",
+   "ini": 302.92,
+   "fin": 303.66
+  },
+  {
+   "p": "Duerme",
+   "ini": 303.66,
+   "fin": 304.26
+  },
+  {
+   "p": "de",
+   "ini": 304.26,
+   "fin": 304.44
+  },
+  {
+   "p": "un",
+   "ini": 304.44,
+   "fin": 304.56
+  },
+  {
+   "p": "tirón.",
+   "ini": 304.56,
+   "fin": 304.88
+  },
+  {
+   "p": "Con",
+   "ini": 304.88,
+   "fin": 305.16
+  },
+  {
+   "p": "la",
+   "ini": 305.16,
+   "fin": 305.28
+  },
+  {
+   "p": "luz",
+   "ini": 305.28,
+   "fin": 305.44
+  },
+  {
+   "p": "del",
+   "ini": 305.44,
+   "fin": 305.56
+  },
+  {
+   "p": "móvil.",
+   "ini": 305.56,
+   "fin": 305.9
+  },
+  {
+   "p": "Nunca",
+   "ini": 306.26,
+   "fin": 306.6
+  },
+  {
+   "p": "hace",
+   "ini": 306.6,
+   "fin": 306.9
+  },
+  {
+   "p": "la",
+   "ini": 306.9,
+   "fin": 307.04
+  },
+  {
+   "p": "ronda.",
+   "ini": 307.04,
+   "fin": 307.34
+  },
+  {
+   "p": "Tu",
+   "ini": 308.8,
+   "fin": 309.04
+  },
+  {
+   "p": "casa",
+   "ini": 309.04,
+   "fin": 309.32
+  },
+  {
+   "p": "no",
+   "ini": 309.32,
+   "fin": 309.68
+  },
+  {
+   "p": "está",
+   "ini": 309.68,
+   "fin": 309.94
+  },
+  {
+   "p": "acostumbrada",
+   "ini": 309.94,
+   "fin": 310.6
+  },
+  {
+   "p": "a",
+   "ini": 310.6,
+   "fin": 310.8
+  },
+  {
+   "p": "eso.",
+   "ini": 310.8,
+   "fin": 311.02
+  },
+  {
+   "p": "Durante",
+   "ini": 312.86,
+   "fin": 313.48
+  },
+  {
+   "p": "siglos,",
+   "ini": 313.48,
+   "fin": 313.9
+  },
+  {
+   "p": "en",
+   "ini": 313.9,
+   "fin": 314.4
+  },
+  {
+   "p": "cada",
+   "ini": 314.4,
+   "fin": 314.62
+  },
+  {
+   "p": "casa",
+   "ini": 314.62,
+   "fin": 314.98
+  },
+  {
+   "p": "había",
+   "ini": 314.98,
+   "fin": 315.4
+  },
+  {
+   "p": "alguien",
+   "ini": 315.4,
+   "fin": 315.82
+  },
+  {
+   "p": "despierto",
+   "ini": 315.82,
+   "fin": 316.26
+  },
+  {
+   "p": "a",
+   "ini": 316.26,
+   "fin": 316.44
+  },
+  {
+   "p": "las",
+   "ini": 316.44,
+   "fin": 316.56
+  },
+  {
+   "p": "tres.",
+   "ini": 316.56,
+   "fin": 316.8
+  },
+  {
+   "p": "Avivaba",
+   "ini": 317.22,
+   "fin": 317.54
+  },
+  {
+   "p": "el",
+   "ini": 317.54,
+   "fin": 317.72
+  },
+  {
+   "p": "fuego.",
+   "ini": 317.72,
+   "fin": 317.98
+  },
+  {
+   "p": "Miraba",
+   "ini": 318.66,
+   "fin": 318.94
+  },
+  {
+   "p": "la",
+   "ini": 319.02,
+   "fin": 319.1
+  },
+  {
+   "p": "puerta.",
+   "ini": 319.1,
+   "fin": 319.28
+  },
+  {
+   "p": "Escuchaba.",
+   "ini": 319.84,
+   "fin": 320.44
+  },
+  {
+   "p": "Tu",
+   "ini": 321.04,
+   "fin": 321.16
+  },
+  {
+   "p": "casa",
+   "ini": 321.16,
+   "fin": 321.44
+  },
+  {
+   "p": "todavía",
+   "ini": 321.44,
+   "fin": 321.86
+  },
+  {
+   "p": "lo",
+   "ini": 321.86,
+   "fin": 322.14
+  },
+  {
+   "p": "espera.",
+   "ini": 322.14,
+   "fin": 322.42
+  },
+  {
+   "p": "Por",
+   "ini": 322.94,
+   "fin": 323.12
+  },
+  {
+   "p": "eso",
+   "ini": 323.12,
+   "fin": 323.32
+  },
+  {
+   "p": "te",
+   "ini": 323.32,
+   "fin": 323.5
+  },
+  {
+   "p": "despierta",
+   "ini": 323.5,
+   "fin": 324.04
+  },
+  {
+   "p": "a",
+   "ini": 324.04,
+   "fin": 324.18
+  },
+  {
+   "p": "ti.",
+   "ini": 324.18,
+   "fin": 324.22
+  },
+  {
+   "p": "Regla",
+   "ini": 327.12,
+   "fin": 327.64
+  },
+  {
+   "p": "número",
+   "ini": 327.64,
+   "fin": 327.84
+  },
+  {
+   "p": "siete.",
+   "ini": 327.84,
+   "fin": 328.72
+  },
+  {
+   "p": "Cuando",
+   "ini": 328.72,
+   "fin": 328.92
+  },
+  {
+   "p": "te",
+   "ini": 328.92,
+   "fin": 329.14
+  },
+  {
+   "p": "despiertes",
+   "ini": 329.14,
+   "fin": 329.7
+  },
+  {
+   "p": "a",
+   "ini": 329.7,
+   "fin": 329.8
+  },
+  {
+   "p": "las",
+   "ini": 329.8,
+   "fin": 329.94
+  },
+  {
+   "p": "tres,",
+   "ini": 329.94,
+   "fin": 330.14
+  },
+  {
+   "p": "no",
+   "ini": 330.52,
+   "fin": 330.62
+  },
+  {
+   "p": "mires",
+   "ini": 330.62,
+   "fin": 330.94
+  },
+  {
+   "p": "el",
+   "ini": 330.94,
+   "fin": 331.1
+  },
+  {
+   "p": "reloj.",
+   "ini": 331.1,
+   "fin": 331.52
+  },
+  {
+   "p": "Levántate.",
+   "ini": 331.84,
+   "fin": 332.36
+  },
+  {
+   "p": "Da",
+   "ini": 332.88,
+   "fin": 332.98
+  },
+  {
+   "p": "una",
+   "ini": 332.98,
+   "fin": 333.14
+  },
+  {
+   "p": "vuelta",
+   "ini": 333.14,
+   "fin": 333.42
+  },
+  {
+   "p": "por",
+   "ini": 333.42,
+   "fin": 333.66
+  },
+  {
+   "p": "la",
+   "ini": 333.66,
+   "fin": 333.8
+  },
+  {
+   "p": "casa.",
+   "ini": 333.8,
+   "fin": 334.04
+  },
+  {
+   "p": "Comprueba",
+   "ini": 334.72,
+   "fin": 335.2
+  },
+  {
+   "p": "la",
+   "ini": 335.2,
+   "fin": 335.32
+  },
+  {
+   "p": "puerta.",
+   "ini": 335.32,
+   "fin": 335.66
+  },
+  {
+   "p": "Vuelve",
+   "ini": 336.14,
+   "fin": 336.4
+  },
+  {
+   "p": "a",
+   "ini": 336.4,
+   "fin": 336.48
+  },
+  {
+   "p": "la",
+   "ini": 336.48,
+   "fin": 336.54
+  },
+  {
+   "p": "cama.",
+   "ini": 336.54,
+   "fin": 336.76
+  },
+  {
+   "p": "Es",
+   "ini": 337.22,
+   "fin": 337.36
+  },
+  {
+   "p": "tu",
+   "ini": 337.36,
+   "fin": 337.5
+  },
+  {
+   "p": "turno.",
+   "ini": 337.5,
+   "fin": 337.96
+  },
+  {
+   "p": "La",
+   "ini": 339.4,
+   "fin": 339.66
+  },
+  {
+   "p": "regla",
+   "ini": 339.66,
+   "fin": 339.96
+  },
+  {
+   "p": "ocho",
+   "ini": 339.96,
+   "fin": 340.62
+  },
+  {
+   "p": "es",
+   "ini": 340.62,
+   "fin": 340.82
+  },
+  {
+   "p": "para",
+   "ini": 340.82,
+   "fin": 341.0
+  },
+  {
+   "p": "la",
+   "ini": 341.0,
+   "fin": 341.14
+  },
+  {
+   "p": "noche",
+   "ini": 341.14,
+   "fin": 341.4
+  },
+  {
+   "p": "en",
+   "ini": 341.4,
+   "fin": 341.66
+  },
+  {
+   "p": "que",
+   "ini": 341.66,
+   "fin": 341.72
+  },
+  {
+   "p": "te",
+   "ini": 341.72,
+   "fin": 341.86
+  },
+  {
+   "p": "levantes",
+   "ini": 341.86,
+   "fin": 342.42
+  },
+  {
+   "p": "y",
+   "ini": 342.72,
+   "fin": 342.9
+  },
+  {
+   "p": "la",
+   "ini": 342.9,
+   "fin": 342.98
+  },
+  {
+   "p": "ronda",
+   "ini": 342.98,
+   "fin": 343.28
+  },
+  {
+   "p": "ya",
+   "ini": 343.28,
+   "fin": 343.6
+  },
+  {
+   "p": "esté",
+   "ini": 343.6,
+   "fin": 344.04
+  },
+  {
+   "p": "hecha.",
+   "ini": 344.04,
+   "fin": 344.28
+  },
+  {
+   "p": "El",
+   "ini": 346.28,
+   "fin": 346.96
+  },
+  {
+   "p": "empleado",
+   "ini": 346.96,
+   "fin": 347.38
+  },
+  {
+   "p": "que",
+   "ini": 347.38,
+   "fin": 347.56
+  },
+  {
+   "p": "escribió",
+   "ini": 347.56,
+   "fin": 348.04
+  },
+  {
+   "p": "este",
+   "ini": 348.04,
+   "fin": 348.24
+  },
+  {
+   "p": "archivo",
+   "ini": 348.24,
+   "fin": 348.66
+  },
+  {
+   "p": "se",
+   "ini": 348.66,
+   "fin": 348.96
+  },
+  {
+   "p": "despertaba",
+   "ini": 348.96,
+   "fin": 349.48
+  },
+  {
+   "p": "a",
+   "ini": 349.48,
+   "fin": 349.6
+  },
+  {
+   "p": "las",
+   "ini": 349.6,
+   "fin": 349.72
+  },
+  {
+   "p": "tres",
+   "ini": 349.72,
+   "fin": 349.88
+  },
+  {
+   "p": "cada",
+   "ini": 349.88,
+   "fin": 350.14
+  },
+  {
+   "p": "noche.",
+   "ini": 350.14,
+   "fin": 350.48
+  },
+  {
+   "p": "Hacía",
+   "ini": 351.08,
+   "fin": 351.46
+  },
+  {
+   "p": "la",
+   "ini": 351.46,
+   "fin": 351.62
+  },
+  {
+   "p": "ronda.",
+   "ini": 351.62,
+   "fin": 351.92
+  },
+  {
+   "p": "Una",
+   "ini": 352.84,
+   "fin": 353.0
+  },
+  {
+   "p": "noche",
+   "ini": 353.0,
+   "fin": 353.26
+  },
+  {
+   "p": "de",
+   "ini": 353.26,
+   "fin": 353.42
+  },
+  {
+   "p": "marzo,",
+   "ini": 353.42,
+   "fin": 353.8
+  },
+  {
+   "p": "durmió",
+   "ini": 353.8,
+   "fin": 354.44
+  },
+  {
+   "p": "de",
+   "ini": 354.44,
+   "fin": 354.54
+  },
+  {
+   "p": "un",
+   "ini": 354.54,
+   "fin": 354.68
+  },
+  {
+   "p": "tirón.",
+   "ini": 354.68,
+   "fin": 355.0
+  },
+  {
+   "p": "A",
+   "ini": 356.44,
+   "fin": 356.68
+  },
+  {
+   "p": "la",
+   "ini": 356.68,
+   "fin": 356.76
+  },
+  {
+   "p": "mañana",
+   "ini": 356.76,
+   "fin": 357.02
+  },
+  {
+   "p": "siguiente,",
+   "ini": 357.02,
+   "fin": 357.5
+  },
+  {
+   "p": "su",
+   "ini": 358.12,
+   "fin": 358.26
+  },
+  {
+   "p": "puerta",
+   "ini": 358.26,
+   "fin": 358.48
+  },
+  {
+   "p": "estaba",
+   "ini": 358.48,
+   "fin": 358.92
+  },
+  {
+   "p": "cerrada",
+   "ini": 358.92,
+   "fin": 359.38
+  },
+  {
+   "p": "con",
+   "ini": 359.38,
+   "fin": 359.62
+  },
+  {
+   "p": "llave.",
+   "ini": 359.62,
+   "fin": 359.94
+  },
+  {
+   "p": "Por",
+   "ini": 360.4,
+   "fin": 360.54
+  },
+  {
+   "p": "dentro.",
+   "ini": 360.54,
+   "fin": 360.9
+  },
+  {
+   "p": "Y",
+   "ini": 361.42,
+   "fin": 361.56
+  },
+  {
+   "p": "la",
+   "ini": 361.56,
+   "fin": 361.66
+  },
+  {
+   "p": "ronda",
+   "ini": 361.66,
+   "fin": 361.98
+  },
+  {
+   "p": "estaba",
+   "ini": 361.98,
+   "fin": 362.42
+  },
+  {
+   "p": "hecha.",
+   "ini": 362.42,
+   "fin": 362.76
+  },
+  {
+   "p": "Nosotros",
+   "ini": 364.78,
+   "fin": 365.46
+  },
+  {
+   "p": "no",
+   "ini": 365.46,
+   "fin": 365.88
+  },
+  {
+   "p": "escribimos",
+   "ini": 365.88,
+   "fin": 366.5
+  },
+  {
+   "p": "este",
+   "ini": 366.5,
+   "fin": 366.92
+  },
+  {
+   "p": "archivo.",
+   "ini": 366.92,
+   "fin": 367.4
+  },
+  {
+   "p": "Nos",
+   "ini": 367.4,
+   "fin": 367.98
+  },
+  {
+   "p": "pidieron",
+   "ini": 367.98,
+   "fin": 368.44
+  },
+  {
+   "p": "que",
+   "ini": 368.44,
+   "fin": 368.66
+  },
+  {
+   "p": "te",
+   "ini": 368.66,
+   "fin": 368.78
+  },
+  {
+   "p": "lo",
+   "ini": 368.78,
+   "fin": 368.9
+  },
+  {
+   "p": "leyéramos.",
+   "ini": 368.9,
+   "fin": 369.46
+  },
+  {
+   "p": "Gracias",
+   "ini": 371.74,
+   "fin": 372.1
+  },
+  {
+   "p": "por",
+   "ini": 372.1,
+   "fin": 372.48
+  },
+  {
+   "p": "su",
+   "ini": 372.48,
+   "fin": 372.68
+  },
+  {
+   "p": "cooperación.",
+   "ini": 372.68,
+   "fin": 373.42
+  },
+  {
+   "p": "Queda",
+   "ini": 375.18,
+   "fin": 375.76
+  },
+  {
+   "p": "un",
+   "ini": 375.76,
+   "fin": 375.96
+  },
+  {
+   "p": "trámite.",
+   "ini": 375.96,
+   "fin": 376.32
+  },
+  {
+   "p": "Este",
+   "ini": 377.38,
+   "fin": 377.68
+  },
+  {
+   "p": "archivo",
+   "ini": 377.68,
+   "fin": 378.12
+  },
+  {
+   "p": "no",
+   "ini": 378.12,
+   "fin": 378.4
+  },
+  {
+   "p": "es",
+   "ini": 378.4,
+   "fin": 378.6
+  },
+  {
+   "p": "el",
+   "ini": 378.6,
+   "fin": 378.74
+  },
+  {
+   "p": "único.",
+   "ini": 378.74,
+   "fin": 379.0
+  },
+  {
+   "p": "Si",
+   "ini": 379.5,
+   "fin": 379.6
+  },
+  {
+   "p": "quieres",
+   "ini": 379.6,
+   "fin": 379.88
+  },
+  {
+   "p": "recibir",
+   "ini": 379.88,
+   "fin": 380.22
+  },
+  {
+   "p": "el",
+   "ini": 380.22,
+   "fin": 380.42
+  },
+  {
+   "p": "siguiente,",
+   "ini": 380.42,
+   "fin": 380.68
+  },
+  {
+   "p": "suscríbete",
+   "ini": 381.3,
+   "fin": 381.78
+  },
+  {
+   "p": "al",
+   "ini": 381.78,
+   "fin": 381.94
+  },
+  {
+   "p": "canal.",
+   "ini": 381.94,
+   "fin": 382.16
+  },
+  {
+   "p": "El",
+   "ini": 382.96,
+   "fin": 383.1
+  },
+  {
+   "p": "Negociado",
+   "ini": 383.1,
+   "fin": 383.74
+  },
+  {
+   "p": "avisa",
+   "ini": 383.74,
+   "fin": 384.14
+  },
+  {
+   "p": "primero",
+   "ini": 384.14,
+   "fin": 384.54
+  },
+  {
+   "p": "a",
+   "ini": 384.54,
+   "fin": 384.72
+  },
+  {
+   "p": "los",
+   "ini": 384.72,
+   "fin": 384.82
+  },
+  {
+   "p": "suscriptores.",
+   "ini": 384.82,
+   "fin": 385.48
+  },
+  {
+   "p": "Y",
+   "ini": 386.98,
+   "fin": 387.24
+  },
+  {
+   "p": "cuéntanos",
+   "ini": 387.24,
+   "fin": 387.68
+  },
+  {
+   "p": "en",
+   "ini": 387.68,
+   "fin": 387.9
+  },
+  {
+   "p": "los",
+   "ini": 387.9,
+   "fin": 388.02
+  },
+  {
+   "p": "comentarios",
+   "ini": 388.02,
+   "fin": 388.5
+  },
+  {
+   "p": "qué",
+   "ini": 388.5,
+   "fin": 389.26
+  },
+  {
+   "p": "haces",
+   "ini": 389.26,
+   "fin": 389.62
+  },
+  {
+   "p": "tú",
+   "ini": 389.62,
+   "fin": 389.92
+  },
+  {
+   "p": "cuando",
+   "ini": 389.92,
+   "fin": 390.16
+  },
+  {
+   "p": "te",
+   "ini": 390.16,
+   "fin": 390.4
+  },
+  {
+   "p": "despiertas",
+   "ini": 390.4,
+   "fin": 391.08
+  },
+  {
+   "p": "a",
+   "ini": 391.08,
+   "fin": 391.3
+  },
+  {
+   "p": "las",
+   "ini": 391.3,
+   "fin": 391.46
+  },
+  {
+   "p": "tres.",
+   "ini": 391.46,
+   "fin": 391.64
+  },
+  {
+   "p": "El",
+   "ini": 391.64,
+   "fin": 392.58
+  },
+  {
+   "p": "próximo",
+   "ini": 392.58,
+   "fin": 392.84
+  },
+  {
+   "p": "archivo",
+   "ini": 392.84,
+   "fin": 393.46
+  },
+  {
+   "p": "puede",
+   "ini": 393.46,
+   "fin": 393.96
+  },
+  {
+   "p": "ser",
+   "ini": 393.96,
+   "fin": 394.28
+  },
+  {
+   "p": "el",
+   "ini": 394.28,
+   "fin": 394.44
+  },
+  {
+   "p": "tuyo.",
+   "ini": 394.44,
+   "fin": 395.82
+  },
+  {
+   "p": "Buenas",
+   "ini": 397.82,
+   "fin": 398.74
+  },
+  {
+   "p": "noches.",
+   "ini": 398.74,
+   "fin": 399.2
+  }
+ ]
+}

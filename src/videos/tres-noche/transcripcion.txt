@@ -1,0 +1,153 @@
+[   0.00] Son las tres y cuatro minutos de la madrugada.
+[   3.16] Abres los ojos.
+[   4.62] No ha sonado nada.
+[   6.10] La casa está en silencio.
+[   7.86] Y tú estás completamente despierto.
+[  11.24] Ayer también.
+[  12.58] Y anteayer.
+[  13.42] A la misma hora.
+[  16.00] Si esto te ha pasado alguna vez, este archivo es para ti.
+[  19.82] No mires el reloj.
+[  21.38] No enciendas la luz.
+[  22.74] Y sobre todo…
+[  23.84] no intentes volver a dormirte todavía.
+[  27.32] Te despierta a la misma hora desde hace semanas.
+[  30.34] Hay siete reglas.
+[  32.54] Casi todos los que se despiertan a las tres ya cumplen seis.
+[  36.46] Nadie os las ha explicado.
+[  40.58] Archivo cero diecinueve.
+[  43.64] Vigilia doméstica.
+[  45.16] Negociado de Asuntos Nocturnos.
+[  47.66] Por favor, sigue todas las instrucciones.
+[  51.84] Antes de empezar, el Negociado necesita un dato.
+[  57.04] ¿A qué hora te despiertas tú?
+[  59.06] Escríbela en los comentarios.
+[  61.14] Las estamos contando.
+[  63.74] Regla número uno.
+[  65.12] No mires el reloj.
+[  66.44] Tu sueño va por vueltas.
+[  68.38] Cada vuelta dura unos noventa minutos.
+[  70.72] Al final de cada una, el sueño se vuelve fino.
+[  73.86] Casi transparente.
+[  76.18] Te despiertas varias veces cada noche.
+[  78.90] Nunca te acuerdas.
+[  80.40] Esta vez sí.
+[  81.66] Porque has mirado el reloj.
+[  84.50] Ahora la hora sabe que la has visto.
+[  87.62] Mañana vendrá a buscarte a la misma.
+[  93.10] Regla número dos.
+[  94.10] No pienses que eres el único.
+[  97.02] Unos investigadores preguntaron a ocho mil novecientas treinta y siete personas.
+[ 102.30] Más de un tercio se despertaba al menos tres noches por semana.
+[ 107.22] Ahora mismo hay muchas casas despiertas.
+[ 110.00] Con la luz apagada.
+[ 111.36] Mirando al techo.
+[ 112.86] Ninguna sabe de las otras.
+[ 116.08] Solo nosotros.
+[ 118.46] Tenemos una lista.
+[ 119.82] Las estamos contando.
+[ 123.66] Regla número tres.
+[ 126.56] Si tienes frío, no subas la manta.
+[ 129.14] A esta hora tu cuerpo llega a su punto más frío del día.
+[ 132.46] Baja casi un grado.
+[ 134.08] Sin que hagas nada.
+[ 135.40] Lo hace cada noche, unas horas antes de despertar.
+[ 140.26] No es la casa.
+[ 141.82] No es la ventana.
+[ 143.24] Eres tú, enfriándote.
+[ 145.06] Tu cuerpo se está preparando para algo.
+[ 148.78] Un historiador buscó en diarios, cartas y juicios antiguos.
+[ 152.98] Encontró más de quinientas menciones a lo mismo.
+[ 156.26] El primer sueño.
+[ 157.20] Y el segundo sueño.
+[ 160.06] Durante siglos, la gente se dormía al anochecer.
+[ 163.44] Pasada la medianoche, se despertaba.
+[ 166.04] Una hora.
+[ 166.50] A veces dos.
+[ 167.84] Rezaban.
+[ 168.76] Avivaban el fuego.
+[ 170.08] Visitaban a los vecinos.
+[ 171.70] Luego volvían a la cama.
+[ 174.20] Nadie lo llamaba insomnio.
+[ 176.22] Era un turno.
+[ 180.22] El Negociado necesita confirmarlo.
+[ 183.54] ¿Te vuelves a dormir enseguida?
+[ 185.88] Escribe «vuelvo» en los comentarios.
+[ 188.18] Si te quedas despierto, escribe «guardia».
+[ 191.10] Lo revisaremos uno a uno.
+[ 195.20] Regla número cuatro.
+[ 197.20] No enciendas la luz del pasillo.
+[ 199.58] En mil novecientos noventa y dos, un científico encerró a unos voluntarios con catorce horas de oscuridad al día.
+[ 206.98] Durante un mes.
+[ 209.40] Al cabo de unas semanas, su sueño se partió en dos.
+[ 212.82] Cuatro horas dormidos.
+[ 214.26] Una, dos o tres horas despiertos, en calma.
+[ 217.18] Otras cuatro horas dormidos.
+[ 222.08] Nadie se lo pidió.
+[ 223.88] El cuerpo se acordó solo.
+[ 225.70] La luz es lo único que te lo hacía olvidar.
+[ 229.90] Regla número cinco.
+[ 231.58] A las tres y cuatro, escucha la casa.
+[ 234.22] Primero cruje la madera.
+[ 235.56] Luego la nevera.
+[ 236.78] Luego algo en el pasillo.
+[ 238.50] Despacio.
+[ 239.44] Hacia tu puerta.
+[ 241.64] Se para delante.
+[ 244.78] No entra.
+[ 245.52] Espera.
+[ 246.30] Tú tampoco te mueves.
+[ 247.70] Alguien hacía esa ronda antes que tú.
+[ 251.46] Regla número seis.
+[ 253.32] Si hay alguien más despierto, no le preguntes por qué.
+[ 256.88] Lo sabrás por la luz bajo su puerta.
+[ 259.48] O por el ruido de un vaso en la cocina.
+[ 261.96] Está haciendo lo mismo que tú.
+[ 264.86] Mañana, en el desayuno, dirá que ha dormido bien.
+[ 268.64] Tú también lo dirás.
+[ 269.72] Los dos sabéis que no es verdad.
+[ 272.28] Nadie pregunta nada.
+[ 275.00] Regla número siete.
+[ 279.94] La regla siete todavía no se ha despertado.
+[ 283.48] Esperaremos.
+[ 286.96] Gracias.
+[ 289.14] Seis reglas.
+[ 292.60] No has roto ninguna.
+[ 293.88] Nadie te las dio.
+[ 295.10] Alguien sí.
+[ 297.62] Este archivo no va sobre la hora.
+[ 301.62] Sujeto: un humano adulto.
+[ 303.66] Duerme de un tirón.
+[ 304.88] Con la luz del móvil.
+[ 306.26] Nunca hace la ronda.
+[ 308.80] Tu casa no está acostumbrada a eso.
+[ 312.86] Durante siglos, en cada casa había alguien despierto a las tres.
+[ 317.22] Avivaba el fuego.
+[ 318.66] Miraba la puerta.
+[ 319.84] Escuchaba.
+[ 321.04] Tu casa todavía lo espera.
+[ 322.94] Por eso te despierta a ti.
+[ 327.12] Regla número siete.
+[ 328.72] Cuando te despiertes a las tres, no mires el reloj.
+[ 331.84] Levántate.
+[ 332.88] Da una vuelta por la casa.
+[ 334.72] Comprueba la puerta.
+[ 336.14] Vuelve a la cama.
+[ 337.22] Es tu turno.
+[ 339.40] La regla ocho es para la noche en que te levantes y la ronda ya esté hecha.
+[ 346.28] El empleado que escribió este archivo se despertaba a las tres cada noche.
+[ 351.08] Hacía la ronda.
+[ 352.84] Una noche de marzo, durmió de un tirón.
+[ 356.44] A la mañana siguiente, su puerta estaba cerrada con llave.
+[ 360.40] Por dentro.
+[ 361.42] Y la ronda estaba hecha.
+[ 364.78] Nosotros no escribimos este archivo.
+[ 367.40] Nos pidieron que te lo leyéramos.
+[ 371.74] Gracias por su cooperación.
+[ 375.18] Queda un trámite.
+[ 377.38] Este archivo no es el único.
+[ 379.50] Si quieres recibir el siguiente, suscríbete al canal.
+[ 382.96] El Negociado avisa primero a los suscriptores.
+[ 386.98] Y cuéntanos en los comentarios qué haces tú cuando te despiertas a las tres.
+[ 391.64] El próximo archivo puede ser el tuyo.
+[ 397.82] Buenas noches.
