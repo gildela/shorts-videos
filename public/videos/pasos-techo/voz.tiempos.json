@@ -1,0 +1,5568 @@
+{
+ "duracion": 436.95,
+ "capitulos": [],
+ "frases": [
+  {
+   "texto": "Son las tres y cuatro minutos de la madrugada.",
+   "ini": 0.0,
+   "fin": 2.46
+  },
+  {
+   "texto": "Estás despierto.",
+   "ini": 2.92,
+   "fin": 3.9
+  },
+  {
+   "texto": "La casa está en silencio.",
+   "ini": 4.38,
+   "fin": 5.72
+  },
+  {
+   "texto": "Y encima de ti, en el techo…",
+   "ini": 5.72,
+   "fin": 7.78
+  },
+  {
+   "texto": "algo camina.",
+   "ini": 8.16,
+   "fin": 8.82
+  },
+  {
+   "texto": "Son pasos.",
+   "ini": 10.27,
+   "fin": 11.06
+  },
+  {
+   "texto": "Muy cortos.",
+   "ini": 11.26,
+   "fin": 12.0
+  },
+  {
+   "texto": "Muy rápidos.",
+   "ini": 12.26,
+   "fin": 12.82
+  },
+  {
+   "texto": "Se paran justo encima de tu cama.",
+   "ini": 12.82,
+   "fin": 14.84
+  },
+  {
+   "texto": "Si esto te ha pasado alguna vez, este archivo es para ti.",
+   "ini": 16.79,
+   "fin": 19.88
+  },
+  {
+   "texto": "No golpees el techo.",
+   "ini": 20.38,
+   "fin": 21.58
+  },
+  {
+   "texto": "No subas a mirar.",
+   "ini": 21.96,
+   "fin": 22.96
+  },
+  {
+   "texto": "Y sobre todo…",
+   "ini": 22.96,
+   "fin": 24.06
+  },
+  {
+   "texto": "no intentes contarlos.",
+   "ini": 24.06,
+   "fin": 25.56
+  },
+  {
+   "texto": "Llevan ahí desde que empezó el frío.",
+   "ini": 26.92,
+   "fin": 29.08
+  },
+  {
+   "texto": "Hay siete reglas.",
+   "ini": 29.84,
+   "fin": 30.92
+  },
+  {
+   "texto": "Casi todos los que los han oído ya cumplen seis.",
+   "ini": 31.48,
+   "fin": 33.74
+  },
+  {
+   "texto": "Nadie os las ha explicado.",
+   "ini": 34.38,
+   "fin": 35.78
+  },
+  {
+   "texto": "Archivo cero veintiuno.",
+   "ini": 37.74,
+   "fin": 39.8
+  },
+  {
+   "texto": "Pasos en el techo.",
+   "ini": 39.8,
+   "fin": 40.94
+  },
+  {
+   "texto": "Negociado de Asuntos Nocturnos.",
+   "ini": 41.3,
+   "fin": 43.16
+  },
+  {
+   "texto": "Por favor, sigue todas las instrucciones.",
+   "ini": 43.46,
+   "fin": 45.68
+  },
+  {
+   "texto": "Antes de empezar, el Negociado necesita un dato.",
+   "ini": 47.08,
+   "fin": 50.16
+  },
+  {
+   "texto": "¿A qué hora empiezan en tu casa?",
+   "ini": 50.16,
+   "fin": 52.4
+  },
+  {
+   "texto": "Escríbela en los comentarios.",
+   "ini": 53.04,
+   "fin": 54.34
+  },
+  {
+   "texto": "Las estamos contando.",
+   "ini": 55.12,
+   "fin": 56.06
+  },
+  {
+   "texto": "Regla número uno.",
+   "ini": 57.6,
+   "fin": 59.18
+  },
+  {
+   "texto": "No subas a mirar.",
+   "ini": 59.18,
+   "fin": 60.12
+  },
+  {
+   "texto": "Lo que camina encima pesa unos quince gramos.",
+   "ini": 60.42,
+   "fin": 62.8
+  },
+  {
+   "texto": "Lo mismo que dos monedas de un euro.",
+   "ini": 63.24,
+   "fin": 65.08
+  },
+  {
+   "texto": "No es una persona.",
+   "ini": 65.44,
+   "fin": 66.46
+  },
+  {
+   "texto": "Es un ratón.",
+   "ini": 66.78,
+   "fin": 67.42
+  },
+  {
+   "texto": "Los ratones viven de noche.",
+   "ini": 68.9,
+   "fin": 70.3
+  },
+  {
+   "texto": "Y en otoño, cuando las noches se enfrían, entran en las casas.",
+   "ini": 71.16,
+   "fin": 74.7
+  },
+  {
+   "texto": "Buscan calor.",
+   "ini": 75.18,
+   "fin": 75.8
+  },
+  {
+   "texto": "Lo encuentran encima de ti.",
+   "ini": 76.4,
+   "fin": 77.82
+  },
+  {
+   "texto": "Tu techo es su suelo.",
+   "ini": 78.26,
+   "fin": 79.22
+  },
+  {
+   "texto": "Si subes, no lo verás.",
+   "ini": 80.6,
+   "fin": 82.46
+  },
+  {
+   "texto": "Él a ti sí.",
+   "ini": 82.8,
+   "fin": 83.3
+  },
+  {
+   "texto": "Nota un movimiento a cuatro metros y medio.",
+   "ini": 83.78,
+   "fin": 85.76
+  },
+  {
+   "texto": "Tú no lo verías a un palmo.",
+   "ini": 86.22,
+   "fin": 87.52
+  },
+  {
+   "texto": "Regla número dos.",
+   "ini": 90.44,
+   "fin": 91.54
+  },
+  {
+   "texto": "Busca los agujeros del grosor de un lápiz.",
+   "ini": 92.12,
+   "fin": 94.42
+  },
+  {
+   "texto": "Un ratón cabe por un hueco de seis milímetros.",
+   "ini": 94.9,
+   "fin": 97.34
+  },
+  {
+   "texto": "El grosor de un lápiz.",
+   "ini": 98.06,
+   "fin": 99.32
+  },
+  {
+   "texto": "Lo dicen los Centros para el Control de Enfermedades de Estados Unidos.",
+   "ini": 99.32,
+   "fin": 103.3
+  },
+  {
+   "texto": "Una rata necesita el doble.",
+   "ini": 103.9,
+   "fin": 105.42
+  },
+  {
+   "texto": "Un ratón, no.",
+   "ini": 106.08,
+   "fin": 106.94
+  },
+  {
+   "texto": "Tu casa tiene muchos.",
+   "ini": 108.4,
+   "fin": 109.42
+  },
+  {
+   "texto": "Junto a las tuberías.",
+   "ini": 109.96,
+   "fin": 111.08
+  },
+  {
+   "texto": "Bajo las tejas.",
+   "ini": 111.48,
+   "fin": 112.34
+  },
+  {
+   "texto": "En la rejilla del desván.",
+   "ini": 112.72,
+   "fin": 114.42
+  },
+  {
+   "texto": "Rellénalos con lana de acero.",
+   "ini": 114.42,
+   "fin": 115.84
+  },
+  {
+   "texto": "Esa no la puede roer.",
+   "ini": 116.38,
+   "fin": 117.52
+  },
+  {
+   "texto": "Tápalos todos.",
+   "ini": 118.84,
+   "fin": 119.7
+  },
+  {
+   "texto": "Luego escucha.",
+   "ini": 120.42,
+   "fin": 121.3
+  },
+  {
+   "texto": "Si los pasos siguen, ya estaban dentro.",
+   "ini": 121.7,
+   "fin": 123.92
+  },
+  {
+   "texto": "Y no eres el único que está escuchando.",
+   "ini": 124.42,
+   "fin": 126.34
+  },
+  {
+   "texto": "Regla número tres.",
+   "ini": 128.3,
+   "fin": 130.0
+  },
+  {
+   "texto": "No intentes contarlos.",
+   "ini": 130.0,
+   "fin": 131.02
+  },
+  {
+   "texto": "Lo has intentado.",
+   "ini": 131.34,
+   "fin": 132.12
+  },
+  {
+   "texto": "Primero oíste uno.",
+   "ini": 132.5,
+   "fin": 133.34
+  },
+  {
+   "texto": "Luego, dos a la vez.",
+   "ini": 133.68,
+   "fin": 135.02
+  },
+  {
+   "texto": "Luego, uno que corría y otro que no se movía.",
+   "ini": 135.46,
+   "fin": 138.0
+  },
+  {
+   "texto": "Una hembra puede tener de cinco a diez camadas al año.",
+   "ini": 139.5,
+   "fin": 142.78
+  },
+  {
+   "texto": "De cinco o seis crías cada una.",
+   "ini": 143.06,
+   "fin": 144.9
+  },
+  {
+   "texto": "A las seis semanas, las crías ya pueden tener crías.",
+   "ini": 145.36,
+   "fin": 148.58
+  },
+  {
+   "texto": "Si un día contaste uno, ya no es uno.",
+   "ini": 150.08,
+   "fin": 152.5
+  },
+  {
+   "texto": "Dos mil cinco.",
+   "ini": 155.5,
+   "fin": 159.92
+  },
+  {
+   "texto": "Universidad de Washington, en San Luis.",
+   "ini": 159.92,
+   "fin": 162.24
+  },
+  {
+   "texto": "Dos científicos grabaron a ratones machos.",
+   "ini": 162.8,
+   "fin": 165.56
+  },
+  {
+   "texto": "Descubrieron que cantan.",
+   "ini": 165.8,
+   "fin": 167.14
+  },
+  {
+   "texto": "Canciones con frases que se repiten.",
+   "ini": 167.62,
+   "fin": 169.46
+  },
+  {
+   "texto": "Cada macho tiene la suya.",
+   "ini": 169.96,
+   "fin": 171.32
+  },
+  {
+   "texto": "Cantan entre treinta mil y ciento diez mil vibraciones por segundo.",
+   "ini": 172.96,
+   "fin": 176.84
+  },
+  {
+   "texto": "Tu oído llega a unas veinte mil.",
+   "ini": 177.44,
+   "fin": 179.16
+  },
+  {
+   "texto": "Esta noche, encima de tu cama, hay un concierto.",
+   "ini": 179.16,
+   "fin": 182.84
+  },
+  {
+   "texto": "No te han invitado.",
+   "ini": 183.28,
+   "fin": 184.18
+  },
+  {
+   "texto": "El Negociado necesita confirmarlo.",
+   "ini": 187.18,
+   "fin": 189.54
+  },
+  {
+   "texto": "¿Qué hay encima de tu dormitorio?",
+   "ini": 190.02,
+   "fin": 191.54
+  },
+  {
+   "texto": "Si hay un vecino, escribe «arriba».",
+   "ini": 192.04,
+   "fin": 193.98
+  },
+  {
+   "texto": "Si solo hay tejado, escribe «tejado».",
+   "ini": 194.58,
+   "fin": 196.74
+  },
+  {
+   "texto": "Lo revisaremos uno a uno.",
+   "ini": 197.34,
+   "fin": 198.76
+  },
+  {
+   "texto": "Regla número cuatro.",
+   "ini": 200.1,
+   "fin": 202.18
+  },
+  {
+   "texto": "Duerme siempre en la misma cama.",
+   "ini": 202.18,
+   "fin": 203.92
+  },
+  {
+   "texto": "Dos mil dieciséis.",
+   "ini": 203.92,
+   "fin": 206.0
+  },
+  {
+   "texto": "Universidad Brown, en Estados Unidos.",
+   "ini": 206.0,
+   "fin": 208.44
+  },
+  {
+   "texto": "Treinta y cinco voluntarios durmieron en un laboratorio.",
+   "ini": 208.44,
+   "fin": 211.92
+  },
+  {
+   "texto": "La primera noche, la mitad izquierda de su cerebro no se durmió.",
+   "ini": 212.48,
+   "fin": 216.46
+  },
+  {
+   "texto": "Se quedó de guardia.",
+   "ini": 216.84,
+   "fin": 217.74
+  },
+  {
+   "texto": "Reaccionaba a cada sonido raro.",
+   "ini": 218.16,
+   "fin": 219.9
+  },
+  {
+   "texto": "Lo llamaron el efecto de la primera noche.",
+   "ini": 221.4,
+   "fin": 223.7
+  },
+  {
+   "texto": "En tu cama, tu cerebro duerme entero.",
+   "ini": 224.38,
+   "fin": 226.74
+  },
+  {
+   "texto": "Fuera de ella, una mitad vigila el techo.",
+   "ini": 227.4,
+   "fin": 229.88
+  },
+  {
+   "texto": "Si los oyes en tu propia cama, pregúntate qué mitad está despierta.",
+   "ini": 231.38,
+   "fin": 235.94
+  },
+  {
+   "texto": "Regla número cinco.",
+   "ini": 238.08,
+   "fin": 239.02
+  },
+  {
+   "texto": "Si cruje, déjalo crujir.",
+   "ini": 239.54,
+   "fin": 241.1
+  },
+  {
+   "texto": "No todo lo que suena en el techo camina.",
+   "ini": 241.5,
+   "fin": 243.24
+  },
+  {
+   "texto": "De noche la casa se enfría.",
+   "ini": 243.78,
+   "fin": 245.2
+  },
+  {
+   "texto": "La madera y el metal se encogen.",
+   "ini": 245.62,
+   "fin": 247.68
+  },
+  {
+   "texto": "Rozan con los clavos.",
+   "ini": 247.68,
+   "fin": 248.78
+  },
+  {
+   "texto": "Crujen.",
+   "ini": 249.04,
+   "fin": 249.4
+  },
+  {
+   "texto": "Suena como un paso lento.",
+   "ini": 249.82,
+   "fin": 251.06
+  },
+  {
+   "texto": "Uno solo.",
+   "ini": 251.46,
+   "fin": 251.98
+  },
+  {
+   "texto": "Los ratones no dan pasos lentos.",
+   "ini": 253.5,
+   "fin": 255.34
+  },
+  {
+   "texto": "Corren.",
+   "ini": 255.82,
+   "fin": 256.16
+  },
+  {
+   "texto": "Si oyes uno lento, es la casa.",
+   "ini": 256.16,
+   "fin": 258.16
+  },
+  {
+   "texto": "Si oyes uno lento…",
+   "ini": 259.66,
+   "fin": 261.78
+  },
+  {
+   "texto": "y luego corre, no es la casa.",
+   "ini": 261.78,
+   "fin": 263.06
+  },
+  {
+   "texto": "Regla número seis.",
+   "ini": 265.0,
+   "fin": 266.3
+  },
+  {
+   "texto": "No dejes comida en la mesilla.",
+   "ini": 266.96,
+   "fin": 268.8
+  },
+  {
+   "texto": "Un ratón hace unas doscientas comidas pequeñas cada noche.",
+   "ini": 269.52,
+   "fin": 272.88
+  },
+  {
+   "texto": "Casi nunca se aleja más de nueve metros de su nido.",
+   "ini": 273.38,
+   "fin": 276.84
+  },
+  {
+   "texto": "Mide la distancia de tu techo a tu almohada.",
+   "ini": 276.84,
+   "fin": 278.92
+  },
+  {
+   "texto": "También roe.",
+   "ini": 280.28,
+   "fin": 281.24
+  },
+  {
+   "texto": "Los cables.",
+   "ini": 281.68,
+   "fin": 282.16
+  },
+  {
+   "texto": "Las tuberías de gas.",
+   "ini": 282.84,
+   "fin": 283.74
+  },
+  {
+   "texto": "Muchos incendios sin explicación empezaron así.",
+   "ini": 284.32,
+   "fin": 286.92
+  },
+  {
+   "texto": "Lo cree la Universidad de California.",
+   "ini": 287.46,
+   "fin": 289.3
+  },
+  {
+   "texto": "Con un mordisco.",
+   "ini": 289.78,
+   "fin": 290.68
+  },
+  {
+   "texto": "Dentro de una pared.",
+   "ini": 291.16,
+   "fin": 292.0
+  },
+  {
+   "texto": "No va a por ti.",
+   "ini": 293.28,
+   "fin": 294.32
+  },
+  {
+   "texto": "Va a por la galleta.",
+   "ini": 294.78,
+   "fin": 295.7
+  },
+  {
+   "texto": "Tú solo estás al lado.",
+   "ini": 296.16,
+   "fin": 297.2
+  },
+  {
+   "texto": "Regla número siete.",
+   "ini": 299.18,
+   "fin": 301.76
+  },
+  {
+   "texto": "Está sentado encima de la regla siete.",
+   "ini": 303.76,
+   "fin": 307.64
+  },
+  {
+   "texto": "Esperaremos.",
+   "ini": 307.64,
+   "fin": 307.94
+  },
+  {
+   "texto": "Gracias.",
+   "ini": 311.2,
+   "fin": 311.8
+  },
+  {
+   "texto": "Seis reglas.",
+   "ini": 313.8,
+   "fin": 314.78
+  },
+  {
+   "texto": "No has roto ninguna.",
+   "ini": 315.12,
+   "fin": 315.98
+  },
+  {
+   "texto": "Nadie te las dio.",
+   "ini": 316.5,
+   "fin": 317.24
+  },
+  {
+   "texto": "Alguien sí.",
+   "ini": 317.62,
+   "fin": 318.14
+  },
+  {
+   "texto": "Este archivo no va sobre los ratones.",
+   "ini": 319.96,
+   "fin": 322.42
+  },
+  {
+   "texto": "Sujeto: un humano adulto.",
+   "ini": 324.08,
+   "fin": 325.94
+  },
+  {
+   "texto": "Vive en un piso.",
+   "ini": 326.22,
+   "fin": 326.96
+  },
+  {
+   "texto": "Se despierta a las tres.",
+   "ini": 327.44,
+   "fin": 328.56
+  },
+  {
+   "texto": "Cruza el pasillo descalzo.",
+   "ini": 328.56,
+   "fin": 330.8
+  },
+  {
+   "texto": "Abre la nevera.",
+   "ini": 330.8,
+   "fin": 331.54
+  },
+  {
+   "texto": "Vuelve a la cama.",
+   "ini": 331.86,
+   "fin": 332.48
+  },
+  {
+   "texto": "En España, la ley mide con una máquina el ruido de pisadas.",
+   "ini": 333.98,
+   "fin": 337.8
+  },
+  {
+   "texto": "El que atraviesa el suelo.",
+   "ini": 338.44,
+   "fin": 339.74
+  },
+  {
+   "texto": "Hasta sesenta y cinco decibelios está permitido.",
+   "ini": 340.34,
+   "fin": 342.94
+  },
+  {
+   "texto": "Ese ruido pasa.",
+   "ini": 343.44,
+   "fin": 344.32
+  },
+  {
+   "texto": "Tiene permiso.",
+   "ini": 344.32,
+   "fin": 345.64
+  },
+  {
+   "texto": "Debajo de ti hay alguien despierto.",
+   "ini": 347.64,
+   "fin": 349.5
+  },
+  {
+   "texto": "Mirando al techo.",
+   "ini": 350.06,
+   "fin": 350.98
+  },
+  {
+   "texto": "Contando.",
+   "ini": 351.4,
+   "fin": 351.92
+  },
+  {
+   "texto": "Los pasos en el techo de alguien eres tú.",
+   "ini": 353.42,
+   "fin": 356.06
+  },
+  {
+   "texto": "Regla número siete.",
+   "ini": 358.94,
+   "fin": 360.82
+  },
+  {
+   "texto": "Cuando oigas pasos encima, no golpees el techo.",
+   "ini": 360.82,
+   "fin": 363.74
+  },
+  {
+   "texto": "Arriba, alguien está oyendo los suyos.",
+   "ini": 364.2,
+   "fin": 366.4
+  },
+  {
+   "texto": "La regla ocho es para los que viven en el último piso.",
+   "ini": 367.76,
+   "fin": 370.88
+  },
+  {
+   "texto": "Encima no tienen a nadie.",
+   "ini": 371.46,
+   "fin": 372.7
+  },
+  {
+   "texto": "Sigue sentado encima de esa.",
+   "ini": 373.48,
+   "fin": 376.58
+  },
+  {
+   "texto": "El empleado que escribió este archivo vivía en un último piso.",
+   "ini": 378.58,
+   "fin": 382.06
+  },
+  {
+   "texto": "Encima, solo tejado.",
+   "ini": 382.5,
+   "fin": 384.52
+  },
+  {
+   "texto": "Tapó cada agujero del grosor de un lápiz.",
+   "ini": 384.52,
+   "fin": 386.54
+  },
+  {
+   "texto": "Las trampas amanecían vacías.",
+   "ini": 386.92,
+   "fin": 388.54
+  },
+  {
+   "texto": "Los pasos seguían.",
+   "ini": 389.22,
+   "fin": 390.18
+  },
+  {
+   "texto": "Lentos.",
+   "ini": 390.6,
+   "fin": 391.2
+  },
+  {
+   "texto": "Descalzos.",
+   "ini": 391.64,
+   "fin": 392.18
+  },
+  {
+   "texto": "En marzo dejaron de sonar.",
+   "ini": 393.76,
+   "fin": 395.48
+  },
+  {
+   "texto": "Esa misma semana llamó su vecina de abajo.",
+   "ini": 396.04,
+   "fin": 398.04
+  },
+  {
+   "texto": "Dice que ahora los oye ella.",
+   "ini": 398.68,
+   "fin": 400.4
+  },
+  {
+   "texto": "A las tres y cuatro minutos.",
+   "ini": 400.7,
+   "fin": 402.08
+  },
+  {
+   "texto": "Nosotros no escribimos este archivo.",
+   "ini": 404.12,
+   "fin": 406.58
+  },
+  {
+   "texto": "Nos pidieron que te lo leyéramos.",
+   "ini": 407.06,
+   "fin": 408.8
+  },
+  {
+   "texto": "Gracias por su cooperación.",
+   "ini": 410.98,
+   "fin": 412.88
+  },
+  {
+   "texto": "Queda un trámite.",
+   "ini": 414.88,
+   "fin": 416.12
+  },
+  {
+   "texto": "Este archivo no es el único.",
+   "ini": 416.86,
+   "fin": 418.56
+  },
+  {
+   "texto": "Si quieres recibir el siguiente, suscríbete al canal.",
+   "ini": 419.18,
+   "fin": 422.02
+  },
+  {
+   "texto": "El Negociado avisa primero a los suscriptores.",
+   "ini": 422.66,
+   "fin": 425.36
+  },
+  {
+   "texto": "Y cuéntanos en los comentarios qué se oye en tu techo de noche.",
+   "ini": 426.84,
+   "fin": 430.56
+  },
+  {
+   "texto": "El próximo archivo puede ser el tuyo.",
+   "ini": 431.38,
+   "fin": 434.04
+  },
+  {
+   "texto": "Escucha.",
+   "ini": 436.04,
+   "fin": 436.68
+  }
+ ],
+ "palabras": [
+  {
+   "p": "Son",
+   "ini": 0.0,
+   "fin": 0.38
+  },
+  {
+   "p": "las",
+   "ini": 0.38,
+   "fin": 0.58
+  },
+  {
+   "p": "tres",
+   "ini": 0.58,
+   "fin": 0.82
+  },
+  {
+   "p": "y",
+   "ini": 0.82,
+   "fin": 1.02
+  },
+  {
+   "p": "cuatro",
+   "ini": 1.02,
+   "fin": 1.24
+  },
+  {
+   "p": "minutos",
+   "ini": 1.24,
+   "fin": 1.68
+  },
+  {
+   "p": "de",
+   "ini": 1.68,
+   "fin": 1.9
+  },
+  {
+   "p": "la",
+   "ini": 1.9,
+   "fin": 1.98
+  },
+  {
+   "p": "madrugada.",
+   "ini": 1.98,
+   "fin": 2.46
+  },
+  {
+   "p": "Estás",
+   "ini": 2.92,
+   "fin": 3.3
+  },
+  {
+   "p": "despierto.",
+   "ini": 3.3,
+   "fin": 3.9
+  },
+  {
+   "p": "La",
+   "ini": 4.38,
+   "fin": 4.52
+  },
+  {
+   "p": "casa",
+   "ini": 4.52,
+   "fin": 4.78
+  },
+  {
+   "p": "está",
+   "ini": 4.78,
+   "fin": 5.08
+  },
+  {
+   "p": "en",
+   "ini": 5.08,
+   "fin": 5.24
+  },
+  {
+   "p": "silencio.",
+   "ini": 5.24,
+   "fin": 5.72
+  },
+  {
+   "p": "Y",
+   "ini": 5.72,
+   "fin": 6.2
+  },
+  {
+   "p": "encima",
+   "ini": 6.2,
+   "fin": 6.54
+  },
+  {
+   "p": "de",
+   "ini": 6.54,
+   "fin": 6.7
+  },
+  {
+   "p": "ti,",
+   "ini": 6.7,
+   "fin": 6.88
+  },
+  {
+   "p": "en",
+   "ini": 7.22,
+   "fin": 7.34
+  },
+  {
+   "p": "el",
+   "ini": 7.34,
+   "fin": 7.48
+  },
+  {
+   "p": "techo…",
+   "ini": 7.48,
+   "fin": 7.78
+  },
+  {
+   "p": "algo",
+   "ini": 8.16,
+   "fin": 8.42
+  },
+  {
+   "p": "camina.",
+   "ini": 8.42,
+   "fin": 8.82
+  },
+  {
+   "p": "Son",
+   "ini": 10.27,
+   "fin": 10.58
+  },
+  {
+   "p": "pasos.",
+   "ini": 10.58,
+   "fin": 11.06
+  },
+  {
+   "p": "Muy",
+   "ini": 11.26,
+   "fin": 11.46
+  },
+  {
+   "p": "cortos.",
+   "ini": 11.46,
+   "fin": 12.0
+  },
+  {
+   "p": "Muy",
+   "ini": 12.26,
+   "fin": 12.36
+  },
+  {
+   "p": "rápidos.",
+   "ini": 12.36,
+   "fin": 12.82
+  },
+  {
+   "p": "Se",
+   "ini": 12.82,
+   "fin": 13.23
+  },
+  {
+   "p": "paran",
+   "ini": 13.23,
+   "fin": 13.64
+  },
+  {
+   "p": "justo",
+   "ini": 13.64,
+   "fin": 13.86
+  },
+  {
+   "p": "encima",
+   "ini": 13.86,
+   "fin": 14.36
+  },
+  {
+   "p": "de",
+   "ini": 14.36,
+   "fin": 14.5
+  },
+  {
+   "p": "tu",
+   "ini": 14.5,
+   "fin": 14.62
+  },
+  {
+   "p": "cama.",
+   "ini": 14.62,
+   "fin": 14.84
+  },
+  {
+   "p": "Si",
+   "ini": 16.79,
+   "fin": 17.1
+  },
+  {
+   "p": "esto",
+   "ini": 17.1,
+   "fin": 17.34
+  },
+  {
+   "p": "te",
+   "ini": 17.34,
+   "fin": 17.5
+  },
+  {
+   "p": "ha",
+   "ini": 17.5,
+   "fin": 17.54
+  },
+  {
+   "p": "pasado",
+   "ini": 17.54,
+   "fin": 17.8
+  },
+  {
+   "p": "alguna",
+   "ini": 17.8,
+   "fin": 18.12
+  },
+  {
+   "p": "vez,",
+   "ini": 18.12,
+   "fin": 18.44
+  },
+  {
+   "p": "este",
+   "ini": 18.76,
+   "fin": 18.96
+  },
+  {
+   "p": "archivo",
+   "ini": 18.96,
+   "fin": 19.32
+  },
+  {
+   "p": "es",
+   "ini": 19.32,
+   "fin": 19.5
+  },
+  {
+   "p": "para",
+   "ini": 19.5,
+   "fin": 19.68
+  },
+  {
+   "p": "ti.",
+   "ini": 19.68,
+   "fin": 19.88
+  },
+  {
+   "p": "No",
+   "ini": 20.38,
+   "fin": 20.58
+  },
+  {
+   "p": "golpees",
+   "ini": 20.58,
+   "fin": 21.0
+  },
+  {
+   "p": "el",
+   "ini": 21.0,
+   "fin": 21.22
+  },
+  {
+   "p": "techo.",
+   "ini": 21.22,
+   "fin": 21.58
+  },
+  {
+   "p": "No",
+   "ini": 21.96,
+   "fin": 22.12
+  },
+  {
+   "p": "subas",
+   "ini": 22.12,
+   "fin": 22.52
+  },
+  {
+   "p": "a",
+   "ini": 22.52,
+   "fin": 22.62
+  },
+  {
+   "p": "mirar.",
+   "ini": 22.62,
+   "fin": 22.96
+  },
+  {
+   "p": "Y",
+   "ini": 22.96,
+   "fin": 23.56
+  },
+  {
+   "p": "sobre",
+   "ini": 23.56,
+   "fin": 23.76
+  },
+  {
+   "p": "todo…",
+   "ini": 23.76,
+   "fin": 24.06
+  },
+  {
+   "p": "no",
+   "ini": 24.06,
+   "fin": 24.5
+  },
+  {
+   "p": "intentes",
+   "ini": 24.5,
+   "fin": 24.98
+  },
+  {
+   "p": "contarlos.",
+   "ini": 24.98,
+   "fin": 25.56
+  },
+  {
+   "p": "Llevan",
+   "ini": 26.92,
+   "fin": 27.54
+  },
+  {
+   "p": "ahí",
+   "ini": 27.54,
+   "fin": 27.8
+  },
+  {
+   "p": "desde",
+   "ini": 27.8,
+   "fin": 28.04
+  },
+  {
+   "p": "que",
+   "ini": 28.04,
+   "fin": 28.26
+  },
+  {
+   "p": "empezó",
+   "ini": 28.26,
+   "fin": 28.64
+  },
+  {
+   "p": "el",
+   "ini": 28.64,
+   "fin": 28.76
+  },
+  {
+   "p": "frío.",
+   "ini": 28.76,
+   "fin": 29.08
+  },
+  {
+   "p": "Hay",
+   "ini": 29.84,
+   "fin": 30.14
+  },
+  {
+   "p": "siete",
+   "ini": 30.14,
+   "fin": 30.5
+  },
+  {
+   "p": "reglas.",
+   "ini": 30.5,
+   "fin": 30.92
+  },
+  {
+   "p": "Casi",
+   "ini": 31.48,
+   "fin": 31.68
+  },
+  {
+   "p": "todos",
+   "ini": 31.68,
+   "fin": 31.94
+  },
+  {
+   "p": "los",
+   "ini": 31.94,
+   "fin": 32.22
+  },
+  {
+   "p": "que",
+   "ini": 32.22,
+   "fin": 32.34
+  },
+  {
+   "p": "los",
+   "ini": 32.34,
+   "fin": 32.48
+  },
+  {
+   "p": "han",
+   "ini": 32.48,
+   "fin": 32.62
+  },
+  {
+   "p": "oído",
+   "ini": 32.62,
+   "fin": 32.84
+  },
+  {
+   "p": "ya",
+   "ini": 32.84,
+   "fin": 33.04
+  },
+  {
+   "p": "cumplen",
+   "ini": 33.04,
+   "fin": 33.44
+  },
+  {
+   "p": "seis.",
+   "ini": 33.44,
+   "fin": 33.74
+  },
+  {
+   "p": "Nadie",
+   "ini": 34.38,
+   "fin": 34.74
+  },
+  {
+   "p": "os",
+   "ini": 34.74,
+   "fin": 34.88
+  },
+  {
+   "p": "las",
+   "ini": 34.88,
+   "fin": 35.04
+  },
+  {
+   "p": "ha",
+   "ini": 35.04,
+   "fin": 35.2
+  },
+  {
+   "p": "explicado.",
+   "ini": 35.2,
+   "fin": 35.78
+  },
+  {
+   "p": "Archivo",
+   "ini": 37.74,
+   "fin": 38.3
+  },
+  {
+   "p": "cero",
+   "ini": 38.3,
+   "fin": 39.05
+  },
+  {
+   "p": "veintiuno.",
+   "ini": 39.05,
+   "fin": 39.8
+  },
+  {
+   "p": "Pasos",
+   "ini": 39.8,
+   "fin": 40.28
+  },
+  {
+   "p": "en",
+   "ini": 40.28,
+   "fin": 40.44
+  },
+  {
+   "p": "el",
+   "ini": 40.44,
+   "fin": 40.56
+  },
+  {
+   "p": "techo.",
+   "ini": 40.56,
+   "fin": 40.94
+  },
+  {
+   "p": "Negociado",
+   "ini": 41.3,
+   "fin": 41.78
+  },
+  {
+   "p": "de",
+   "ini": 41.78,
+   "fin": 41.92
+  },
+  {
+   "p": "Asuntos",
+   "ini": 41.92,
+   "fin": 42.4
+  },
+  {
+   "p": "Nocturnos.",
+   "ini": 42.4,
+   "fin": 43.16
+  },
+  {
+   "p": "Por",
+   "ini": 43.46,
+   "fin": 43.6
+  },
+  {
+   "p": "favor,",
+   "ini": 43.6,
+   "fin": 43.96
+  },
+  {
+   "p": "sigue",
+   "ini": 44.2,
+   "fin": 44.5
+  },
+  {
+   "p": "todas",
+   "ini": 44.5,
+   "fin": 44.78
+  },
+  {
+   "p": "las",
+   "ini": 44.78,
+   "fin": 45.02
+  },
+  {
+   "p": "instrucciones.",
+   "ini": 45.02,
+   "fin": 45.68
+  },
+  {
+   "p": "Antes",
+   "ini": 47.08,
+   "fin": 47.7
+  },
+  {
+   "p": "de",
+   "ini": 47.7,
+   "fin": 47.88
+  },
+  {
+   "p": "empezar,",
+   "ini": 47.88,
+   "fin": 48.2
+  },
+  {
+   "p": "el",
+   "ini": 48.7,
+   "fin": 48.86
+  },
+  {
+   "p": "Negociado",
+   "ini": 48.86,
+   "fin": 49.3
+  },
+  {
+   "p": "necesita",
+   "ini": 49.3,
+   "fin": 49.68
+  },
+  {
+   "p": "un",
+   "ini": 49.68,
+   "fin": 49.94
+  },
+  {
+   "p": "dato.",
+   "ini": 49.94,
+   "fin": 50.16
+  },
+  {
+   "p": "¿A",
+   "ini": 50.16,
+   "fin": 50.98
+  },
+  {
+   "p": "qué",
+   "ini": 50.98,
+   "fin": 51.12
+  },
+  {
+   "p": "hora",
+   "ini": 51.12,
+   "fin": 51.28
+  },
+  {
+   "p": "empiezan",
+   "ini": 51.28,
+   "fin": 51.84
+  },
+  {
+   "p": "en",
+   "ini": 51.84,
+   "fin": 52.0
+  },
+  {
+   "p": "tu",
+   "ini": 52.0,
+   "fin": 52.14
+  },
+  {
+   "p": "casa?",
+   "ini": 52.14,
+   "fin": 52.4
+  },
+  {
+   "p": "Escríbela",
+   "ini": 53.04,
+   "fin": 53.64
+  },
+  {
+   "p": "en",
+   "ini": 53.64,
+   "fin": 53.74
+  },
+  {
+   "p": "los",
+   "ini": 53.74,
+   "fin": 53.86
+  },
+  {
+   "p": "comentarios.",
+   "ini": 53.86,
+   "fin": 54.34
+  },
+  {
+   "p": "Las",
+   "ini": 55.12,
+   "fin": 55.18
+  },
+  {
+   "p": "estamos",
+   "ini": 55.18,
+   "fin": 55.52
+  },
+  {
+   "p": "contando.",
+   "ini": 55.52,
+   "fin": 56.06
+  },
+  {
+   "p": "Regla",
+   "ini": 57.6,
+   "fin": 58.04
+  },
+  {
+   "p": "número",
+   "ini": 58.04,
+   "fin": 58.26
+  },
+  {
+   "p": "uno.",
+   "ini": 58.26,
+   "fin": 59.18
+  },
+  {
+   "p": "No",
+   "ini": 59.18,
+   "fin": 59.3
+  },
+  {
+   "p": "subas",
+   "ini": 59.3,
+   "fin": 59.66
+  },
+  {
+   "p": "a",
+   "ini": 59.66,
+   "fin": 59.78
+  },
+  {
+   "p": "mirar.",
+   "ini": 59.78,
+   "fin": 60.12
+  },
+  {
+   "p": "Lo",
+   "ini": 60.42,
+   "fin": 60.5
+  },
+  {
+   "p": "que",
+   "ini": 60.5,
+   "fin": 60.62
+  },
+  {
+   "p": "camina",
+   "ini": 60.62,
+   "fin": 60.96
+  },
+  {
+   "p": "encima",
+   "ini": 60.96,
+   "fin": 61.3
+  },
+  {
+   "p": "pesa",
+   "ini": 61.3,
+   "fin": 61.72
+  },
+  {
+   "p": "unos",
+   "ini": 61.72,
+   "fin": 61.92
+  },
+  {
+   "p": "quince",
+   "ini": 61.92,
+   "fin": 62.32
+  },
+  {
+   "p": "gramos.",
+   "ini": 62.32,
+   "fin": 62.8
+  },
+  {
+   "p": "Lo",
+   "ini": 63.24,
+   "fin": 63.44
+  },
+  {
+   "p": "mismo",
+   "ini": 63.44,
+   "fin": 63.7
+  },
+  {
+   "p": "que",
+   "ini": 63.7,
+   "fin": 63.94
+  },
+  {
+   "p": "dos",
+   "ini": 63.94,
+   "fin": 64.14
+  },
+  {
+   "p": "monedas",
+   "ini": 64.14,
+   "fin": 64.56
+  },
+  {
+   "p": "de",
+   "ini": 64.56,
+   "fin": 64.72
+  },
+  {
+   "p": "un",
+   "ini": 64.72,
+   "fin": 64.82
+  },
+  {
+   "p": "euro.",
+   "ini": 64.82,
+   "fin": 65.08
+  },
+  {
+   "p": "No",
+   "ini": 65.44,
+   "fin": 65.66
+  },
+  {
+   "p": "es",
+   "ini": 65.66,
+   "fin": 65.88
+  },
+  {
+   "p": "una",
+   "ini": 65.88,
+   "fin": 66.04
+  },
+  {
+   "p": "persona.",
+   "ini": 66.04,
+   "fin": 66.46
+  },
+  {
+   "p": "Es",
+   "ini": 66.78,
+   "fin": 66.94
+  },
+  {
+   "p": "un",
+   "ini": 66.94,
+   "fin": 67.08
+  },
+  {
+   "p": "ratón.",
+   "ini": 67.08,
+   "fin": 67.42
+  },
+  {
+   "p": "Los",
+   "ini": 68.9,
+   "fin": 69.16
+  },
+  {
+   "p": "ratones",
+   "ini": 69.16,
+   "fin": 69.56
+  },
+  {
+   "p": "viven",
+   "ini": 69.56,
+   "fin": 69.92
+  },
+  {
+   "p": "de",
+   "ini": 69.92,
+   "fin": 70.06
+  },
+  {
+   "p": "noche.",
+   "ini": 70.06,
+   "fin": 70.3
+  },
+  {
+   "p": "Y",
+   "ini": 71.16,
+   "fin": 71.32
+  },
+  {
+   "p": "en",
+   "ini": 71.32,
+   "fin": 71.44
+  },
+  {
+   "p": "otoño,",
+   "ini": 71.44,
+   "fin": 71.8
+  },
+  {
+   "p": "cuando",
+   "ini": 72.04,
+   "fin": 72.16
+  },
+  {
+   "p": "las",
+   "ini": 72.16,
+   "fin": 72.4
+  },
+  {
+   "p": "noches",
+   "ini": 72.4,
+   "fin": 72.76
+  },
+  {
+   "p": "se",
+   "ini": 72.76,
+   "fin": 72.94
+  },
+  {
+   "p": "enfrían,",
+   "ini": 72.94,
+   "fin": 73.32
+  },
+  {
+   "p": "entran",
+   "ini": 73.6,
+   "fin": 73.9
+  },
+  {
+   "p": "en",
+   "ini": 73.9,
+   "fin": 74.06
+  },
+  {
+   "p": "las",
+   "ini": 74.06,
+   "fin": 74.2
+  },
+  {
+   "p": "casas.",
+   "ini": 74.2,
+   "fin": 74.7
+  },
+  {
+   "p": "Buscan",
+   "ini": 75.18,
+   "fin": 75.5
+  },
+  {
+   "p": "calor.",
+   "ini": 75.5,
+   "fin": 75.8
+  },
+  {
+   "p": "Lo",
+   "ini": 76.4,
+   "fin": 76.52
+  },
+  {
+   "p": "encuentran",
+   "ini": 76.52,
+   "fin": 77.04
+  },
+  {
+   "p": "encima",
+   "ini": 77.04,
+   "fin": 77.42
+  },
+  {
+   "p": "de",
+   "ini": 77.62,
+   "fin": 77.7
+  },
+  {
+   "p": "ti.",
+   "ini": 77.7,
+   "fin": 77.82
+  },
+  {
+   "p": "Tu",
+   "ini": 78.26,
+   "fin": 78.4
+  },
+  {
+   "p": "techo",
+   "ini": 78.4,
+   "fin": 78.68
+  },
+  {
+   "p": "es",
+   "ini": 78.68,
+   "fin": 78.84
+  },
+  {
+   "p": "su",
+   "ini": 78.84,
+   "fin": 78.96
+  },
+  {
+   "p": "suelo.",
+   "ini": 78.96,
+   "fin": 79.22
+  },
+  {
+   "p": "Si",
+   "ini": 80.6,
+   "fin": 80.96
+  },
+  {
+   "p": "subes,",
+   "ini": 80.96,
+   "fin": 81.4
+  },
+  {
+   "p": "no",
+   "ini": 81.82,
+   "fin": 81.96
+  },
+  {
+   "p": "lo",
+   "ini": 81.96,
+   "fin": 82.08
+  },
+  {
+   "p": "verás.",
+   "ini": 82.08,
+   "fin": 82.46
+  },
+  {
+   "p": "Él",
+   "ini": 82.8,
+   "fin": 82.92
+  },
+  {
+   "p": "a",
+   "ini": 82.92,
+   "fin": 83.02
+  },
+  {
+   "p": "ti",
+   "ini": 83.02,
+   "fin": 83.16
+  },
+  {
+   "p": "sí.",
+   "ini": 83.16,
+   "fin": 83.3
+  },
+  {
+   "p": "Nota",
+   "ini": 83.78,
+   "fin": 84.1
+  },
+  {
+   "p": "un",
+   "ini": 84.1,
+   "fin": 84.2
+  },
+  {
+   "p": "movimiento",
+   "ini": 84.2,
+   "fin": 84.6
+  },
+  {
+   "p": "a",
+   "ini": 84.6,
+   "fin": 84.92
+  },
+  {
+   "p": "cuatro",
+   "ini": 84.92,
+   "fin": 85.06
+  },
+  {
+   "p": "metros",
+   "ini": 85.06,
+   "fin": 85.38
+  },
+  {
+   "p": "y",
+   "ini": 85.38,
+   "fin": 85.58
+  },
+  {
+   "p": "medio.",
+   "ini": 85.58,
+   "fin": 85.76
+  },
+  {
+   "p": "Tú",
+   "ini": 86.22,
+   "fin": 86.32
+  },
+  {
+   "p": "no",
+   "ini": 86.32,
+   "fin": 86.46
+  },
+  {
+   "p": "lo",
+   "ini": 86.46,
+   "fin": 86.56
+  },
+  {
+   "p": "verías",
+   "ini": 86.56,
+   "fin": 86.9
+  },
+  {
+   "p": "a",
+   "ini": 86.9,
+   "fin": 87.1
+  },
+  {
+   "p": "un",
+   "ini": 87.1,
+   "fin": 87.2
+  },
+  {
+   "p": "palmo.",
+   "ini": 87.2,
+   "fin": 87.52
+  },
+  {
+   "p": "Regla",
+   "ini": 90.44,
+   "fin": 90.96
+  },
+  {
+   "p": "número",
+   "ini": 90.96,
+   "fin": 91.14
+  },
+  {
+   "p": "dos.",
+   "ini": 91.14,
+   "fin": 91.54
+  },
+  {
+   "p": "Busca",
+   "ini": 92.12,
+   "fin": 92.44
+  },
+  {
+   "p": "los",
+   "ini": 92.44,
+   "fin": 92.6
+  },
+  {
+   "p": "agujeros",
+   "ini": 92.6,
+   "fin": 93.12
+  },
+  {
+   "p": "del",
+   "ini": 93.12,
+   "fin": 93.36
+  },
+  {
+   "p": "grosor",
+   "ini": 93.36,
+   "fin": 93.8
+  },
+  {
+   "p": "de",
+   "ini": 93.8,
+   "fin": 93.94
+  },
+  {
+   "p": "un",
+   "ini": 93.94,
+   "fin": 94.06
+  },
+  {
+   "p": "lápiz.",
+   "ini": 94.06,
+   "fin": 94.42
+  },
+  {
+   "p": "Un",
+   "ini": 94.9,
+   "fin": 95.06
+  },
+  {
+   "p": "ratón",
+   "ini": 95.06,
+   "fin": 95.44
+  },
+  {
+   "p": "cabe",
+   "ini": 95.44,
+   "fin": 95.7
+  },
+  {
+   "p": "por",
+   "ini": 95.7,
+   "fin": 96.0
+  },
+  {
+   "p": "un",
+   "ini": 96.0,
+   "fin": 96.14
+  },
+  {
+   "p": "hueco",
+   "ini": 96.14,
+   "fin": 96.44
+  },
+  {
+   "p": "de",
+   "ini": 96.44,
+   "fin": 96.58
+  },
+  {
+   "p": "seis",
+   "ini": 96.58,
+   "fin": 96.8
+  },
+  {
+   "p": "milímetros.",
+   "ini": 96.8,
+   "fin": 97.34
+  },
+  {
+   "p": "El",
+   "ini": 98.06,
+   "fin": 98.2
+  },
+  {
+   "p": "grosor",
+   "ini": 98.2,
+   "fin": 98.6
+  },
+  {
+   "p": "de",
+   "ini": 98.6,
+   "fin": 98.76
+  },
+  {
+   "p": "un",
+   "ini": 98.76,
+   "fin": 98.88
+  },
+  {
+   "p": "lápiz.",
+   "ini": 98.88,
+   "fin": 99.32
+  },
+  {
+   "p": "Lo",
+   "ini": 99.32,
+   "fin": 99.86
+  },
+  {
+   "p": "dicen",
+   "ini": 99.86,
+   "fin": 100.14
+  },
+  {
+   "p": "los",
+   "ini": 100.14,
+   "fin": 100.38
+  },
+  {
+   "p": "Centros",
+   "ini": 100.38,
+   "fin": 100.8
+  },
+  {
+   "p": "para",
+   "ini": 100.8,
+   "fin": 101.04
+  },
+  {
+   "p": "el",
+   "ini": 101.04,
+   "fin": 101.18
+  },
+  {
+   "p": "Control",
+   "ini": 101.18,
+   "fin": 101.54
+  },
+  {
+   "p": "de",
+   "ini": 101.54,
+   "fin": 101.72
+  },
+  {
+   "p": "Enfermedades",
+   "ini": 101.72,
+   "fin": 102.34
+  },
+  {
+   "p": "de",
+   "ini": 102.34,
+   "fin": 102.56
+  },
+  {
+   "p": "Estados",
+   "ini": 102.56,
+   "fin": 102.86
+  },
+  {
+   "p": "Unidos.",
+   "ini": 102.86,
+   "fin": 103.3
+  },
+  {
+   "p": "Una",
+   "ini": 103.9,
+   "fin": 104.1
+  },
+  {
+   "p": "rata",
+   "ini": 104.1,
+   "fin": 104.42
+  },
+  {
+   "p": "necesita",
+   "ini": 104.42,
+   "fin": 104.84
+  },
+  {
+   "p": "el",
+   "ini": 104.84,
+   "fin": 105.12
+  },
+  {
+   "p": "doble.",
+   "ini": 105.12,
+   "fin": 105.42
+  },
+  {
+   "p": "Un",
+   "ini": 106.08,
+   "fin": 106.3
+  },
+  {
+   "p": "ratón,",
+   "ini": 106.3,
+   "fin": 106.7
+  },
+  {
+   "p": "no.",
+   "ini": 106.7,
+   "fin": 106.94
+  },
+  {
+   "p": "Tu",
+   "ini": 108.4,
+   "fin": 108.54
+  },
+  {
+   "p": "casa",
+   "ini": 108.54,
+   "fin": 108.78
+  },
+  {
+   "p": "tiene",
+   "ini": 108.78,
+   "fin": 109.08
+  },
+  {
+   "p": "muchos.",
+   "ini": 109.08,
+   "fin": 109.42
+  },
+  {
+   "p": "Junto",
+   "ini": 109.96,
+   "fin": 110.3
+  },
+  {
+   "p": "a",
+   "ini": 110.3,
+   "fin": 110.48
+  },
+  {
+   "p": "las",
+   "ini": 110.48,
+   "fin": 110.6
+  },
+  {
+   "p": "tuberías.",
+   "ini": 110.6,
+   "fin": 111.08
+  },
+  {
+   "p": "Bajo",
+   "ini": 111.48,
+   "fin": 111.7
+  },
+  {
+   "p": "las",
+   "ini": 111.7,
+   "fin": 111.94
+  },
+  {
+   "p": "tejas.",
+   "ini": 111.94,
+   "fin": 112.34
+  },
+  {
+   "p": "En",
+   "ini": 112.72,
+   "fin": 112.84
+  },
+  {
+   "p": "la",
+   "ini": 112.84,
+   "fin": 112.92
+  },
+  {
+   "p": "rejilla",
+   "ini": 112.92,
+   "fin": 113.3
+  },
+  {
+   "p": "del",
+   "ini": 113.3,
+   "fin": 113.5
+  },
+  {
+   "p": "desván.",
+   "ini": 113.5,
+   "fin": 114.42
+  },
+  {
+   "p": "Rellénalos",
+   "ini": 114.42,
+   "fin": 114.96
+  },
+  {
+   "p": "con",
+   "ini": 114.96,
+   "fin": 115.16
+  },
+  {
+   "p": "lana",
+   "ini": 115.16,
+   "fin": 115.38
+  },
+  {
+   "p": "de",
+   "ini": 115.38,
+   "fin": 115.58
+  },
+  {
+   "p": "acero.",
+   "ini": 115.58,
+   "fin": 115.84
+  },
+  {
+   "p": "Esa",
+   "ini": 116.38,
+   "fin": 116.64
+  },
+  {
+   "p": "no",
+   "ini": 116.64,
+   "fin": 116.8
+  },
+  {
+   "p": "la",
+   "ini": 116.8,
+   "fin": 116.92
+  },
+  {
+   "p": "puede",
+   "ini": 116.92,
+   "fin": 117.12
+  },
+  {
+   "p": "roer.",
+   "ini": 117.12,
+   "fin": 117.52
+  },
+  {
+   "p": "Tápalos",
+   "ini": 118.84,
+   "fin": 119.44
+  },
+  {
+   "p": "todos.",
+   "ini": 119.44,
+   "fin": 119.7
+  },
+  {
+   "p": "Luego",
+   "ini": 120.42,
+   "fin": 120.7
+  },
+  {
+   "p": "escucha.",
+   "ini": 120.7,
+   "fin": 121.3
+  },
+  {
+   "p": "Si",
+   "ini": 121.7,
+   "fin": 121.84
+  },
+  {
+   "p": "los",
+   "ini": 121.84,
+   "fin": 122.0
+  },
+  {
+   "p": "pasos",
+   "ini": 122.0,
+   "fin": 122.34
+  },
+  {
+   "p": "siguen,",
+   "ini": 122.34,
+   "fin": 122.68
+  },
+  {
+   "p": "ya",
+   "ini": 122.98,
+   "fin": 123.14
+  },
+  {
+   "p": "estaban",
+   "ini": 123.14,
+   "fin": 123.54
+  },
+  {
+   "p": "dentro.",
+   "ini": 123.54,
+   "fin": 123.92
+  },
+  {
+   "p": "Y",
+   "ini": 124.42,
+   "fin": 124.58
+  },
+  {
+   "p": "no",
+   "ini": 124.58,
+   "fin": 124.72
+  },
+  {
+   "p": "eres",
+   "ini": 124.72,
+   "fin": 124.9
+  },
+  {
+   "p": "el",
+   "ini": 124.9,
+   "fin": 125.08
+  },
+  {
+   "p": "único",
+   "ini": 125.08,
+   "fin": 125.34
+  },
+  {
+   "p": "que",
+   "ini": 125.34,
+   "fin": 125.6
+  },
+  {
+   "p": "está",
+   "ini": 125.6,
+   "fin": 125.82
+  },
+  {
+   "p": "escuchando.",
+   "ini": 125.82,
+   "fin": 126.34
+  },
+  {
+   "p": "Regla",
+   "ini": 128.3,
+   "fin": 128.84
+  },
+  {
+   "p": "número",
+   "ini": 128.84,
+   "fin": 129.02
+  },
+  {
+   "p": "tres.",
+   "ini": 129.02,
+   "fin": 130.0
+  },
+  {
+   "p": "No",
+   "ini": 130.0,
+   "fin": 130.1
+  },
+  {
+   "p": "intentes",
+   "ini": 130.1,
+   "fin": 130.52
+  },
+  {
+   "p": "contarlos.",
+   "ini": 130.52,
+   "fin": 131.02
+  },
+  {
+   "p": "Lo",
+   "ini": 131.34,
+   "fin": 131.44
+  },
+  {
+   "p": "has",
+   "ini": 131.44,
+   "fin": 131.58
+  },
+  {
+   "p": "intentado.",
+   "ini": 131.58,
+   "fin": 132.12
+  },
+  {
+   "p": "Primero",
+   "ini": 132.5,
+   "fin": 132.82
+  },
+  {
+   "p": "oíste",
+   "ini": 132.82,
+   "fin": 133.1
+  },
+  {
+   "p": "uno.",
+   "ini": 133.1,
+   "fin": 133.34
+  },
+  {
+   "p": "Luego,",
+   "ini": 133.68,
+   "fin": 133.98
+  },
+  {
+   "p": "dos",
+   "ini": 134.44,
+   "fin": 134.6
+  },
+  {
+   "p": "a",
+   "ini": 134.6,
+   "fin": 134.74
+  },
+  {
+   "p": "la",
+   "ini": 134.74,
+   "fin": 134.8
+  },
+  {
+   "p": "vez.",
+   "ini": 134.8,
+   "fin": 135.02
+  },
+  {
+   "p": "Luego,",
+   "ini": 135.46,
+   "fin": 135.72
+  },
+  {
+   "p": "uno",
+   "ini": 136.24,
+   "fin": 136.4
+  },
+  {
+   "p": "que",
+   "ini": 136.4,
+   "fin": 136.56
+  },
+  {
+   "p": "corría",
+   "ini": 136.56,
+   "fin": 136.94
+  },
+  {
+   "p": "y",
+   "ini": 136.94,
+   "fin": 137.12
+  },
+  {
+   "p": "otro",
+   "ini": 137.12,
+   "fin": 137.28
+  },
+  {
+   "p": "que",
+   "ini": 137.28,
+   "fin": 137.46
+  },
+  {
+   "p": "no",
+   "ini": 137.46,
+   "fin": 137.58
+  },
+  {
+   "p": "se",
+   "ini": 137.58,
+   "fin": 137.7
+  },
+  {
+   "p": "movía.",
+   "ini": 137.7,
+   "fin": 138.0
+  },
+  {
+   "p": "Una",
+   "ini": 139.5,
+   "fin": 139.78
+  },
+  {
+   "p": "hembra",
+   "ini": 139.78,
+   "fin": 140.18
+  },
+  {
+   "p": "puede",
+   "ini": 140.18,
+   "fin": 140.44
+  },
+  {
+   "p": "tener",
+   "ini": 140.44,
+   "fin": 140.8
+  },
+  {
+   "p": "de",
+   "ini": 140.8,
+   "fin": 141.02
+  },
+  {
+   "p": "cinco",
+   "ini": 141.02,
+   "fin": 141.4
+  },
+  {
+   "p": "a",
+   "ini": 141.4,
+   "fin": 141.6
+  },
+  {
+   "p": "diez",
+   "ini": 141.6,
+   "fin": 141.8
+  },
+  {
+   "p": "camadas",
+   "ini": 141.8,
+   "fin": 142.32
+  },
+  {
+   "p": "al",
+   "ini": 142.32,
+   "fin": 142.52
+  },
+  {
+   "p": "año.",
+   "ini": 142.52,
+   "fin": 142.78
+  },
+  {
+   "p": "De",
+   "ini": 143.06,
+   "fin": 143.32
+  },
+  {
+   "p": "cinco",
+   "ini": 143.32,
+   "fin": 143.66
+  },
+  {
+   "p": "o",
+   "ini": 143.66,
+   "fin": 143.84
+  },
+  {
+   "p": "seis",
+   "ini": 143.84,
+   "fin": 144.02
+  },
+  {
+   "p": "crías",
+   "ini": 144.02,
+   "fin": 144.36
+  },
+  {
+   "p": "cada",
+   "ini": 144.36,
+   "fin": 144.6
+  },
+  {
+   "p": "una.",
+   "ini": 144.6,
+   "fin": 144.9
+  },
+  {
+   "p": "A",
+   "ini": 145.36,
+   "fin": 145.54
+  },
+  {
+   "p": "las",
+   "ini": 145.54,
+   "fin": 145.68
+  },
+  {
+   "p": "seis",
+   "ini": 145.68,
+   "fin": 145.9
+  },
+  {
+   "p": "semanas,",
+   "ini": 145.9,
+   "fin": 146.26
+  },
+  {
+   "p": "las",
+   "ini": 146.72,
+   "fin": 146.88
+  },
+  {
+   "p": "crías",
+   "ini": 146.88,
+   "fin": 147.42
+  },
+  {
+   "p": "ya",
+   "ini": 147.42,
+   "fin": 147.6
+  },
+  {
+   "p": "pueden",
+   "ini": 147.6,
+   "fin": 147.88
+  },
+  {
+   "p": "tener",
+   "ini": 147.88,
+   "fin": 148.22
+  },
+  {
+   "p": "crías.",
+   "ini": 148.22,
+   "fin": 148.58
+  },
+  {
+   "p": "Si",
+   "ini": 150.08,
+   "fin": 150.42
+  },
+  {
+   "p": "un",
+   "ini": 150.42,
+   "fin": 150.52
+  },
+  {
+   "p": "día",
+   "ini": 150.52,
+   "fin": 150.66
+  },
+  {
+   "p": "contaste",
+   "ini": 150.66,
+   "fin": 151.18
+  },
+  {
+   "p": "uno,",
+   "ini": 151.18,
+   "fin": 151.46
+  },
+  {
+   "p": "ya",
+   "ini": 151.92,
+   "fin": 152.02
+  },
+  {
+   "p": "no",
+   "ini": 152.02,
+   "fin": 152.14
+  },
+  {
+   "p": "es",
+   "ini": 152.14,
+   "fin": 152.28
+  },
+  {
+   "p": "uno.",
+   "ini": 152.28,
+   "fin": 152.5
+  },
+  {
+   "p": "Dos",
+   "ini": 155.5,
+   "fin": 156.97
+  },
+  {
+   "p": "mil",
+   "ini": 156.97,
+   "fin": 158.45
+  },
+  {
+   "p": "cinco.",
+   "ini": 158.45,
+   "fin": 159.92
+  },
+  {
+   "p": "Universidad",
+   "ini": 159.92,
+   "fin": 160.6
+  },
+  {
+   "p": "de",
+   "ini": 160.6,
+   "fin": 160.72
+  },
+  {
+   "p": "Washington,",
+   "ini": 160.72,
+   "fin": 161.14
+  },
+  {
+   "p": "en",
+   "ini": 161.7,
+   "fin": 161.78
+  },
+  {
+   "p": "San",
+   "ini": 161.78,
+   "fin": 161.94
+  },
+  {
+   "p": "Luis.",
+   "ini": 161.94,
+   "fin": 162.24
+  },
+  {
+   "p": "Dos",
+   "ini": 162.8,
+   "fin": 162.96
+  },
+  {
+   "p": "científicos",
+   "ini": 162.96,
+   "fin": 163.7
+  },
+  {
+   "p": "grabaron",
+   "ini": 163.7,
+   "fin": 164.3
+  },
+  {
+   "p": "a",
+   "ini": 164.3,
+   "fin": 164.48
+  },
+  {
+   "p": "ratones",
+   "ini": 164.48,
+   "fin": 164.96
+  },
+  {
+   "p": "machos.",
+   "ini": 164.96,
+   "fin": 165.56
+  },
+  {
+   "p": "Descubrieron",
+   "ini": 165.8,
+   "fin": 166.48
+  },
+  {
+   "p": "que",
+   "ini": 166.48,
+   "fin": 166.64
+  },
+  {
+   "p": "cantan.",
+   "ini": 166.64,
+   "fin": 167.14
+  },
+  {
+   "p": "Canciones",
+   "ini": 167.62,
+   "fin": 168.06
+  },
+  {
+   "p": "con",
+   "ini": 168.06,
+   "fin": 168.36
+  },
+  {
+   "p": "frases",
+   "ini": 168.36,
+   "fin": 168.66
+  },
+  {
+   "p": "que",
+   "ini": 168.66,
+   "fin": 168.9
+  },
+  {
+   "p": "se",
+   "ini": 168.9,
+   "fin": 169.04
+  },
+  {
+   "p": "repiten.",
+   "ini": 169.04,
+   "fin": 169.46
+  },
+  {
+   "p": "Cada",
+   "ini": 169.96,
+   "fin": 170.14
+  },
+  {
+   "p": "macho",
+   "ini": 170.14,
+   "fin": 170.56
+  },
+  {
+   "p": "tiene",
+   "ini": 170.56,
+   "fin": 170.8
+  },
+  {
+   "p": "la",
+   "ini": 170.8,
+   "fin": 170.98
+  },
+  {
+   "p": "suya.",
+   "ini": 170.98,
+   "fin": 171.32
+  },
+  {
+   "p": "Cantan",
+   "ini": 172.96,
+   "fin": 173.3
+  },
+  {
+   "p": "entre",
+   "ini": 173.3,
+   "fin": 173.58
+  },
+  {
+   "p": "treinta",
+   "ini": 173.58,
+   "fin": 173.89
+  },
+  {
+   "p": "mil",
+   "ini": 173.89,
+   "fin": 174.2
+  },
+  {
+   "p": "y",
+   "ini": 174.2,
+   "fin": 174.28
+  },
+  {
+   "p": "ciento",
+   "ini": 174.28,
+   "fin": 174.71
+  },
+  {
+   "p": "diez",
+   "ini": 174.71,
+   "fin": 175.13
+  },
+  {
+   "p": "mil",
+   "ini": 175.13,
+   "fin": 175.56
+  },
+  {
+   "p": "vibraciones",
+   "ini": 175.56,
+   "fin": 176.16
+  },
+  {
+   "p": "por",
+   "ini": 176.16,
+   "fin": 176.44
+  },
+  {
+   "p": "segundo.",
+   "ini": 176.44,
+   "fin": 176.84
+  },
+  {
+   "p": "Tu",
+   "ini": 177.44,
+   "fin": 177.6
+  },
+  {
+   "p": "oído",
+   "ini": 177.6,
+   "fin": 177.86
+  },
+  {
+   "p": "llega",
+   "ini": 177.86,
+   "fin": 178.16
+  },
+  {
+   "p": "a",
+   "ini": 178.16,
+   "fin": 178.38
+  },
+  {
+   "p": "unas",
+   "ini": 178.38,
+   "fin": 178.54
+  },
+  {
+   "p": "veinte",
+   "ini": 178.54,
+   "fin": 178.85
+  },
+  {
+   "p": "mil.",
+   "ini": 178.85,
+   "fin": 179.16
+  },
+  {
+   "p": "Esta",
+   "ini": 179.16,
+   "fin": 180.08
+  },
+  {
+   "p": "noche,",
+   "ini": 180.08,
+   "fin": 180.4
+  },
+  {
+   "p": "encima",
+   "ini": 180.7,
+   "fin": 181.02
+  },
+  {
+   "p": "de",
+   "ini": 181.02,
+   "fin": 181.2
+  },
+  {
+   "p": "tu",
+   "ini": 181.2,
+   "fin": 181.32
+  },
+  {
+   "p": "cama,",
+   "ini": 181.32,
+   "fin": 181.54
+  },
+  {
+   "p": "hay",
+   "ini": 181.96,
+   "fin": 182.14
+  },
+  {
+   "p": "un",
+   "ini": 182.14,
+   "fin": 182.28
+  },
+  {
+   "p": "concierto.",
+   "ini": 182.28,
+   "fin": 182.84
+  },
+  {
+   "p": "No",
+   "ini": 183.28,
+   "fin": 183.46
+  },
+  {
+   "p": "te",
+   "ini": 183.46,
+   "fin": 183.62
+  },
+  {
+   "p": "han",
+   "ini": 183.62,
+   "fin": 183.74
+  },
+  {
+   "p": "invitado.",
+   "ini": 183.74,
+   "fin": 184.18
+  },
+  {
+   "p": "El",
+   "ini": 187.18,
+   "fin": 187.82
+  },
+  {
+   "p": "Negociado",
+   "ini": 187.82,
+   "fin": 188.32
+  },
+  {
+   "p": "necesita",
+   "ini": 188.32,
+   "fin": 188.6
+  },
+  {
+   "p": "confirmarlo.",
+   "ini": 188.6,
+   "fin": 189.54
+  },
+  {
+   "p": "¿Qué",
+   "ini": 190.02,
+   "fin": 190.12
+  },
+  {
+   "p": "hay",
+   "ini": 190.12,
+   "fin": 190.26
+  },
+  {
+   "p": "encima",
+   "ini": 190.26,
+   "fin": 190.68
+  },
+  {
+   "p": "de",
+   "ini": 190.68,
+   "fin": 190.86
+  },
+  {
+   "p": "tu",
+   "ini": 190.86,
+   "fin": 190.98
+  },
+  {
+   "p": "dormitorio?",
+   "ini": 190.98,
+   "fin": 191.54
+  },
+  {
+   "p": "Si",
+   "ini": 192.04,
+   "fin": 192.28
+  },
+  {
+   "p": "hay",
+   "ini": 192.28,
+   "fin": 192.44
+  },
+  {
+   "p": "un",
+   "ini": 192.44,
+   "fin": 192.58
+  },
+  {
+   "p": "vecino,",
+   "ini": 192.58,
+   "fin": 192.96
+  },
+  {
+   "p": "escribe",
+   "ini": 193.34,
+   "fin": 193.64
+  },
+  {
+   "p": "«arriba».",
+   "ini": 193.64,
+   "fin": 193.98
+  },
+  {
+   "p": "Si",
+   "ini": 194.58,
+   "fin": 194.8
+  },
+  {
+   "p": "solo",
+   "ini": 194.8,
+   "fin": 195.02
+  },
+  {
+   "p": "hay",
+   "ini": 195.02,
+   "fin": 195.18
+  },
+  {
+   "p": "tejado,",
+   "ini": 195.18,
+   "fin": 195.58
+  },
+  {
+   "p": "escribe",
+   "ini": 195.94,
+   "fin": 196.26
+  },
+  {
+   "p": "«tejado».",
+   "ini": 196.26,
+   "fin": 196.74
+  },
+  {
+   "p": "Lo",
+   "ini": 197.34,
+   "fin": 197.44
+  },
+  {
+   "p": "revisaremos",
+   "ini": 197.44,
+   "fin": 198.02
+  },
+  {
+   "p": "uno",
+   "ini": 198.02,
+   "fin": 198.38
+  },
+  {
+   "p": "a",
+   "ini": 198.38,
+   "fin": 198.6
+  },
+  {
+   "p": "uno.",
+   "ini": 198.6,
+   "fin": 198.76
+  },
+  {
+   "p": "Regla",
+   "ini": 200.1,
+   "fin": 200.78
+  },
+  {
+   "p": "número",
+   "ini": 200.78,
+   "fin": 201.0
+  },
+  {
+   "p": "cuatro.",
+   "ini": 201.0,
+   "fin": 202.18
+  },
+  {
+   "p": "Duerme",
+   "ini": 202.18,
+   "fin": 202.42
+  },
+  {
+   "p": "siempre",
+   "ini": 202.42,
+   "fin": 202.74
+  },
+  {
+   "p": "en",
+   "ini": 202.74,
+   "fin": 203.16
+  },
+  {
+   "p": "la",
+   "ini": 203.16,
+   "fin": 203.3
+  },
+  {
+   "p": "misma",
+   "ini": 203.3,
+   "fin": 203.56
+  },
+  {
+   "p": "cama.",
+   "ini": 203.56,
+   "fin": 203.92
+  },
+  {
+   "p": "Dos",
+   "ini": 203.92,
+   "fin": 204.61
+  },
+  {
+   "p": "mil",
+   "ini": 204.61,
+   "fin": 205.31
+  },
+  {
+   "p": "dieciséis.",
+   "ini": 205.31,
+   "fin": 206.0
+  },
+  {
+   "p": "Universidad",
+   "ini": 206.0,
+   "fin": 206.68
+  },
+  {
+   "p": "Brown,",
+   "ini": 206.68,
+   "fin": 207.02
+  },
+  {
+   "p": "en",
+   "ini": 207.54,
+   "fin": 207.72
+  },
+  {
+   "p": "Estados",
+   "ini": 207.72,
+   "fin": 207.98
+  },
+  {
+   "p": "Unidos.",
+   "ini": 207.98,
+   "fin": 208.44
+  },
+  {
+   "p": "Treinta",
+   "ini": 208.44,
+   "fin": 208.77
+  },
+  {
+   "p": "y",
+   "ini": 208.77,
+   "fin": 209.09
+  },
+  {
+   "p": "cinco",
+   "ini": 209.09,
+   "fin": 209.42
+  },
+  {
+   "p": "voluntarios",
+   "ini": 209.42,
+   "fin": 210.4
+  },
+  {
+   "p": "durmieron",
+   "ini": 210.4,
+   "fin": 210.9
+  },
+  {
+   "p": "en",
+   "ini": 210.9,
+   "fin": 211.16
+  },
+  {
+   "p": "un",
+   "ini": 211.16,
+   "fin": 211.32
+  },
+  {
+   "p": "laboratorio.",
+   "ini": 211.32,
+   "fin": 211.92
+  },
+  {
+   "p": "La",
+   "ini": 212.48,
+   "fin": 212.7
+  },
+  {
+   "p": "primera",
+   "ini": 212.7,
+   "fin": 213.0
+  },
+  {
+   "p": "noche,",
+   "ini": 213.0,
+   "fin": 213.36
+  },
+  {
+   "p": "la",
+   "ini": 213.88,
+   "fin": 214.04
+  },
+  {
+   "p": "mitad",
+   "ini": 214.04,
+   "fin": 214.28
+  },
+  {
+   "p": "izquierda",
+   "ini": 214.28,
+   "fin": 214.88
+  },
+  {
+   "p": "de",
+   "ini": 214.88,
+   "fin": 215.0
+  },
+  {
+   "p": "su",
+   "ini": 215.0,
+   "fin": 215.16
+  },
+  {
+   "p": "cerebro",
+   "ini": 215.16,
+   "fin": 215.54
+  },
+  {
+   "p": "no",
+   "ini": 215.54,
+   "fin": 215.86
+  },
+  {
+   "p": "se",
+   "ini": 215.86,
+   "fin": 216.02
+  },
+  {
+   "p": "durmió.",
+   "ini": 216.02,
+   "fin": 216.46
+  },
+  {
+   "p": "Se",
+   "ini": 216.84,
+   "fin": 217.02
+  },
+  {
+   "p": "quedó",
+   "ini": 217.02,
+   "fin": 217.26
+  },
+  {
+   "p": "de",
+   "ini": 217.26,
+   "fin": 217.34
+  },
+  {
+   "p": "guardia.",
+   "ini": 217.34,
+   "fin": 217.74
+  },
+  {
+   "p": "Reaccionaba",
+   "ini": 218.16,
+   "fin": 218.84
+  },
+  {
+   "p": "a",
+   "ini": 218.84,
+   "fin": 219.02
+  },
+  {
+   "p": "cada",
+   "ini": 219.02,
+   "fin": 219.2
+  },
+  {
+   "p": "sonido",
+   "ini": 219.2,
+   "fin": 219.6
+  },
+  {
+   "p": "raro.",
+   "ini": 219.6,
+   "fin": 219.9
+  },
+  {
+   "p": "Lo",
+   "ini": 221.4,
+   "fin": 221.98
+  },
+  {
+   "p": "llamaron",
+   "ini": 221.98,
+   "fin": 222.34
+  },
+  {
+   "p": "el",
+   "ini": 222.34,
+   "fin": 222.52
+  },
+  {
+   "p": "efecto",
+   "ini": 222.52,
+   "fin": 222.8
+  },
+  {
+   "p": "de",
+   "ini": 222.8,
+   "fin": 223.02
+  },
+  {
+   "p": "la",
+   "ini": 223.02,
+   "fin": 223.12
+  },
+  {
+   "p": "primera",
+   "ini": 223.12,
+   "fin": 223.36
+  },
+  {
+   "p": "noche.",
+   "ini": 223.36,
+   "fin": 223.7
+  },
+  {
+   "p": "En",
+   "ini": 224.38,
+   "fin": 224.56
+  },
+  {
+   "p": "tu",
+   "ini": 224.56,
+   "fin": 224.7
+  },
+  {
+   "p": "cama,",
+   "ini": 224.7,
+   "fin": 224.96
+  },
+  {
+   "p": "tu",
+   "ini": 225.4,
+   "fin": 225.6
+  },
+  {
+   "p": "cerebro",
+   "ini": 225.6,
+   "fin": 226.02
+  },
+  {
+   "p": "duerme",
+   "ini": 226.02,
+   "fin": 226.32
+  },
+  {
+   "p": "entero.",
+   "ini": 226.32,
+   "fin": 226.74
+  },
+  {
+   "p": "Fuera",
+   "ini": 227.4,
+   "fin": 227.64
+  },
+  {
+   "p": "de",
+   "ini": 227.64,
+   "fin": 227.8
+  },
+  {
+   "p": "ella,",
+   "ini": 227.8,
+   "fin": 228.06
+  },
+  {
+   "p": "una",
+   "ini": 228.06,
+   "fin": 228.58
+  },
+  {
+   "p": "mitad",
+   "ini": 228.58,
+   "fin": 228.88
+  },
+  {
+   "p": "vigila",
+   "ini": 228.88,
+   "fin": 229.38
+  },
+  {
+   "p": "el",
+   "ini": 229.38,
+   "fin": 229.54
+  },
+  {
+   "p": "techo.",
+   "ini": 229.54,
+   "fin": 229.88
+  },
+  {
+   "p": "Si",
+   "ini": 231.38,
+   "fin": 231.9
+  },
+  {
+   "p": "los",
+   "ini": 231.9,
+   "fin": 232.1
+  },
+  {
+   "p": "oyes",
+   "ini": 232.1,
+   "fin": 232.36
+  },
+  {
+   "p": "en",
+   "ini": 232.36,
+   "fin": 232.58
+  },
+  {
+   "p": "tu",
+   "ini": 232.58,
+   "fin": 232.7
+  },
+  {
+   "p": "propia",
+   "ini": 232.7,
+   "fin": 232.96
+  },
+  {
+   "p": "cama,",
+   "ini": 232.96,
+   "fin": 233.3
+  },
+  {
+   "p": "pregúntate",
+   "ini": 233.82,
+   "fin": 234.34
+  },
+  {
+   "p": "qué",
+   "ini": 234.34,
+   "fin": 234.6
+  },
+  {
+   "p": "mitad",
+   "ini": 234.6,
+   "fin": 234.92
+  },
+  {
+   "p": "está",
+   "ini": 234.92,
+   "fin": 235.34
+  },
+  {
+   "p": "despierta.",
+   "ini": 235.34,
+   "fin": 235.94
+  },
+  {
+   "p": "Regla",
+   "ini": 238.08,
+   "fin": 238.38
+  },
+  {
+   "p": "número",
+   "ini": 238.38,
+   "fin": 238.56
+  },
+  {
+   "p": "cinco.",
+   "ini": 238.56,
+   "fin": 239.02
+  },
+  {
+   "p": "Si",
+   "ini": 239.54,
+   "fin": 239.68
+  },
+  {
+   "p": "cruje,",
+   "ini": 239.68,
+   "fin": 240.08
+  },
+  {
+   "p": "déjalo",
+   "ini": 240.38,
+   "fin": 240.64
+  },
+  {
+   "p": "crujir.",
+   "ini": 240.64,
+   "fin": 241.1
+  },
+  {
+   "p": "No",
+   "ini": 241.5,
+   "fin": 241.58
+  },
+  {
+   "p": "todo",
+   "ini": 241.58,
+   "fin": 241.76
+  },
+  {
+   "p": "lo",
+   "ini": 241.76,
+   "fin": 241.96
+  },
+  {
+   "p": "que",
+   "ini": 241.96,
+   "fin": 242.06
+  },
+  {
+   "p": "suena",
+   "ini": 242.06,
+   "fin": 242.36
+  },
+  {
+   "p": "en",
+   "ini": 242.36,
+   "fin": 242.48
+  },
+  {
+   "p": "el",
+   "ini": 242.48,
+   "fin": 242.6
+  },
+  {
+   "p": "techo",
+   "ini": 242.6,
+   "fin": 242.84
+  },
+  {
+   "p": "camina.",
+   "ini": 242.84,
+   "fin": 243.24
+  },
+  {
+   "p": "De",
+   "ini": 243.78,
+   "fin": 243.92
+  },
+  {
+   "p": "noche",
+   "ini": 243.92,
+   "fin": 244.14
+  },
+  {
+   "p": "la",
+   "ini": 244.14,
+   "fin": 244.38
+  },
+  {
+   "p": "casa",
+   "ini": 244.38,
+   "fin": 244.62
+  },
+  {
+   "p": "se",
+   "ini": 244.62,
+   "fin": 244.82
+  },
+  {
+   "p": "enfría.",
+   "ini": 244.82,
+   "fin": 245.2
+  },
+  {
+   "p": "La",
+   "ini": 245.62,
+   "fin": 245.74
+  },
+  {
+   "p": "madera",
+   "ini": 245.74,
+   "fin": 246.08
+  },
+  {
+   "p": "y",
+   "ini": 246.08,
+   "fin": 246.24
+  },
+  {
+   "p": "el",
+   "ini": 246.24,
+   "fin": 246.32
+  },
+  {
+   "p": "metal",
+   "ini": 246.32,
+   "fin": 246.56
+  },
+  {
+   "p": "se",
+   "ini": 246.56,
+   "fin": 246.78
+  },
+  {
+   "p": "encogen.",
+   "ini": 246.78,
+   "fin": 247.68
+  },
+  {
+   "p": "Rozan",
+   "ini": 247.68,
+   "fin": 248.02
+  },
+  {
+   "p": "con",
+   "ini": 248.02,
+   "fin": 248.18
+  },
+  {
+   "p": "los",
+   "ini": 248.18,
+   "fin": 248.32
+  },
+  {
+   "p": "clavos.",
+   "ini": 248.32,
+   "fin": 248.78
+  },
+  {
+   "p": "Crujen.",
+   "ini": 249.04,
+   "fin": 249.4
+  },
+  {
+   "p": "Suena",
+   "ini": 249.82,
+   "fin": 250.08
+  },
+  {
+   "p": "como",
+   "ini": 250.08,
+   "fin": 250.28
+  },
+  {
+   "p": "un",
+   "ini": 250.28,
+   "fin": 250.44
+  },
+  {
+   "p": "paso",
+   "ini": 250.44,
+   "fin": 250.66
+  },
+  {
+   "p": "lento.",
+   "ini": 250.66,
+   "fin": 251.06
+  },
+  {
+   "p": "Uno",
+   "ini": 251.46,
+   "fin": 251.66
+  },
+  {
+   "p": "solo.",
+   "ini": 251.66,
+   "fin": 251.98
+  },
+  {
+   "p": "Los",
+   "ini": 253.5,
+   "fin": 253.74
+  },
+  {
+   "p": "ratones",
+   "ini": 253.74,
+   "fin": 254.16
+  },
+  {
+   "p": "no",
+   "ini": 254.16,
+   "fin": 254.38
+  },
+  {
+   "p": "dan",
+   "ini": 254.38,
+   "fin": 254.54
+  },
+  {
+   "p": "pasos",
+   "ini": 254.54,
+   "fin": 254.9
+  },
+  {
+   "p": "lentos.",
+   "ini": 254.9,
+   "fin": 255.34
+  },
+  {
+   "p": "Corren.",
+   "ini": 255.82,
+   "fin": 256.16
+  },
+  {
+   "p": "Si",
+   "ini": 256.16,
+   "fin": 256.6
+  },
+  {
+   "p": "oyes",
+   "ini": 256.6,
+   "fin": 256.82
+  },
+  {
+   "p": "uno",
+   "ini": 256.82,
+   "fin": 257.24
+  },
+  {
+   "p": "lento,",
+   "ini": 257.24,
+   "fin": 257.66
+  },
+  {
+   "p": "es",
+   "ini": 257.66,
+   "fin": 257.84
+  },
+  {
+   "p": "la",
+   "ini": 257.84,
+   "fin": 257.98
+  },
+  {
+   "p": "casa.",
+   "ini": 257.98,
+   "fin": 258.16
+  },
+  {
+   "p": "Si",
+   "ini": 259.66,
+   "fin": 260.28
+  },
+  {
+   "p": "oyes",
+   "ini": 260.28,
+   "fin": 260.62
+  },
+  {
+   "p": "uno",
+   "ini": 260.62,
+   "fin": 261.2
+  },
+  {
+   "p": "lento…",
+   "ini": 261.2,
+   "fin": 261.78
+  },
+  {
+   "p": "y",
+   "ini": 261.78,
+   "fin": 261.86
+  },
+  {
+   "p": "luego",
+   "ini": 261.86,
+   "fin": 262.08
+  },
+  {
+   "p": "corre,",
+   "ini": 262.08,
+   "fin": 262.4
+  },
+  {
+   "p": "no",
+   "ini": 262.52,
+   "fin": 262.6
+  },
+  {
+   "p": "es",
+   "ini": 262.6,
+   "fin": 262.7
+  },
+  {
+   "p": "la",
+   "ini": 262.7,
+   "fin": 262.82
+  },
+  {
+   "p": "casa.",
+   "ini": 262.82,
+   "fin": 263.06
+  },
+  {
+   "p": "Regla",
+   "ini": 265.0,
+   "fin": 265.62
+  },
+  {
+   "p": "número",
+   "ini": 265.62,
+   "fin": 265.84
+  },
+  {
+   "p": "seis.",
+   "ini": 265.84,
+   "fin": 266.3
+  },
+  {
+   "p": "No",
+   "ini": 266.96,
+   "fin": 267.26
+  },
+  {
+   "p": "dejes",
+   "ini": 267.26,
+   "fin": 267.64
+  },
+  {
+   "p": "comida",
+   "ini": 267.64,
+   "fin": 268.0
+  },
+  {
+   "p": "en",
+   "ini": 268.0,
+   "fin": 268.24
+  },
+  {
+   "p": "la",
+   "ini": 268.24,
+   "fin": 268.34
+  },
+  {
+   "p": "mesilla.",
+   "ini": 268.34,
+   "fin": 268.8
+  },
+  {
+   "p": "Un",
+   "ini": 269.52,
+   "fin": 269.74
+  },
+  {
+   "p": "ratón",
+   "ini": 269.74,
+   "fin": 270.22
+  },
+  {
+   "p": "hace",
+   "ini": 270.22,
+   "fin": 270.46
+  },
+  {
+   "p": "unas",
+   "ini": 270.46,
+   "fin": 270.66
+  },
+  {
+   "p": "doscientas",
+   "ini": 270.66,
+   "fin": 270.98
+  },
+  {
+   "p": "comidas",
+   "ini": 270.98,
+   "fin": 271.68
+  },
+  {
+   "p": "pequeñas",
+   "ini": 271.68,
+   "fin": 272.3
+  },
+  {
+   "p": "cada",
+   "ini": 272.3,
+   "fin": 272.5
+  },
+  {
+   "p": "noche.",
+   "ini": 272.5,
+   "fin": 272.88
+  },
+  {
+   "p": "Casi",
+   "ini": 273.38,
+   "fin": 273.64
+  },
+  {
+   "p": "nunca",
+   "ini": 273.64,
+   "fin": 273.84
+  },
+  {
+   "p": "se",
+   "ini": 273.84,
+   "fin": 274.2
+  },
+  {
+   "p": "aleja",
+   "ini": 274.2,
+   "fin": 274.48
+  },
+  {
+   "p": "más",
+   "ini": 274.48,
+   "fin": 274.74
+  },
+  {
+   "p": "de",
+   "ini": 274.74,
+   "fin": 274.94
+  },
+  {
+   "p": "nueve",
+   "ini": 274.94,
+   "fin": 275.28
+  },
+  {
+   "p": "metros",
+   "ini": 275.28,
+   "fin": 275.64
+  },
+  {
+   "p": "de",
+   "ini": 275.64,
+   "fin": 276.04
+  },
+  {
+   "p": "su",
+   "ini": 276.04,
+   "fin": 276.44
+  },
+  {
+   "p": "nido.",
+   "ini": 276.44,
+   "fin": 276.84
+  },
+  {
+   "p": "Mide",
+   "ini": 276.84,
+   "fin": 277.16
+  },
+  {
+   "p": "la",
+   "ini": 277.16,
+   "fin": 277.3
+  },
+  {
+   "p": "distancia",
+   "ini": 277.3,
+   "fin": 277.7
+  },
+  {
+   "p": "de",
+   "ini": 277.7,
+   "fin": 277.9
+  },
+  {
+   "p": "tu",
+   "ini": 277.9,
+   "fin": 278.04
+  },
+  {
+   "p": "techo",
+   "ini": 278.04,
+   "fin": 278.3
+  },
+  {
+   "p": "a",
+   "ini": 278.3,
+   "fin": 278.42
+  },
+  {
+   "p": "tu",
+   "ini": 278.42,
+   "fin": 278.52
+  },
+  {
+   "p": "almohada.",
+   "ini": 278.52,
+   "fin": 278.92
+  },
+  {
+   "p": "También",
+   "ini": 280.28,
+   "fin": 280.8
+  },
+  {
+   "p": "roe.",
+   "ini": 280.8,
+   "fin": 281.24
+  },
+  {
+   "p": "Los",
+   "ini": 281.68,
+   "fin": 281.82
+  },
+  {
+   "p": "cables.",
+   "ini": 281.82,
+   "fin": 282.16
+  },
+  {
+   "p": "Las",
+   "ini": 282.84,
+   "fin": 282.98
+  },
+  {
+   "p": "tuberías",
+   "ini": 282.98,
+   "fin": 283.36
+  },
+  {
+   "p": "de",
+   "ini": 283.36,
+   "fin": 283.5
+  },
+  {
+   "p": "gas.",
+   "ini": 283.5,
+   "fin": 283.74
+  },
+  {
+   "p": "Muchos",
+   "ini": 284.32,
+   "fin": 284.58
+  },
+  {
+   "p": "incendios",
+   "ini": 284.58,
+   "fin": 285.2
+  },
+  {
+   "p": "sin",
+   "ini": 285.2,
+   "fin": 285.42
+  },
+  {
+   "p": "explicación",
+   "ini": 285.42,
+   "fin": 286.04
+  },
+  {
+   "p": "empezaron",
+   "ini": 286.04,
+   "fin": 286.62
+  },
+  {
+   "p": "así.",
+   "ini": 286.62,
+   "fin": 286.92
+  },
+  {
+   "p": "Lo",
+   "ini": 287.46,
+   "fin": 287.64
+  },
+  {
+   "p": "cree",
+   "ini": 287.64,
+   "fin": 287.88
+  },
+  {
+   "p": "la",
+   "ini": 287.88,
+   "fin": 288.0
+  },
+  {
+   "p": "Universidad",
+   "ini": 288.0,
+   "fin": 288.62
+  },
+  {
+   "p": "de",
+   "ini": 288.62,
+   "fin": 288.76
+  },
+  {
+   "p": "California.",
+   "ini": 288.76,
+   "fin": 289.3
+  },
+  {
+   "p": "Con",
+   "ini": 289.78,
+   "fin": 290.04
+  },
+  {
+   "p": "un",
+   "ini": 290.04,
+   "fin": 290.16
+  },
+  {
+   "p": "mordisco.",
+   "ini": 290.16,
+   "fin": 290.68
+  },
+  {
+   "p": "Dentro",
+   "ini": 291.16,
+   "fin": 291.4
+  },
+  {
+   "p": "de",
+   "ini": 291.4,
+   "fin": 291.62
+  },
+  {
+   "p": "una",
+   "ini": 291.62,
+   "fin": 291.76
+  },
+  {
+   "p": "pared.",
+   "ini": 291.76,
+   "fin": 292.0
+  },
+  {
+   "p": "No",
+   "ini": 293.28,
+   "fin": 293.76
+  },
+  {
+   "p": "va",
+   "ini": 293.76,
+   "fin": 293.86
+  },
+  {
+   "p": "a",
+   "ini": 293.86,
+   "fin": 294.0
+  },
+  {
+   "p": "por",
+   "ini": 294.0,
+   "fin": 294.14
+  },
+  {
+   "p": "ti.",
+   "ini": 294.14,
+   "fin": 294.32
+  },
+  {
+   "p": "Va",
+   "ini": 294.78,
+   "fin": 294.96
+  },
+  {
+   "p": "a",
+   "ini": 294.96,
+   "fin": 295.04
+  },
+  {
+   "p": "por",
+   "ini": 295.04,
+   "fin": 295.18
+  },
+  {
+   "p": "la",
+   "ini": 295.18,
+   "fin": 295.3
+  },
+  {
+   "p": "galleta.",
+   "ini": 295.3,
+   "fin": 295.7
+  },
+  {
+   "p": "Tú",
+   "ini": 296.16,
+   "fin": 296.28
+  },
+  {
+   "p": "solo",
+   "ini": 296.28,
+   "fin": 296.52
+  },
+  {
+   "p": "estás",
+   "ini": 296.52,
+   "fin": 296.78
+  },
+  {
+   "p": "al",
+   "ini": 296.78,
+   "fin": 297.0
+  },
+  {
+   "p": "lado.",
+   "ini": 297.0,
+   "fin": 297.2
+  },
+  {
+   "p": "Regla",
+   "ini": 299.18,
+   "fin": 299.7
+  },
+  {
+   "p": "número",
+   "ini": 299.7,
+   "fin": 300.18
+  },
+  {
+   "p": "siete.",
+   "ini": 300.18,
+   "fin": 301.76
+  },
+  {
+   "p": "Está",
+   "ini": 303.76,
+   "fin": 305.34
+  },
+  {
+   "p": "sentado",
+   "ini": 305.34,
+   "fin": 305.72
+  },
+  {
+   "p": "encima",
+   "ini": 305.72,
+   "fin": 306.02
+  },
+  {
+   "p": "de",
+   "ini": 306.02,
+   "fin": 306.18
+  },
+  {
+   "p": "la",
+   "ini": 306.18,
+   "fin": 306.3
+  },
+  {
+   "p": "regla",
+   "ini": 306.3,
+   "fin": 306.56
+  },
+  {
+   "p": "siete.",
+   "ini": 306.56,
+   "fin": 307.64
+  },
+  {
+   "p": "Esperaremos.",
+   "ini": 307.64,
+   "fin": 307.94
+  },
+  {
+   "p": "Gracias.",
+   "ini": 311.2,
+   "fin": 311.8
+  },
+  {
+   "p": "Seis",
+   "ini": 313.8,
+   "fin": 314.4
+  },
+  {
+   "p": "reglas.",
+   "ini": 314.4,
+   "fin": 314.78
+  },
+  {
+   "p": "No",
+   "ini": 315.12,
+   "fin": 315.3
+  },
+  {
+   "p": "has",
+   "ini": 315.3,
+   "fin": 315.42
+  },
+  {
+   "p": "roto",
+   "ini": 315.42,
+   "fin": 315.68
+  },
+  {
+   "p": "ninguna.",
+   "ini": 315.68,
+   "fin": 315.98
+  },
+  {
+   "p": "Nadie",
+   "ini": 316.5,
+   "fin": 316.76
+  },
+  {
+   "p": "te",
+   "ini": 316.76,
+   "fin": 316.9
+  },
+  {
+   "p": "las",
+   "ini": 316.9,
+   "fin": 317.06
+  },
+  {
+   "p": "dio.",
+   "ini": 317.06,
+   "fin": 317.24
+  },
+  {
+   "p": "Alguien",
+   "ini": 317.62,
+   "fin": 317.92
+  },
+  {
+   "p": "sí.",
+   "ini": 317.92,
+   "fin": 318.14
+  },
+  {
+   "p": "Este",
+   "ini": 319.96,
+   "fin": 320.46
+  },
+  {
+   "p": "archivo",
+   "ini": 320.46,
+   "fin": 320.9
+  },
+  {
+   "p": "no",
+   "ini": 320.9,
+   "fin": 321.36
+  },
+  {
+   "p": "va",
+   "ini": 321.36,
+   "fin": 321.52
+  },
+  {
+   "p": "sobre",
+   "ini": 321.52,
+   "fin": 321.76
+  },
+  {
+   "p": "los",
+   "ini": 321.76,
+   "fin": 321.96
+  },
+  {
+   "p": "ratones.",
+   "ini": 321.96,
+   "fin": 322.42
+  },
+  {
+   "p": "Sujeto:",
+   "ini": 324.08,
+   "fin": 324.68
+  },
+  {
+   "p": "un",
+   "ini": 325.0,
+   "fin": 325.1
+  },
+  {
+   "p": "humano",
+   "ini": 325.1,
+   "fin": 325.34
+  },
+  {
+   "p": "adulto.",
+   "ini": 325.34,
+   "fin": 325.94
+  },
+  {
+   "p": "Vive",
+   "ini": 326.22,
+   "fin": 326.34
+  },
+  {
+   "p": "en",
+   "ini": 326.34,
+   "fin": 326.58
+  },
+  {
+   "p": "un",
+   "ini": 326.58,
+   "fin": 326.64
+  },
+  {
+   "p": "piso.",
+   "ini": 326.64,
+   "fin": 326.96
+  },
+  {
+   "p": "Se",
+   "ini": 327.44,
+   "fin": 327.56
+  },
+  {
+   "p": "despierta",
+   "ini": 327.56,
+   "fin": 328.12
+  },
+  {
+   "p": "a",
+   "ini": 328.12,
+   "fin": 328.22
+  },
+  {
+   "p": "las",
+   "ini": 328.22,
+   "fin": 328.36
+  },
+  {
+   "p": "tres.",
+   "ini": 328.36,
+   "fin": 328.56
+  },
+  {
+   "p": "Cruza",
+   "ini": 328.56,
+   "fin": 329.34
+  },
+  {
+   "p": "el",
+   "ini": 329.34,
+   "fin": 329.46
+  },
+  {
+   "p": "pasillo",
+   "ini": 329.46,
+   "fin": 329.84
+  },
+  {
+   "p": "descalzo.",
+   "ini": 329.84,
+   "fin": 330.8
+  },
+  {
+   "p": "Abre",
+   "ini": 330.8,
+   "fin": 330.98
+  },
+  {
+   "p": "la",
+   "ini": 330.98,
+   "fin": 331.12
+  },
+  {
+   "p": "nevera.",
+   "ini": 331.12,
+   "fin": 331.54
+  },
+  {
+   "p": "Vuelve",
+   "ini": 331.86,
+   "fin": 332.1
+  },
+  {
+   "p": "a",
+   "ini": 332.1,
+   "fin": 332.2
+  },
+  {
+   "p": "la",
+   "ini": 332.2,
+   "fin": 332.28
+  },
+  {
+   "p": "cama.",
+   "ini": 332.28,
+   "fin": 332.48
+  },
+  {
+   "p": "En",
+   "ini": 333.98,
+   "fin": 334.58
+  },
+  {
+   "p": "España,",
+   "ini": 334.58,
+   "fin": 334.9
+  },
+  {
+   "p": "la",
+   "ini": 335.5,
+   "fin": 335.58
+  },
+  {
+   "p": "ley",
+   "ini": 335.58,
+   "fin": 335.76
+  },
+  {
+   "p": "mide",
+   "ini": 335.76,
+   "fin": 336.04
+  },
+  {
+   "p": "con",
+   "ini": 336.04,
+   "fin": 336.26
+  },
+  {
+   "p": "una",
+   "ini": 336.26,
+   "fin": 336.46
+  },
+  {
+   "p": "máquina",
+   "ini": 336.46,
+   "fin": 336.76
+  },
+  {
+   "p": "el",
+   "ini": 336.76,
+   "fin": 336.96
+  },
+  {
+   "p": "ruido",
+   "ini": 336.96,
+   "fin": 337.26
+  },
+  {
+   "p": "de",
+   "ini": 337.26,
+   "fin": 337.4
+  },
+  {
+   "p": "pisadas.",
+   "ini": 337.4,
+   "fin": 337.8
+  },
+  {
+   "p": "El",
+   "ini": 338.44,
+   "fin": 338.58
+  },
+  {
+   "p": "que",
+   "ini": 338.58,
+   "fin": 338.72
+  },
+  {
+   "p": "atraviesa",
+   "ini": 338.72,
+   "fin": 339.28
+  },
+  {
+   "p": "el",
+   "ini": 339.28,
+   "fin": 339.4
+  },
+  {
+   "p": "suelo.",
+   "ini": 339.4,
+   "fin": 339.74
+  },
+  {
+   "p": "Hasta",
+   "ini": 340.34,
+   "fin": 340.58
+  },
+  {
+   "p": "sesenta",
+   "ini": 340.58,
+   "fin": 340.77
+  },
+  {
+   "p": "y",
+   "ini": 340.77,
+   "fin": 340.97
+  },
+  {
+   "p": "cinco",
+   "ini": 340.97,
+   "fin": 341.16
+  },
+  {
+   "p": "decibelios",
+   "ini": 341.16,
+   "fin": 342.06
+  },
+  {
+   "p": "está",
+   "ini": 342.06,
+   "fin": 342.38
+  },
+  {
+   "p": "permitido.",
+   "ini": 342.38,
+   "fin": 342.94
+  },
+  {
+   "p": "Ese",
+   "ini": 343.44,
+   "fin": 343.66
+  },
+  {
+   "p": "ruido",
+   "ini": 343.66,
+   "fin": 343.98
+  },
+  {
+   "p": "pasa.",
+   "ini": 343.98,
+   "fin": 344.32
+  },
+  {
+   "p": "Tiene",
+   "ini": 344.32,
+   "fin": 345.06
+  },
+  {
+   "p": "permiso.",
+   "ini": 345.06,
+   "fin": 345.64
+  },
+  {
+   "p": "Debajo",
+   "ini": 347.64,
+   "fin": 348.1
+  },
+  {
+   "p": "de",
+   "ini": 348.1,
+   "fin": 348.22
+  },
+  {
+   "p": "ti",
+   "ini": 348.22,
+   "fin": 348.4
+  },
+  {
+   "p": "hay",
+   "ini": 348.4,
+   "fin": 348.64
+  },
+  {
+   "p": "alguien",
+   "ini": 348.64,
+   "fin": 348.96
+  },
+  {
+   "p": "despierto.",
+   "ini": 348.96,
+   "fin": 349.5
+  },
+  {
+   "p": "Mirando",
+   "ini": 350.06,
+   "fin": 350.42
+  },
+  {
+   "p": "al",
+   "ini": 350.42,
+   "fin": 350.6
+  },
+  {
+   "p": "techo.",
+   "ini": 350.6,
+   "fin": 350.98
+  },
+  {
+   "p": "Contando.",
+   "ini": 351.4,
+   "fin": 351.92
+  },
+  {
+   "p": "Los",
+   "ini": 353.42,
+   "fin": 353.74
+  },
+  {
+   "p": "pasos",
+   "ini": 353.74,
+   "fin": 354.26
+  },
+  {
+   "p": "en",
+   "ini": 354.26,
+   "fin": 354.58
+  },
+  {
+   "p": "el",
+   "ini": 354.58,
+   "fin": 354.7
+  },
+  {
+   "p": "techo",
+   "ini": 354.7,
+   "fin": 354.98
+  },
+  {
+   "p": "de",
+   "ini": 354.98,
+   "fin": 355.14
+  },
+  {
+   "p": "alguien",
+   "ini": 355.14,
+   "fin": 355.42
+  },
+  {
+   "p": "eres",
+   "ini": 355.42,
+   "fin": 355.82
+  },
+  {
+   "p": "tú.",
+   "ini": 355.82,
+   "fin": 356.06
+  },
+  {
+   "p": "Regla",
+   "ini": 358.94,
+   "fin": 359.62
+  },
+  {
+   "p": "número",
+   "ini": 359.62,
+   "fin": 359.82
+  },
+  {
+   "p": "siete.",
+   "ini": 359.82,
+   "fin": 360.82
+  },
+  {
+   "p": "Cuando",
+   "ini": 360.82,
+   "fin": 361.04
+  },
+  {
+   "p": "oigas",
+   "ini": 361.04,
+   "fin": 361.56
+  },
+  {
+   "p": "pasos",
+   "ini": 361.56,
+   "fin": 361.9
+  },
+  {
+   "p": "encima,",
+   "ini": 361.9,
+   "fin": 362.32
+  },
+  {
+   "p": "no",
+   "ini": 362.68,
+   "fin": 362.76
+  },
+  {
+   "p": "golpees",
+   "ini": 362.76,
+   "fin": 363.18
+  },
+  {
+   "p": "el",
+   "ini": 363.18,
+   "fin": 363.4
+  },
+  {
+   "p": "techo.",
+   "ini": 363.4,
+   "fin": 363.74
+  },
+  {
+   "p": "Arriba,",
+   "ini": 364.2,
+   "fin": 364.66
+  },
+  {
+   "p": "alguien",
+   "ini": 364.9,
+   "fin": 365.16
+  },
+  {
+   "p": "está",
+   "ini": 365.16,
+   "fin": 365.44
+  },
+  {
+   "p": "oyendo",
+   "ini": 365.44,
+   "fin": 365.76
+  },
+  {
+   "p": "los",
+   "ini": 365.76,
+   "fin": 365.96
+  },
+  {
+   "p": "suyos.",
+   "ini": 365.96,
+   "fin": 366.4
+  },
+  {
+   "p": "La",
+   "ini": 367.76,
+   "fin": 368.04
+  },
+  {
+   "p": "regla",
+   "ini": 368.04,
+   "fin": 368.36
+  },
+  {
+   "p": "ocho",
+   "ini": 368.36,
+   "fin": 368.64
+  },
+  {
+   "p": "es",
+   "ini": 368.64,
+   "fin": 368.92
+  },
+  {
+   "p": "para",
+   "ini": 368.92,
+   "fin": 369.14
+  },
+  {
+   "p": "los",
+   "ini": 369.14,
+   "fin": 369.36
+  },
+  {
+   "p": "que",
+   "ini": 369.36,
+   "fin": 369.52
+  },
+  {
+   "p": "viven",
+   "ini": 369.52,
+   "fin": 369.9
+  },
+  {
+   "p": "en",
+   "ini": 369.9,
+   "fin": 370.02
+  },
+  {
+   "p": "el",
+   "ini": 370.02,
+   "fin": 370.16
+  },
+  {
+   "p": "último",
+   "ini": 370.16,
+   "fin": 370.44
+  },
+  {
+   "p": "piso.",
+   "ini": 370.44,
+   "fin": 370.88
+  },
+  {
+   "p": "Encima",
+   "ini": 371.46,
+   "fin": 371.88
+  },
+  {
+   "p": "no",
+   "ini": 371.88,
+   "fin": 372.06
+  },
+  {
+   "p": "tienen",
+   "ini": 372.06,
+   "fin": 372.32
+  },
+  {
+   "p": "a",
+   "ini": 372.32,
+   "fin": 372.48
+  },
+  {
+   "p": "nadie.",
+   "ini": 372.48,
+   "fin": 372.7
+  },
+  {
+   "p": "Sigue",
+   "ini": 373.48,
+   "fin": 373.7
+  },
+  {
+   "p": "sentado",
+   "ini": 373.7,
+   "fin": 374.22
+  },
+  {
+   "p": "encima",
+   "ini": 374.22,
+   "fin": 374.64
+  },
+  {
+   "p": "de",
+   "ini": 374.64,
+   "fin": 374.84
+  },
+  {
+   "p": "esa.",
+   "ini": 374.84,
+   "fin": 376.58
+  },
+  {
+   "p": "El",
+   "ini": 378.58,
+   "fin": 379.26
+  },
+  {
+   "p": "empleado",
+   "ini": 379.26,
+   "fin": 379.68
+  },
+  {
+   "p": "que",
+   "ini": 379.68,
+   "fin": 379.86
+  },
+  {
+   "p": "escribió",
+   "ini": 379.86,
+   "fin": 380.28
+  },
+  {
+   "p": "este",
+   "ini": 380.28,
+   "fin": 380.44
+  },
+  {
+   "p": "archivo",
+   "ini": 380.44,
+   "fin": 380.8
+  },
+  {
+   "p": "vivía",
+   "ini": 380.8,
+   "fin": 381.18
+  },
+  {
+   "p": "en",
+   "ini": 381.18,
+   "fin": 381.28
+  },
+  {
+   "p": "un",
+   "ini": 381.28,
+   "fin": 381.38
+  },
+  {
+   "p": "último",
+   "ini": 381.38,
+   "fin": 381.66
+  },
+  {
+   "p": "piso.",
+   "ini": 381.66,
+   "fin": 382.06
+  },
+  {
+   "p": "Encima,",
+   "ini": 382.5,
+   "fin": 382.98
+  },
+  {
+   "p": "solo",
+   "ini": 383.36,
+   "fin": 383.54
+  },
+  {
+   "p": "tejado.",
+   "ini": 383.54,
+   "fin": 384.52
+  },
+  {
+   "p": "Tapó",
+   "ini": 384.52,
+   "fin": 384.78
+  },
+  {
+   "p": "cada",
+   "ini": 384.78,
+   "fin": 385.0
+  },
+  {
+   "p": "agujero",
+   "ini": 385.0,
+   "fin": 385.4
+  },
+  {
+   "p": "del",
+   "ini": 385.4,
+   "fin": 385.56
+  },
+  {
+   "p": "grosor",
+   "ini": 385.56,
+   "fin": 385.96
+  },
+  {
+   "p": "de",
+   "ini": 385.96,
+   "fin": 386.1
+  },
+  {
+   "p": "un",
+   "ini": 386.1,
+   "fin": 386.2
+  },
+  {
+   "p": "lápiz.",
+   "ini": 386.2,
+   "fin": 386.54
+  },
+  {
+   "p": "Las",
+   "ini": 386.92,
+   "fin": 387.14
+  },
+  {
+   "p": "trampas",
+   "ini": 387.14,
+   "fin": 387.54
+  },
+  {
+   "p": "amanecían",
+   "ini": 387.54,
+   "fin": 388.06
+  },
+  {
+   "p": "vacías.",
+   "ini": 388.06,
+   "fin": 388.54
+  },
+  {
+   "p": "Los",
+   "ini": 389.22,
+   "fin": 389.36
+  },
+  {
+   "p": "pasos",
+   "ini": 389.36,
+   "fin": 389.74
+  },
+  {
+   "p": "seguían.",
+   "ini": 389.74,
+   "fin": 390.18
+  },
+  {
+   "p": "Lentos.",
+   "ini": 390.6,
+   "fin": 391.2
+  },
+  {
+   "p": "Descalzos.",
+   "ini": 391.64,
+   "fin": 392.18
+  },
+  {
+   "p": "En",
+   "ini": 393.76,
+   "fin": 393.96
+  },
+  {
+   "p": "marzo",
+   "ini": 393.96,
+   "fin": 394.36
+  },
+  {
+   "p": "dejaron",
+   "ini": 394.36,
+   "fin": 394.98
+  },
+  {
+   "p": "de",
+   "ini": 394.98,
+   "fin": 395.14
+  },
+  {
+   "p": "sonar.",
+   "ini": 395.14,
+   "fin": 395.48
+  },
+  {
+   "p": "Esa",
+   "ini": 396.04,
+   "fin": 396.3
+  },
+  {
+   "p": "misma",
+   "ini": 396.3,
+   "fin": 396.44
+  },
+  {
+   "p": "semana",
+   "ini": 396.44,
+   "fin": 396.88
+  },
+  {
+   "p": "llamó",
+   "ini": 396.88,
+   "fin": 397.2
+  },
+  {
+   "p": "su",
+   "ini": 397.2,
+   "fin": 397.36
+  },
+  {
+   "p": "vecina",
+   "ini": 397.36,
+   "fin": 397.64
+  },
+  {
+   "p": "de",
+   "ini": 397.64,
+   "fin": 397.76
+  },
+  {
+   "p": "abajo.",
+   "ini": 397.76,
+   "fin": 398.04
+  },
+  {
+   "p": "Dice",
+   "ini": 398.68,
+   "fin": 399.1
+  },
+  {
+   "p": "que",
+   "ini": 399.1,
+   "fin": 399.28
+  },
+  {
+   "p": "ahora",
+   "ini": 399.28,
+   "fin": 399.56
+  },
+  {
+   "p": "los",
+   "ini": 399.56,
+   "fin": 399.85
+  },
+  {
+   "p": "oye",
+   "ini": 399.85,
+   "fin": 400.14
+  },
+  {
+   "p": "ella.",
+   "ini": 400.14,
+   "fin": 400.4
+  },
+  {
+   "p": "A",
+   "ini": 400.7,
+   "fin": 400.84
+  },
+  {
+   "p": "las",
+   "ini": 400.84,
+   "fin": 400.98
+  },
+  {
+   "p": "tres",
+   "ini": 400.98,
+   "fin": 401.18
+  },
+  {
+   "p": "y",
+   "ini": 401.18,
+   "fin": 401.38
+  },
+  {
+   "p": "cuatro",
+   "ini": 401.38,
+   "fin": 401.6
+  },
+  {
+   "p": "minutos.",
+   "ini": 401.6,
+   "fin": 402.08
+  },
+  {
+   "p": "Nosotros",
+   "ini": 404.12,
+   "fin": 404.8
+  },
+  {
+   "p": "no",
+   "ini": 404.8,
+   "fin": 405.12
+  },
+  {
+   "p": "escribimos",
+   "ini": 405.12,
+   "fin": 405.72
+  },
+  {
+   "p": "este",
+   "ini": 405.72,
+   "fin": 406.12
+  },
+  {
+   "p": "archivo.",
+   "ini": 406.12,
+   "fin": 406.58
+  },
+  {
+   "p": "Nos",
+   "ini": 407.06,
+   "fin": 407.28
+  },
+  {
+   "p": "pidieron",
+   "ini": 407.28,
+   "fin": 407.72
+  },
+  {
+   "p": "que",
+   "ini": 407.72,
+   "fin": 407.96
+  },
+  {
+   "p": "te",
+   "ini": 407.96,
+   "fin": 408.1
+  },
+  {
+   "p": "lo",
+   "ini": 408.1,
+   "fin": 408.26
+  },
+  {
+   "p": "leyéramos.",
+   "ini": 408.26,
+   "fin": 408.8
+  },
+  {
+   "p": "Gracias",
+   "ini": 410.98,
+   "fin": 411.66
+  },
+  {
+   "p": "por",
+   "ini": 411.66,
+   "fin": 412.06
+  },
+  {
+   "p": "su",
+   "ini": 412.06,
+   "fin": 412.26
+  },
+  {
+   "p": "cooperación.",
+   "ini": 412.26,
+   "fin": 412.88
+  },
+  {
+   "p": "Queda",
+   "ini": 414.88,
+   "fin": 415.56
+  },
+  {
+   "p": "un",
+   "ini": 415.56,
+   "fin": 415.76
+  },
+  {
+   "p": "trámite.",
+   "ini": 415.76,
+   "fin": 416.12
+  },
+  {
+   "p": "Este",
+   "ini": 416.86,
+   "fin": 417.06
+  },
+  {
+   "p": "archivo",
+   "ini": 417.06,
+   "fin": 417.54
+  },
+  {
+   "p": "no",
+   "ini": 417.54,
+   "fin": 417.96
+  },
+  {
+   "p": "es",
+   "ini": 417.96,
+   "fin": 418.14
+  },
+  {
+   "p": "el",
+   "ini": 418.14,
+   "fin": 418.28
+  },
+  {
+   "p": "único.",
+   "ini": 418.28,
+   "fin": 418.56
+  },
+  {
+   "p": "Si",
+   "ini": 419.18,
+   "fin": 419.36
+  },
+  {
+   "p": "quieres",
+   "ini": 419.36,
+   "fin": 419.64
+  },
+  {
+   "p": "recibir",
+   "ini": 419.64,
+   "fin": 420.12
+  },
+  {
+   "p": "el",
+   "ini": 420.12,
+   "fin": 420.32
+  },
+  {
+   "p": "siguiente,",
+   "ini": 420.32,
+   "fin": 420.6
+  },
+  {
+   "p": "suscríbete",
+   "ini": 420.96,
+   "fin": 421.64
+  },
+  {
+   "p": "al",
+   "ini": 421.64,
+   "fin": 421.78
+  },
+  {
+   "p": "canal.",
+   "ini": 421.78,
+   "fin": 422.02
+  },
+  {
+   "p": "El",
+   "ini": 422.66,
+   "fin": 422.84
+  },
+  {
+   "p": "Negociado",
+   "ini": 422.84,
+   "fin": 423.44
+  },
+  {
+   "p": "avisa",
+   "ini": 423.44,
+   "fin": 423.92
+  },
+  {
+   "p": "primero",
+   "ini": 423.92,
+   "fin": 424.3
+  },
+  {
+   "p": "a",
+   "ini": 424.3,
+   "fin": 424.54
+  },
+  {
+   "p": "los",
+   "ini": 424.54,
+   "fin": 424.64
+  },
+  {
+   "p": "suscriptores.",
+   "ini": 424.64,
+   "fin": 425.36
+  },
+  {
+   "p": "Y",
+   "ini": 426.84,
+   "fin": 427.08
+  },
+  {
+   "p": "cuéntanos",
+   "ini": 427.08,
+   "fin": 427.52
+  },
+  {
+   "p": "en",
+   "ini": 427.52,
+   "fin": 427.78
+  },
+  {
+   "p": "los",
+   "ini": 427.78,
+   "fin": 427.92
+  },
+  {
+   "p": "comentarios",
+   "ini": 427.92,
+   "fin": 428.44
+  },
+  {
+   "p": "qué",
+   "ini": 428.44,
+   "fin": 429.02
+  },
+  {
+   "p": "se",
+   "ini": 429.02,
+   "fin": 429.2
+  },
+  {
+   "p": "oye",
+   "ini": 429.2,
+   "fin": 429.48
+  },
+  {
+   "p": "en",
+   "ini": 429.48,
+   "fin": 429.68
+  },
+  {
+   "p": "tu",
+   "ini": 429.68,
+   "fin": 429.82
+  },
+  {
+   "p": "techo",
+   "ini": 429.82,
+   "fin": 430.18
+  },
+  {
+   "p": "de",
+   "ini": 430.18,
+   "fin": 430.3
+  },
+  {
+   "p": "noche.",
+   "ini": 430.3,
+   "fin": 430.56
+  },
+  {
+   "p": "El",
+   "ini": 431.38,
+   "fin": 431.52
+  },
+  {
+   "p": "próximo",
+   "ini": 431.52,
+   "fin": 431.86
+  },
+  {
+   "p": "archivo",
+   "ini": 431.86,
+   "fin": 432.48
+  },
+  {
+   "p": "puede",
+   "ini": 432.48,
+   "fin": 432.88
+  },
+  {
+   "p": "ser",
+   "ini": 432.88,
+   "fin": 433.18
+  },
+  {
+   "p": "el",
+   "ini": 433.18,
+   "fin": 433.3
+  },
+  {
+   "p": "tuyo.",
+   "ini": 433.3,
+   "fin": 434.04
+  },
+  {
+   "p": "Escucha.",
+   "ini": 436.04,
+   "fin": 436.68
+  }
+ ]
+}

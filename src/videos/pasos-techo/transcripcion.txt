@@ -1,0 +1,175 @@
+[   0.00] Son las tres y cuatro minutos de la madrugada.
+[   2.92] Estás despierto.
+[   4.38] La casa está en silencio.
+[   5.72] Y encima de ti, en el techo…
+[   8.16] algo camina.
+[  10.27] Son pasos.
+[  11.26] Muy cortos.
+[  12.26] Muy rápidos.
+[  12.82] Se paran justo encima de tu cama.
+[  16.79] Si esto te ha pasado alguna vez, este archivo es para ti.
+[  20.38] No golpees el techo.
+[  21.96] No subas a mirar.
+[  22.96] Y sobre todo…
+[  24.06] no intentes contarlos.
+[  26.92] Llevan ahí desde que empezó el frío.
+[  29.84] Hay siete reglas.
+[  31.48] Casi todos los que los han oído ya cumplen seis.
+[  34.38] Nadie os las ha explicado.
+[  37.74] Archivo cero veintiuno.
+[  39.80] Pasos en el techo.
+[  41.30] Negociado de Asuntos Nocturnos.
+[  43.46] Por favor, sigue todas las instrucciones.
+[  47.08] Antes de empezar, el Negociado necesita un dato.
+[  50.16] ¿A qué hora empiezan en tu casa?
+[  53.04] Escríbela en los comentarios.
+[  55.12] Las estamos contando.
+[  57.60] Regla número uno.
+[  59.18] No subas a mirar.
+[  60.42] Lo que camina encima pesa unos quince gramos.
+[  63.24] Lo mismo que dos monedas de un euro.
+[  65.44] No es una persona.
+[  66.78] Es un ratón.
+[  68.90] Los ratones viven de noche.
+[  71.16] Y en otoño, cuando las noches se enfrían, entran en las casas.
+[  75.18] Buscan calor.
+[  76.40] Lo encuentran encima de ti.
+[  78.26] Tu techo es su suelo.
+[  80.60] Si subes, no lo verás.
+[  82.80] Él a ti sí.
+[  83.78] Nota un movimiento a cuatro metros y medio.
+[  86.22] Tú no lo verías a un palmo.
+[  90.44] Regla número dos.
+[  92.12] Busca los agujeros del grosor de un lápiz.
+[  94.90] Un ratón cabe por un hueco de seis milímetros.
+[  98.06] El grosor de un lápiz.
+[  99.32] Lo dicen los Centros para el Control de Enfermedades de Estados Unidos.
+[ 103.90] Una rata necesita el doble.
+[ 106.08] Un ratón, no.
+[ 108.40] Tu casa tiene muchos.
+[ 109.96] Junto a las tuberías.
+[ 111.48] Bajo las tejas.
+[ 112.72] En la rejilla del desván.
+[ 114.42] Rellénalos con lana de acero.
+[ 116.38] Esa no la puede roer.
+[ 118.84] Tápalos todos.
+[ 120.42] Luego escucha.
+[ 121.70] Si los pasos siguen, ya estaban dentro.
+[ 124.42] Y no eres el único que está escuchando.
+[ 128.30] Regla número tres.
+[ 130.00] No intentes contarlos.
+[ 131.34] Lo has intentado.
+[ 132.50] Primero oíste uno.
+[ 133.68] Luego, dos a la vez.
+[ 135.46] Luego, uno que corría y otro que no se movía.
+[ 139.50] Una hembra puede tener de cinco a diez camadas al año.
+[ 143.06] De cinco o seis crías cada una.
+[ 145.36] A las seis semanas, las crías ya pueden tener crías.
+[ 150.08] Si un día contaste uno, ya no es uno.
+[ 155.50] Dos mil cinco.
+[ 159.92] Universidad de Washington, en San Luis.
+[ 162.80] Dos científicos grabaron a ratones machos.
+[ 165.80] Descubrieron que cantan.
+[ 167.62] Canciones con frases que se repiten.
+[ 169.96] Cada macho tiene la suya.
+[ 172.96] Cantan entre treinta mil y ciento diez mil vibraciones por segundo.
+[ 177.44] Tu oído llega a unas veinte mil.
+[ 179.16] Esta noche, encima de tu cama, hay un concierto.
+[ 183.28] No te han invitado.
+[ 187.18] El Negociado necesita confirmarlo.
+[ 190.02] ¿Qué hay encima de tu dormitorio?
+[ 192.04] Si hay un vecino, escribe «arriba».
+[ 194.58] Si solo hay tejado, escribe «tejado».
+[ 197.34] Lo revisaremos uno a uno.
+[ 200.10] Regla número cuatro.
+[ 202.18] Duerme siempre en la misma cama.
+[ 203.92] Dos mil dieciséis.
+[ 206.00] Universidad Brown, en Estados Unidos.
+[ 208.44] Treinta y cinco voluntarios durmieron en un laboratorio.
+[ 212.48] La primera noche, la mitad izquierda de su cerebro no se durmió.
+[ 216.84] Se quedó de guardia.
+[ 218.16] Reaccionaba a cada sonido raro.
+[ 221.40] Lo llamaron el efecto de la primera noche.
+[ 224.38] En tu cama, tu cerebro duerme entero.
+[ 227.40] Fuera de ella, una mitad vigila el techo.
+[ 231.38] Si los oyes en tu propia cama, pregúntate qué mitad está despierta.
+[ 238.08] Regla número cinco.
+[ 239.54] Si cruje, déjalo crujir.
+[ 241.50] No todo lo que suena en el techo camina.
+[ 243.78] De noche la casa se enfría.
+[ 245.62] La madera y el metal se encogen.
+[ 247.68] Rozan con los clavos.
+[ 249.04] Crujen.
+[ 249.82] Suena como un paso lento.
+[ 251.46] Uno solo.
+[ 253.50] Los ratones no dan pasos lentos.
+[ 255.82] Corren.
+[ 256.16] Si oyes uno lento, es la casa.
+[ 259.66] Si oyes uno lento…
+[ 261.78] y luego corre, no es la casa.
+[ 265.00] Regla número seis.
+[ 266.96] No dejes comida en la mesilla.
+[ 269.52] Un ratón hace unas doscientas comidas pequeñas cada noche.
+[ 273.38] Casi nunca se aleja más de nueve metros de su nido.
+[ 276.84] Mide la distancia de tu techo a tu almohada.
+[ 280.28] También roe.
+[ 281.68] Los cables.
+[ 282.84] Las tuberías de gas.
+[ 284.32] Muchos incendios sin explicación empezaron así.
+[ 287.46] Lo cree la Universidad de California.
+[ 289.78] Con un mordisco.
+[ 291.16] Dentro de una pared.
+[ 293.28] No va a por ti.
+[ 294.78] Va a por la galleta.
+[ 296.16] Tú solo estás al lado.
+[ 299.18] Regla número siete.
+[ 303.76] Está sentado encima de la regla siete.
+[ 307.64] Esperaremos.
+[ 311.20] Gracias.
+[ 313.80] Seis reglas.
+[ 315.12] No has roto ninguna.
+[ 316.50] Nadie te las dio.
+[ 317.62] Alguien sí.
+[ 319.96] Este archivo no va sobre los ratones.
+[ 324.08] Sujeto: un humano adulto.
+[ 326.22] Vive en un piso.
+[ 327.44] Se despierta a las tres.
+[ 328.56] Cruza el pasillo descalzo.
+[ 330.80] Abre la nevera.
+[ 331.86] Vuelve a la cama.
+[ 333.98] En España, la ley mide con una máquina el ruido de pisadas.
+[ 338.44] El que atraviesa el suelo.
+[ 340.34] Hasta sesenta y cinco decibelios está permitido.
+[ 343.44] Ese ruido pasa.
+[ 344.32] Tiene permiso.
+[ 347.64] Debajo de ti hay alguien despierto.
+[ 350.06] Mirando al techo.
+[ 351.40] Contando.
+[ 353.42] Los pasos en el techo de alguien eres tú.
+[ 358.94] Regla número siete.
+[ 360.82] Cuando oigas pasos encima, no golpees el techo.
+[ 364.20] Arriba, alguien está oyendo los suyos.
+[ 367.76] La regla ocho es para los que viven en el último piso.
+[ 371.46] Encima no tienen a nadie.
+[ 373.48] Sigue sentado encima de esa.
+[ 378.58] El empleado que escribió este archivo vivía en un último piso.
+[ 382.50] Encima, solo tejado.
+[ 384.52] Tapó cada agujero del grosor de un lápiz.
+[ 386.92] Las trampas amanecían vacías.
+[ 389.22] Los pasos seguían.
+[ 390.60] Lentos.
+[ 391.64] Descalzos.
+[ 393.76] En marzo dejaron de sonar.
+[ 396.04] Esa misma semana llamó su vecina de abajo.
+[ 398.68] Dice que ahora los oye ella.
+[ 400.70] A las tres y cuatro minutos.
+[ 404.12] Nosotros no escribimos este archivo.
+[ 407.06] Nos pidieron que te lo leyéramos.
+[ 410.98] Gracias por su cooperación.
+[ 414.88] Queda un trámite.
+[ 416.86] Este archivo no es el único.
+[ 419.18] Si quieres recibir el siguiente, suscríbete al canal.
+[ 422.66] El Negociado avisa primero a los suscriptores.
+[ 426.84] Y cuéntanos en los comentarios qué se oye en tu techo de noche.
+[ 431.38] El próximo archivo puede ser el tuyo.
+[ 436.04] Escucha.

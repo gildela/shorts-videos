@@ -3,7 +3,8 @@ import React from "react";
 import { Lienzo, Plano, fade, kf, pop } from "../../estilos/archivo/Plano";
 import { S } from "../../estilos/archivo/Sonido";
 import { CorteParedes } from "../../estilos/archivo/piezas/Casa";
-import { Ondas, Raton, Lapiz, Cota, Agujero } from "../../estilos/archivo/piezas/Objetos";
+import { Raton, Lapiz, Cota, Agujero } from "../../estilos/archivo/piezas/Objetos";
+import { Ondas } from "../../estilos/archivo/piezas/Perro";
 import { Sello, TarjetaDato, TarjetaRegla, Texto } from "../../estilos/archivo/piezas/Interfaz";
 import { E, R } from "./comun";
 
