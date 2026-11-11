@@ -1,34 +1,10 @@
 [
- {
-  "nombre": "Gancho",
-  "en": ""
- },
- {
-  "nombre": "Archivo",
-  "en": ""
- },
- {
-  "nombre": "Regla 1",
-  "en": ""
- },
- {
-  "nombre": "Dato",
-  "en": ""
- },
- {
-  "nombre": "Regla 3",
-  "en": ""
- },
- {
-  "nombre": "Regla 5",
-  "en": ""
- },
- {
-  "nombre": "Giro",
-  "en": ""
- },
- {
-  "nombre": "Cierre",
-  "en": ""
- }
+ { "nombre": "Gancho", "en": "completamente despierto" },
+ { "nombre": "Regla 1", "en": "Casi transparente" },
+ { "nombre": "Dato", "en": "tres noches por semana" },
+ { "nombre": "Primer sueño", "en": "Visitaban a los vecinos" },
+ { "nombre": "Regla 4", "en": "Otras cuatro horas" },
+ { "nombre": "Regla 5", "en": "Hacia tu puerta" },
+ { "nombre": "Giro", "en": "Nunca hace la ronda" },
+ { "nombre": "Cierre", "en": "Y la ronda estaba hecha" }
 ]
