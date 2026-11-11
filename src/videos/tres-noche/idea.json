@@ -1,0 +1,18 @@
+{
+ "estilo": "archivo",
+ "idea": {
+  "n": 13,
+  "estilo": "archivo",
+  "titulo": "Si te despiertas a las tres cada noche",
+  "dato": "El historiador Roger Ekirch reunió más de 500 referencias (hoy más de 2.000, en una docena de idiomas) a un «primer sueño» y un «segundo sueño» con un rato despierto en medio, pasada la medianoche; en 1992, Thomas Wehr dejó a unos voluntarios con 14 horas de oscuridad al día y su sueño se partió en dos tandas de varias horas con 1-3 horas despiertos entre medias (Journal of Sleep Research).",
+  "fuentes": [
+   "https://ktvz.com/health/cnn-health/2022/01/09/how-our-ancestors-used-to-sleep-can-help-the-sleep-deprived-today/",
+   "https://pubmed.ncbi.nlm.nih.gov/10607034/"
+  ],
+  "formato": "largo",
+  "ejemplo": null,
+  "icono": "alarm-clock",
+  "bloqueado": false
+ },
+ "formato": null
+}
