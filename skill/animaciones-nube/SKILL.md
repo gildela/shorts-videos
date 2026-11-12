@@ -26,6 +26,10 @@ Si es la primera vez y el canal es «TU CANAL», pregúntale el nombre de su can
    línea) y `src/videos/<id>/fuentes.md`. **Siempre** con las consultas al público (dos o tres en el largo) y el **CTA
    final** antes de la última palabra (`GUION.md` §6).
 5. `fabrica guion <id>` (cuenta palabras y duración, y avisa si faltan las consultas o el CTA). Corrige si avisa.
+5b. **Revisión de ritmo y pronunciación** (antes de gastar créditos de voz): aplica las reglas de `GUION.md` §1 bis
+   (gancho en 10-15 s, bucles, reglas de menos de 110 palabras). Luego lanza un subagente (Agent) con el brief de
+   `estilos/archivo/REVISION-PRONUNCIACION.md` sobre `guion.md` y aplica sus correcciones en el guion. No toques la voz
+   hasta que el subagente devuelva «sin cambios» o las correcciones estén hechas.
 6. **Pásale el guion al usuario en el hilo** (adjunta `guion.md` copiado a `/mnt/project-files/videos/<id>/`) con la
    duración estimada y pregunta si vale. Si pide cambios, reescribe y repite.
 
