@@ -660,7 +660,24 @@ def cmd_transcribir(args):
     if faltan:
         print("  ⚠ Parece que la voz NO dice estas frases del guion:\n    - " + "\n    - ".join(faltan[:5]))
     print(f"  Transcripción: src/videos/{id_}/transcripcion.txt · Tiempos: public/videos/{id_}/voz.tiempos.json")
+    _revisar_pronunciacion(id_, guion, oidas, parrafos)
     print(f"  Siguiente: escribe src/videos/{id_}/Video.tsx y escenas.json, y ejecuta  fabrica fotos {id_}")
+
+
+def _revisar_pronunciacion(id_, guion, oidas, parrafos):
+    """Compara lo que se oye con el guion: finales comidos, palabras sin oír. Guarda public/videos/<id>/revision-voz.json."""
+    import pronunciacion
+    import voz as voz_mod
+
+    oido = [{"w": w, "ini": ini, "fin": fin} for w, ini, fin in oidas]
+    cuentas = [len(t.split()) for t, _ in voz_mod.bloques(parrafos)]
+    informe = pronunciacion.revisar(guion, oido, cuentas)
+    (PUBLICO / id_ / "revision-voz.json").write_text(json.dumps(informe, ensure_ascii=False, indent=1), encoding="utf-8")
+    print("  Pronunciación: " + informe["resumen"])
+    for p in informe["problemas"][:12]:
+        print(f"    · {p['seg']:7.2f} s «{p['guion']}» → {p['tipo']} ({p['gravedad']})")
+    if len(informe["problemas"]) > 12:
+        print(f"    … y {len(informe['problemas']) - 12} más en public/videos/{id_}/revision-voz.json")
 
 
 def insertar_pausas(entrada, salida, parrafos, palabras, total):
