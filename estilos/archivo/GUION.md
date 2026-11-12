@@ -13,7 +13,7 @@ corto (1:40-2:00) es solo de la comunidad y va al final (§11).
 
 | Bloque | Qué lleva | Palabras |
 |---|---|---|
-| **Gancho** (0:00-0:45) | 2-3 frases con la situación de casa a las tres de la madrugada, en segunda persona y presente, con la hora y el sitio. Lo raro aparece en la última frase («Y a los pies de tu cama… hay dos puntos amarillos»). Luego: «Si esto te ha pasado alguna vez, este archivo es para ti» y tres órdenes cortas («No enciendas la luz. No digas nada. Y sobre todo… no le preguntes qué quiere»). Cierra con «Lleva ahí desde que te dormiste. Hay siete reglas. Ya cumples seis. Nadie te las ha explicado». | 70-110 |
+| **Gancho** (0:00-0:25, ver §1 bis) | Empieza por lo raro, no por la situación: la primera frase ya es la imagen («Son las tres y cuatro. Hay dos puntos amarillos a los pies de tu cama.»). Después, en frases de 3-6 palabras, la situación y la orden de no hacer nada («No enciendas la luz. No digas nada.»). Sin presentaciones, sin «hola», sin logo. Cierra con «Hay siete reglas. Ya cumples seis.» | 45-75 |
 | **Apertura del archivo** | «Archivo cero cero uno. [Categoría]. Negociado de Asuntos Nocturnos.» (o «Archivo cero cero uno del Negociado de Asuntos Nocturnos…»), la situación en una frase de funcionario y «hay N reglas» si no se ha dicho en el gancho. Una frase de trámite («Por favor, sigue todas las instrucciones»). | 15-40 |
 | **Reglas** (de cinco a siete) | Cada una: «Regla número N. [La orden, en una frase].» + la explicación contada como amenaza (qué hace la cosa, qué pasa si no cumples) + **un dato real con cifra** por regla o, como mínimo, uno cada dos reglas, con la fuente dicha en la voz («Un experimento en Japón lo demostró en dos mil diecinueve»). Remate corto y `[pausa]`. | 50-150 cada una (media ≈ 100) |
 | **Fichas de dato comprobado** (una o dos, intercaladas) | Un párrafo sin número de regla en el que el dato más fuerte se cuenta entero: el año, quién, cuántos, la cifra y lo que concluyeron, y un remate frío. En pantalla es una `TarjetaDato` con el sello «COMPROBADO». En el gato: el gato espía de mil novecientos sesenta y siete (dentro de la regla tres) y las cámaras en cincuenta y cinco gatos (regla cuatro). | 40-80 cada una |
@@ -42,6 +42,59 @@ cinco.
 como en el guion de muestra. La fábrica no lee las líneas que empiezan por `#`: te sirven para orientarte, para
 repartir el `Video.tsx` en bloques (`S1.tsx`…`S7.tsx`, ver `LEEME.md`) y para escribir los capítulos de `subir.txt`.
 
+## 1 bis. Dinamismo: el ritmo manda (obligatorio desde el 022)
+
+Los dos primeros vídeos se hicieron lentos: el gancho tardaba en llegar, la apertura y las presentaciones ocupaban el
+primer minuto, y el espectador se iba antes de la primera regla. Lo que se mantiene es la intriga, el misterio y el
+thriller. Lo que cambia es el ritmo. Las reglas de esta sección mandan sobre la tabla de §1 si chocan con ella.
+
+**Los primeros 10-15 segundos**
+- **Empieza en la imagen rara.** No en la situación ni en el sitio: en lo que no encaja. La primera frase ya es una
+  pregunta que el espectador quiere cerrar («¿Qué hace un gato a los pies de tu cama a las tres?»).
+- **Cero presentaciones.** Nada de «en este archivo», de logo, de «hola», ni de explicar el canal. La tarjeta
+  «ARCHIVO 0XX» llega después del primer gancho, nunca antes.
+- **Abre un bucle que no se cierra hasta el giro.** Un bucle es una pregunta sin respuesta: «¿Por qué te mira?», «¿Qué
+  está comprobando?». El giro (§1, fila «Giro») la cierra. Un vídeo sin bucle abierto en el primer minuto se abandona.
+- **Una imagen cambiada cada 8-12 segundos** al principio. El motor cambia el subtítulo, pero el dibujo también tiene
+  que moverse (un zoom, la cola, una luz). Una escena fija de más de 15 segundos es un corte al ritmo lento.
+
+**Durante todo el vídeo**
+- **Algo nuevo cada 30-45 segundos**: un dato, una amenaza nueva, una consulta al público o un giro menor. Si un bloque
+  pasa de 150 palabras sin nada nuevo, parte la regla o quita una frase.
+- **Reglas más cortas.** Ninguna de más de 110 palabras (en la tabla de §1 ponía hasta 150). Mejor seis reglas
+  apretadas que siete que se arrastran.
+- **Pausas cortas al principio.** Las `[pausa 3]` de §4 se usan solo tras un giro o un silencio del drone. En el
+  gancho y en la apertura, `[pausa 1]` como mucho.
+- **Frases más secas.** Cuatro o cinco palabras en los momentos de tensión («Está detrás.» «No te muevas.»). Nada de
+  adjetivos para subir el tono: el ritmo lo da la frase corta, no la voz.
+- **Un susto o un cambio de tono por bloque**, sin subir el volumen ni cambiar de voz (se mantiene §6).
+
+**Qué no hacer**
+- No resumas el vídeo ni digas «hoy veremos». No expliques el misterio antes del giro.
+- No dejes el dato más fuerte para el final: va en la mitad, en una ficha (§8).
+- No repitas la misma idea con otras palabras para «rellenar». Si la frase no añade dato, orden o pregunta, va fuera.
+
+**Prueba antes de escribir la voz**: lee el gancho en voz alta con un reloj. Si no hay una pregunta en los primeros 10
+segundos, reescríbelo. Si el primer minuto no tiene nada que el espectador no supiera ya, el primer minuto sobra.
+
+**Dónde se ha comprobado (búsqueda de junio de 2026, cifras de blogs del sector, no de YouTube):**
+- Los primeros 30 segundos son la mayor palanca de retención en formato largo; se pierde entre un 20 % y un 40 % del
+  público ahí. [vidIQ](https://vidiq.com/blog/post/increase-audience-retention-youtube/) y
+  [1of10](https://1of10.com/blog/how-to-hook-viewers-in-the-first-30-seconds-of-a-youtube-video).
+- Las presentaciones y los logos al principio son disparadores de abandono (mismas fuentes).
+- Un gancho debe entregar su promesa en 10-15 segundos de voz
+  ([Creatorr](https://creatorr.pages.dev/blog/youtube-retention-hook-framework)); los bucles de curiosidad abiertos en
+  los primeros 30 segundos son la recomendación más repetida
+  ([Outlier](https://outlierkit.com/resources/youtube-hooks-and-retention/)).
+- Para misterio, no reveles el desenlace al principio: muestra la escala del problema y deja la respuesta para el giro
+  ([Creator Essentials, cold open](https://www.creatoressentials.com/glossary/cold-open/)). Los documentales usan cinco
+  tipos de apertura: espectáculo, contradicción, lo que está en juego, misterio y personaje
+  ([Tubescript](https://tubescript.cc/transcript/yOpCE9hvLLE)). Este estilo usa misterio con contradicción (la regla
+  que se contradice) y lo que está en juego (el archivo era sobre ti).
+
+**Cuidado con las cifras**: las fuentes no son de YouTube ni tienen muestras publicadas. Úsalas como guía de ritmo, no
+como objetivo medido. La prueba real es la curva de retención del primer minuto en Studio, un vídeo cada vez.
+
 ## 2. Las reglas por dentro
 
 - **La orden, en una frase** y en imperativo: «No enciendas la luz.» «Si te llama, ve.» «A las cinco, llena el
@@ -65,6 +118,9 @@ repartir el `Video.tsx` en bloques (`S1.tsx`…`S7.tsx`, ver `LEEME.md`) y para 
 - **Segunda persona, presente.** «Te despiertas.» «Tu gato ve.» Nunca «uno se despierta» ni pasado (salvo el cierre,
   que cuenta lo que le pasó al empleado).
 - **Números con letra** («dos mil veinte», «seis veces», «cincuenta y cinco gatos»), para que la voz los lea bien.
+- **Final de palabra.** En los primeros vídeos la voz se comió algunas consonantes finales (-s, -d, -r, -n). Antes de dar el
+  guion por bueno, pasa el subagente de pronunciación (`estilos/archivo/REVISION-PRONUNCIACION.md`). Evita palabras
+  que terminen en grupo consonántico seguido de punto y pausa corta cuando puedas cambiarlas sin perder sentido.
 - **Un dato real comprobado por regla o cada dos reglas**, con la fuente apuntada en `fuentes.md` (dos fuentes por
   dato). El dato es lo que hace que el miedo cuele. En un largo eso son de cuatro a siete datos: búscalos **antes**
   de escribir. Si no tienes dato, no tienes regla.
