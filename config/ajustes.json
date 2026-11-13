@@ -1,0 +1,8 @@
+{
+ "canal": "TU CANAL",
+ "motor_voz": "omnivoice",
+ "omnivoice": {
+  "ref_audio": "voces/narrador-archivo.wav",
+  "ref_texto": "Te despiertas sin saber por qué. La casa está en silencio. Y a los pies de tu cama… hay dos puntos amarillos."
+ }
+}
