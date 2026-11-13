@@ -72,6 +72,18 @@ vídeo; un vídeo de 8 minutos, alrededor de una hora). El mp4 y su .txt quedan 
 Adjunta el mp4 en el hilo con el título, la descripción y **el comentario para fijar**: la pregunta del CTA final,
 tal cual, para que el usuario la publique como primer comentario y la fije.
 
+## 4b. Cuatro shorts del vídeo largo
+
+Solo después de `fabrica render <id>`, cuando el usuario aprueba el vídeo largo:
+1. `fabrica shorts-candidatos <id>`: propone 4 momentos según la voz con tiempos (y deja `src/videos/<id>/shorts.json`).
+2. Elige los cuatro que mejor enganchen y rellena en `shorts.json`, para cada uno: `titulo`, `gancho` (frase de
+   gancho que sale arriba los primeros 4,5 s; máx. ~70 letras), `descripcion` breve y `desde` (segundo de inicio;
+   puedes moverlo al de otra frase). `duracion` (40 s por defecto, de 25 a 55).
+3. `fabrica shorts <id>`: corta los clips del mp4 final (1080×1920, con subtítulos de la voz y el CTA «Vídeo largo
+   completo en el canal» al final). Salen en `Vídeos listos/<título>/shorts/` con su .txt.
+4. Mira un fotograma de cada uno si hay dudas de tamaño del gancho. No subas nada ni programes publicaciones.
+Los vídeos 018 a 021 ya renderizados no se tocan.
+
 ## 5. Guardar el trabajo
 
 La sesión de la nube se borra: al acabar cada paso grande, haz commit y push del vídeo (`src/videos/<id>/`,

@@ -18,6 +18,8 @@
                                             escribe los tiempos de cada sección y (con --provisional) sus archivos
     fabrica revisar <id> "<s1,s2,…>" [--carpeta X]   hoja de fotos de esos segundos (salida/revisar/X/hoja.jpg)
     fabrica render <id>                     el vídeo final, con la voz pegada y a volumen de YouTube, en «Vídeos listos»
+    fabrica shorts-candidatos <id>          propone 4 momentos con gancho (según la voz) y deja src/videos/<id>/shorts.json para rellenar
+    fabrica shorts <id>                     4 clips 9:16 del vídeo largo ya renderizado, con gancho, subtítulos y CTA, en «<título>/shorts»
     fabrica estado <paso> [--texto …]       cambia a mano el paso que ve el panel
     fabrica error "<título>" "<frase>"      deja un error en llano en el panel (con la frase para pegar en Claude)
     fabrica canal "<nombre>"                el nombre que sale en la cabecera del vídeo (ARCHIVO 001 // TU CANAL)
@@ -1004,6 +1006,167 @@ def cmd_revisar(args):
         fallo(f"No se han podido sacar las fotos de «{id_}» (mira el error de arriba).")
 
 
+# ---------------------------------------------------------------- shorts: cuatro clips verticales de un vídeo largo
+# Se hace desde el vídeo ya terminado (Vídeos listos/<título>.mp4) y sus tiempos de voz. No toca el largo ni los render previos.
+SHORTS_N = 4
+SHORTS_DURACION = (25.0, 55.0)  # segundos por clip (un Short admite hasta 60 s)
+SHORTS_FUENTE = "Arial"          # libass usa la del sistema si existe; si no, la de respaldo
+SHORTS_CTA = "Vídeo largo completo en el canal"
+PALABRAS_GANCHO = re.compile(r"\b(nadie|nunca|jamás|nada|solo|sólo|sola|sin|no|dos|tres|cuatro|cinco|mil|cien|cada|todos|todas|pero|tu|tú|te|tus)\b", re.IGNORECASE)
+
+
+def _puntuar_frase(texto):
+    """Puntos de gancho de una frase: pregunta, cifra, negación o frase corta y directa."""
+    n = len(texto.split())
+    s = 0
+    if texto.rstrip().endswith("?"):
+        s += 3
+    if "…" in texto or "..." in texto:
+        s += 1
+    if re.search(r"\d", texto):
+        s += 1
+    s += min(3, len(PALABRAS_GANCHO.findall(texto)))
+    if 6 <= n <= 16:
+        s += 2
+    elif n > 22:
+        s -= 2
+    return s
+
+
+def cmd_shorts_candidatos(args):
+    """Propone cuatro momentos con gancho (según la voz con tiempos) y deja src/videos/<id>/shorts.json para rellenar."""
+    id_ = id_valido(args[0] if args else "")
+    t = leer_tiempos(id_)
+    # no se escoge nada de los últimos 30 s (ahí está el final y el CTA del largo)
+    cand = [(_puntuar_frase(f["texto"]), f["ini"], f["texto"]) for f in t["frases"] if f["ini"] <= t["duracion"] - 30]
+    cand.sort(key=lambda c: (-c[0], c[1]))
+    elegidos = []
+    separacion = min(75.0, max(20.0, (t["duracion"] - 30) / SHORTS_N))  # en vídeos largos, 75 s entre momentos
+    for c in cand:
+        if all(abs(c[1] - e[1]) >= separacion for e in elegidos):
+            elegidos.append(c)
+        if len(elegidos) == SHORTS_N:
+            break
+    if len(elegidos) < SHORTS_N:
+        fallo(f"Solo encuentro {len(elegidos)} momentos separados en «{id_}». Hace falta un vídeo más largo o escribir los cortos a mano.")
+    elegidos.sort(key=lambda c: c[1])
+    f = VIDEOS / id_ / "shorts.json"
+    if not f.exists():
+        borrador = {"cortos": [{"n": i, "desde": round(ini, 2), "duracion": 40, "titulo": "", "gancho": "", "descripcion": "",
+                                "referencia": texto} for i, (_, ini, texto) in enumerate(elegidos, 1)]}
+        f.write_text(json.dumps(borrador, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        print(f"✓ Borrador: src/videos/{id_}/shorts.json (rellena título, gancho y descripción de cada corto)")
+    print("Momentos propuestos (segundo, puntos, frase de referencia):")
+    for i, (puntos, ini, texto) in enumerate(elegidos, 1):
+        print(f"  {i}. {ini:7.2f} s  ({puntos} pts)  {texto}")
+
+
+def leer_shorts(id_):
+    f = VIDEOS / id_ / "shorts.json"
+    if not f.exists():
+        fallo(f"Falta src/videos/{id_}/shorts.json. Ejecuta antes  fabrica shorts-candidatos {id_}  y escribe los cuatro ganchos.")
+    cortos = json.loads(f.read_text(encoding="utf-8")).get("cortos", [])
+    if len(cortos) != SHORTS_N:
+        fallo(f"shorts.json tiene {len(cortos)} cortos y deben ser {SHORTS_N}.")
+    for i, c in enumerate(cortos, 1):
+        for campo in ("titulo", "gancho", "descripcion"):
+            if not str(c.get(campo, "")).strip():
+                fallo(f"Al corto {i} le falta «{campo}» en src/videos/{id_}/shorts.json.")
+        if not isinstance(c.get("desde"), (int, float)):
+            fallo(f"Al corto {i} le falta «desde» (segundo de inicio) en src/videos/{id_}/shorts.json.")
+        if len(c["gancho"]) > 70:
+            print(f"  aviso: el gancho del corto {i} tiene {len(c['gancho'])} letras; en 9:16 se corta bien hasta unas 70.")
+    return cortos
+
+
+def _ventana(frases, ini, dur, total):
+    """Inicio y fin del clip: empieza 1 s antes del momento y termina al final de una frase cercana a `dur`."""
+    objetivo = ini + dur
+    fines = [f["fin"] for f in frases if ini + SHORTS_DURACION[0] <= f["fin"] <= ini + SHORTS_DURACION[1]]
+    fin = min(fines, key=lambda x: abs(x - objetivo)) if fines else objetivo
+    return max(0.0, ini - 1.0), min(fin + 0.6, total)
+
+
+def _ts_ass(s):
+    s = max(0.0, s)
+    return f"{int(s // 3600)}:{int(s % 3600 // 60):02d}:{s % 60:05.2f}"
+
+
+def _ass_texto(s):
+    return s.replace("\\", "").replace("{", "(").replace("}", ")").strip()
+
+
+def _ass_corto(gancho, palabras, t0, t1, cta):
+    """Subtítulos del clip (libass): el gancho arriba los primeros 4,5 s, subtítulos abajo y el CTA arriba al final."""
+    dur = t1 - t0
+    cabecera = [
+        "[Script Info]", "ScriptType: v4.00+", "PlayResX: 1080", "PlayResY: 1920", "WrapStyle: 0", "ScaledBorderAndShadow: yes", "",
+        "[V4+ Styles]",
+        "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding",
+        f"Style: Gancho,{SHORTS_FUENTE},84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,8,70,70,190,1",
+        f"Style: Cta,{SHORTS_FUENTE},50,&H0000D7FF,&H0000D7FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,5,2,8,70,70,190,1",
+        f"Style: Subtitulo,{SHORTS_FUENTE},72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,6,1,2,60,60,330,1",
+        "", "[Events]",
+        "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text",
+    ]
+    eventos = []
+    if gancho:
+        eventos.append(f"Dialogue: 0,{_ts_ass(0)},{_ts_ass(min(4.5, dur))},Gancho,,0,0,0,,{{\\fad(150,300)}}{_ass_texto(gancho)}")
+    if cta and dur > 12:
+        eventos.append(f"Dialogue: 0,{_ts_ass(dur - 5.5)},{_ts_ass(dur)},Cta,,0,0,0,,{_ass_texto(cta)}")
+    grupos, actual = [], []
+    for p in palabras:
+        if actual and (p["ini"] - actual[-1]["fin"] > 0.6 or len(actual) >= 4):
+            grupos.append(actual)
+            actual = []
+        actual.append(p)
+    if actual:
+        grupos.append(actual)
+    for k, g in enumerate(grupos):
+        ini = g[0]["ini"] - t0
+        fin = g[-1]["fin"] - t0 + 0.1
+        if k + 1 < len(grupos):
+            fin = min(fin, grupos[k + 1][0]["ini"] - t0)
+        eventos.append(f"Dialogue: 0,{_ts_ass(ini)},{_ts_ass(fin)},Subtitulo,,0,0,0,,{_ass_texto(' '.join(p['p'] for p in g))}")
+    return "\n".join(cabecera + eventos) + "\n"
+
+
+def cmd_shorts(args):
+    """Cuatro clips 9:16 (1080×1920) del vídeo largo ya terminado, con gancho arriba, subtítulos y CTA."""
+    id_ = id_valido(args[0] if args else "")
+    t = leer_tiempos(id_)
+    cortos = leer_shorts(id_)
+    titulo_largo, _ = leer_subir(id_)
+    fuente = LISTOS / f"{nombre_de_archivo(titulo_largo)}.mp4"
+    if not fuente.exists():
+        fallo(f"No encuentro el vídeo largo terminado ({fuente.name}). Ejecuta antes  fabrica render {id_}.")
+    trabajo = SALIDA / id_ / "shorts"
+    trabajo.mkdir(parents=True, exist_ok=True)
+    destino = LISTOS / nombre_de_archivo(titulo_largo) / "shorts"
+    destino.mkdir(parents=True, exist_ok=True)
+    for n, c in enumerate(cortos, 1):
+        t0, t1 = _ventana(t["frases"], float(c["desde"]), float(c.get("duracion", 40)), float(t["duracion"]))
+        if not (SHORTS_DURACION[0] <= t1 - t0 <= 60):
+            fallo(f"El corto {n} dura {t1 - t0:.0f} s; debe durar entre {SHORTS_DURACION[0]:.0f} y 60 s. Cambia su «desde» o «duracion» en shorts.json.")
+        palabras = [p for p in t["palabras"] if p["ini"] >= t0 and p["fin"] <= t1 + 0.2]
+        nombre = f"corto-{n}"
+        (trabajo / f"{nombre}.ass").write_text(_ass_corto(c["gancho"].strip(), palabras, t0, t1, SHORTS_CTA), encoding="utf-8")
+        filtro = ("[0:v]split=2[fondo][texto];"
+                  "[fondo]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=25:3,eq=brightness=-0.15:saturation=0.8[bg];"
+                  "[texto]scale=1080:-2[fg];"
+                  f"[bg][fg]overlay=(W-w)/2:(H-h)/2,ass={nombre}.ass[v]")
+        mp4 = trabajo / f"{nombre}.mp4"
+        subprocess.run([ffmpeg(), "-v", "error", "-y", "-ss", f"{t0:.3f}", "-i", str(fuente), "-t", f"{t1 - t0:.3f}",
+                        "-filter_complex", filtro, "-map", "[v]", "-map", "0:a?", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+                        "-pix_fmt", "yuv420p", "-r", "30", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", str(mp4)],
+                       check=True, cwd=trabajo)
+        (trabajo / f"{nombre}.txt").write_text(f"{c['titulo'].strip()}\n\n{c['descripcion'].strip()}\n\n{SHORTS_CTA}: {titulo_largo}\n", encoding="utf-8")
+        shutil.copy2(mp4, destino / f"{n:02d} {nombre_de_archivo(c['titulo'])}.mp4")
+        shutil.copy2(trabajo / f"{nombre}.txt", destino / f"{n:02d} {nombre_de_archivo(c['titulo'])}.txt")
+        print(f"✓ Corto {n}: {destino.name}/{n:02d} {nombre_de_archivo(c['titulo'])}.mp4 ({t1 - t0:.0f} s)")
+    print(f"✓ {len(cortos)} shorts en «{destino}»")
+
+
 # ---------------------------------------------------------------- estado, error, canal, claves
 def cmd_estado(args):
     paso = args[0] if args else ""
@@ -1083,6 +1246,8 @@ ORDENES = {
     "transcribir": cmd_transcribir,
     "fotos": cmd_fotos,
     "render": cmd_render,
+    "shorts-candidatos": cmd_shorts_candidatos,
+    "shorts": cmd_shorts,
     "planos": cmd_planos,
     "revisar": cmd_revisar,
     "estado": cmd_estado,
