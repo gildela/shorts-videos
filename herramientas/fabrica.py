@@ -8,6 +8,8 @@
     fabrica nuevo <id> --estilo E --idea N [--formato largo|corto]   crea el vídeo (src/videos/<id>/) desde la plantilla del estilo
     fabrica guion <id>                      valida el guion (src/videos/<id>/guion.md) y lo publica en el panel
     fabrica voz <id> [--voz ID] [--modelo M] la voz automática con ElevenLabs (palabras con su segundo, sin Whisper)
+    fabrica voz <id> --motor omnivoice [--ref audio.wav --ref-texto "…" | --instruct "male, low pitch"]
+                                            la voz con OmniVoice (gratis, en esta máquina) + Whisper para los tiempos
     fabrica voz-id [<id>]                   la voz de ElevenLabs por defecto
     fabrica voz-manual <id>                 coge el audio que el usuario dejó en «Pon aquí tu voz»
     fabrica transcribir <id>                cada palabra con su segundo (para anclar los planos a la voz)
@@ -463,6 +465,11 @@ def cmd_voz(args):
 
     id_ = id_valido(args[0] if args else "")
     parrafos, _, guion, _ = leer_guion(id_)
+    motor = (opcion(args, "--motor") or ajustes().get("motor_voz") or "elevenlabs").lower()
+    if motor == "omnivoice":
+        return _voz_omnivoice(id_, parrafos, args)
+    if motor != "elevenlabs":
+        fallo(f"No conozco el motor de voz «{motor}». Usa --motor elevenlabs o --motor omnivoice.")
     c = leer_claves()
     if not c.get("ELEVENLABS_API_KEY"):
         fallo("Falta la clave de ElevenLabs: ponla como variable ELEVENLABS_API_KEY en el entorno de la nube (o en config/claves.env).", titulo="Falta la clave de ElevenLabs", frase="Pon la clave de ElevenLabs en el entorno y vuelve a pedir la voz.")
@@ -493,6 +500,35 @@ def cmd_voz(args):
     guardar_tiempos(id_, palabras, total)
     print(f"✓ Voz lista: public/videos/{id_}/voz.mp3 ({total:.1f} s, {len(palabras)} palabras con su segundo)")
     print(f"  Transcripción: src/videos/{id_}/transcripcion.txt · Siguiente: escribe las escenas y ejecuta  fabrica fotos {id_}")
+
+
+def _voz_omnivoice(id_, parrafos, args):
+    """OmniVoice (gratis, en esta máquina): la voz bloque a bloque y luego Whisper para el segundo de cada palabra."""
+    import voz_omnivoice as om
+
+    conf = ajustes().get("omnivoice") or {}
+    ref = opcion(args, "--ref") or conf.get("ref_audio")
+    ref_texto = opcion(args, "--ref-texto") or conf.get("ref_texto")
+    instruct = opcion(args, "--instruct") or conf.get("instruct")
+    if ref and not Path(ref).is_absolute():
+        ref = str(RAIZ / ref)
+    (PUBLICO / id_).mkdir(parents=True, exist_ok=True)
+    original = PUBLICO / id_ / "voz_original.mp3"
+    n = len(om.bloques(parrafos))
+    inicio = time.time()
+    estado.poner(paso="voz_recibida", trabajando=True, progreso={"texto": "Generando la voz (OmniVoice)", "hecho": 0, "total": n, "inicio": inicio, "estimado": 30 * n})
+    print(f"Generando la voz con OmniVoice ({n} bloques, " + (f"copiando {Path(ref).name}" if ref else f"diseñada: {instruct}") + ")…", flush=True)
+
+    def aviso(i, total, texto):
+        print(f"  · Bloque {i + 1} de {total} ({len(texto.split())} palabras) · {time.time() - inicio:.0f} s", flush=True)
+        estado.poner(progreso={"texto": f"Generando la voz · bloque {i + 1} de {total}", "hecho": i, "total": total, "inicio": inicio, "estimado": 30 * total})
+
+    try:
+        total = om.generar(parrafos, original, ref_audio=ref, ref_texto=ref_texto, instruct=None if ref else instruct, aviso=aviso)
+    except om.ErrorVoz as e:
+        fallo(str(e), titulo="OmniVoice no ha podido hacer la voz", frase=f"Ha fallado fabrica voz {id_} --motor omnivoice: {str(e)[:120]}")
+    print(f"✓ Voz generada ({total:.1f} s en {time.time() - inicio:.0f} s). Ahora, el segundo de cada palabra (Whisper)…", flush=True)
+    _preparar_voz(id_, original, original.name)
 
 
 def guardar_tiempos(id_, palabras, total):
@@ -635,7 +671,24 @@ def cmd_transcribir(args):
     if faltan:
         print("  ⚠ Parece que la voz NO dice estas frases del guion:\n    - " + "\n    - ".join(faltan[:5]))
     print(f"  Transcripción: src/videos/{id_}/transcripcion.txt · Tiempos: public/videos/{id_}/voz.tiempos.json")
+    _revisar_pronunciacion(id_, guion, oidas, parrafos)
     print(f"  Siguiente: escribe src/videos/{id_}/Video.tsx y escenas.json, y ejecuta  fabrica fotos {id_}")
+
+
+def _revisar_pronunciacion(id_, guion, oidas, parrafos):
+    """Compara lo que se oye con el guion: finales comidos, palabras sin oír. Guarda public/videos/<id>/revision-voz.json."""
+    import pronunciacion
+    import voz as voz_mod
+
+    oido = [{"w": w, "ini": ini, "fin": fin} for w, ini, fin in oidas]
+    cuentas = [len(t.split()) for t, _ in voz_mod.bloques(parrafos)]
+    informe = pronunciacion.revisar(guion, oido, cuentas)
+    (PUBLICO / id_ / "revision-voz.json").write_text(json.dumps(informe, ensure_ascii=False, indent=1), encoding="utf-8")
+    print("  Pronunciación: " + informe["resumen"])
+    for p in informe["problemas"][:12]:
+        print(f"    · {p['seg']:7.2f} s «{p['guion']}» → {p['tipo']} ({p['gravedad']})")
+    if len(informe["problemas"]) > 12:
+        print(f"    … y {len(informe['problemas']) - 12} más en public/videos/{id_}/revision-voz.json")
 
 
 def insertar_pausas(entrada, salida, parrafos, palabras, total):

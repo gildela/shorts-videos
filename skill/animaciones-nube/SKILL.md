@@ -42,6 +42,13 @@ exacto) y devuelve el segundo de cada palabra, así que **no hace falta transcri
 - Gasta créditos de ElevenLabs: **no repitas la orden** salvo que el usuario pida otra voz o cambie el guion.
 - Copia `voz.mp3` a `/mnt/project-files/videos/<id>/` y adjúntala en el hilo para que la escuche.
 
+**Con OmniVoice (gratis, sin créditos):** `fabrica voz <id> --motor omnivoice`. La voz sale de
+`config/ajustes.json` → `"omnivoice": {"ref_audio": "voces/<nombre>.wav", "ref_texto": "lo que dice"}` (copiar una
+voz de 3-10 s en español) o `{"instruct": "male, low pitch, middle-aged"}` (diseñada; el acento solo se controla en
+inglés y chino, así que para castellano mejor copiar). Para que sea siempre la de por defecto: `"motor_voz": "omnivoice"`.
+Después pasa Whisper solo (`fabrica transcribir`) para el segundo de cada palabra. Antes: `./preparar-nube.sh omnivoice`. Necesita `huggingface.co`,
+`*.hf.co` y `download.pytorch.org` en los dominios permitidos y, sin tarjeta gráfica, va con el procesador (más lento).
+
 ## 3. Las escenas
 
 1. Lee `src/videos/<id>/transcripcion.txt` y `estilos/archivo/LEEME.md` entero.
